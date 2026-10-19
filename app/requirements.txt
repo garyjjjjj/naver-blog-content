@@ -1,0 +1,5 @@
+playwright==1.64.0
+PyYAML==6.0.3
+markdown-it-py==4.2.0
+requests==2.34.2
+Pillow==13.0.0

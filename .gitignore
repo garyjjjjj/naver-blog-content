@@ -1,0 +1,12 @@
+.venv/
+.build/
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.spec
+*.dpapi
+*.sqlite*
+*.log*
+.env
+.env.*

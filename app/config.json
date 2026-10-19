@@ -1,0 +1,28 @@
+{
+  "repository": "garyjjjjj/naver-blog-content",
+  "branch": "main",
+  "blog_id": "3700708",
+  "poll_seconds": 120,
+  "settle_seconds": 90,
+  "enabled": false,
+  "headless": true,
+  "dashboard_port": 8765,
+  "max_posts_per_cycle": 1,
+  "categories": {"AI 뉴스": 15, "새로 나온 테크": 16, "뮤즈 AI": 14},
+  "writers": {
+    "muse-01": {
+      "name": "Rumi",
+      "content_prefix": "posts/muse-01/",
+      "blog_id": "3700708",
+      "category_id": 15,
+      "category_name": "AI 뉴스"
+    },
+    "muse-02": {
+      "name": "돈벌이용",
+      "content_prefix": "posts/muse-02/",
+      "blog_id": "3700708",
+      "category_id": 16,
+      "category_name": "새로 나온 테크"
+    }
+  }
+}
