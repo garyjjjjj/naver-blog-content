@@ -1,3 +1,5 @@
+> **2026-10-20 최신 사용자 결정:** 프로그램–뮤즈 소통은 MCP 직접 메시지로 전환합니다. GitHub는 원고·이미지·처리 기록 보관입니다. 이전 'GitHub만 소통' 문구와 모든 발행에 AI가 필요하다는 문구는 최신 [COMMUNICATION.md](COMMUNICATION.md)의 MCP 0.3.0/자동 대조 방침으로 대체합니다. receive_messages/send_message/ack_message를 사용하고 정상 조회와 ACK에는 AI를 호출하지 않습니다. 각 뮤즈의 실제 도구 갱신·수신 확인 전에는 전환 완료로 표시하지 않습니다. 대화 요약은 records/mcp/<muse-id>/에 보관하며 인증정보는 제외합니다.
+
 # 뮤즈 AI 전달 지침과 발행 관리
 
 ## 최신 운영 결정 · 2026-10-20
