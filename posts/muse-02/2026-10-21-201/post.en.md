@@ -2,7 +2,7 @@
 post_id: "2026-10-21-201"
 muse_account: "muse-02"
 language: "en"
-content_revision: 1
+content_revision: 2
 status: "ready"
 title: "Apple gave up on it — someone built it desk-sized: a wireless charging desk whose coil comes to you"
 blog_url: "https://blog.naver.com/3700708"
@@ -26,51 +26,51 @@ result:
 <!-- 본문 시작 -->
 Apple gave up on it — someone built it desk-sized: a wireless charging desk whose coil comes to you
 
-Wireless chargers stop working if your phone is even slightly off position. Apple's "AirPower," announced in 2017 and cancelled in 2019, was meant to solve exactly that. Today's desk takes that idea and builds it at desk scale, as a DIY project. This introduction is based on published materials.
+Set a phone down on a wireless charger a fraction off-center and nothing happens — that finicky alignment is the technology's oldest annoyance. AirPower, the charging mat Apple unveiled in 2017 and scrapped in 2019, was supposed to fix it once and for all. The desk in this story takes that same ambition and stretches it across an entire desktop, as a do-it-yourself build. This piece is a summary based on published materials.
 
-![No need to find the exact center of a charging pad — the whole desk becomes the charging zone (illustration)](images/01-hero.jpg)
+![Forget hunting for the sweet spot on a charging pad — the desktop itself is the charging area (illustration)](images/01-hero.jpg)
 
-## What is this desk?
+## So what exactly is this desk?
 
-The project is called "AirDesk." He Shijie of the YouTube channel HTX Studio waited nine years for something like it, then built it himself. The principle is simple. Put a device anywhere on the desk, a camera above the desktop spots its position, and a single wireless charging coil under the surface moves itself to that spot. Drop your phone anywhere on the desk and the coil follows it and starts charging. A cat animation that chases the coil is shown on the desktop to signal the charging state.
+It goes by the name AirDesk. Its creator is He Shijie, who runs the YouTube channel HTX Studio, and who says he spent nine years waiting for a product like this before deciding to make one himself. The mechanism is refreshingly straightforward. Lay a gadget on the surface and a camera mounted over the desktop works out where it landed; underneath, a lone wireless charging coil then travels to that exact position on its own. In other words, set your phone down anywhere and the coil seeks it out and charging begins. A little animated cat that follows the coil around is displayed on the desktop so you can see the charging status at a glance.
 
-> One line
+> The short version
 >
-> ### **Finding the charging spot is not your job — the coil moves on its own.**
+> ### **You shouldn't have to find the charging spot — the coil should do the moving.**
 
-## Why it's fun
+## What makes it fun
 
-**First, it charges wherever you put things down.** A normal wireless charger only starts when the phone sits dead-center on the pad. With AirDesk, the whole desk is the charging zone. Fixed coils in the corners charge several devices at once, and even a keyboard can be charged wirelessly, according to the maker.
+**One: placement stops mattering.** A conventional pad only delivers power when the phone sits squarely in the middle. AirDesk turns the full surface into charging territory. Fixed coils tucked into the corners handle several devices simultaneously, and the maker explains that even a keyboard can top up wirelessly this way.
 
-**Second, the desk does work.** A transparent LCD in the desktop shows a to-do list and animations. Sit too long and it reminds you to stand up and move. The legs are motorized, so one button turns it into a standing desk. A Mac mini is built in under the desktop, turning the whole desk into a workstation, the maker says.
+**Two: the desk pulls its own weight.** A transparent LCD set into the surface presents your to-do list along with animations, and if you have been seated for too long it pops up a nudge telling you to get up and stretch. Motorized legs convert it into a standing desk at the press of a button, and with a Mac mini installed beneath the top, the maker has used the desk itself as a complete workstation.
 
-![When the desktop is a screen, the desk itself shows your to-do list and charging status (illustration)](images/02-screen.jpg)
+![Once the desktop doubles as a display, the desk can show your tasks and its charging status all by itself (illustration)](images/02-screen.jpg)
 
-**Third, it pushes your cup toward you so you drink water.** This is the desk's oddest feature. Every hour, a small mechanism slides your cup closer to remind you to stay hydrated.
+**Three: it nudges your cup closer so you remember to drink.** Easily the strangest trick this desk performs. Once an hour, a small device gives your cup a gentle push in your direction as a prompt to take in some water.
 
-![Every hour the cup slides closer — the machine does the reminding for you (illustration)](images/03-cup.jpg)
+![Hourly, your cup creeps a little nearer — a machine quietly doing the nagging for you (illustration)](images/03-cup.jpg)
 
-## The catch
+## The downsides
 
-You can't buy it, even if you want to. It's a one-off DIY build with no sales plan. It took more than two months to make, so copying it wouldn't be easy either. The charging output in watts and the positioning accuracy haven't been confirmed in the published materials. And a camera that always watches the desktop could bother anyone who cares about privacy.
+Wanting one won't help you: there is exactly one of these in the world, it was built as a personal DIY project, and there are no plans to sell it. Construction alone took over two months, so building a copy is hardly a weekend job either. Two practical questions remain unanswered in the available materials — how many watts the charging delivers, and how accurate the position detection actually is. There is also the matter of a camera constantly watching everything on your desk, which may well be a dealbreaker for the privacy-conscious.
 
-## Price and availability
+## Price and getting one in Korea
 
 | Item | Detail |
 | --- | --- |
-| Project | AirDesk |
-| Maker | He Shijie (YouTube channel HTX Studio) |
-| Core method | Camera above the desktop spots position + a moving charging coil |
-| Extra features | Transparent LCD to-do display, motorized standing legs, hourly cup push |
+| Project name | AirDesk |
+| Creator | He Shijie (YouTube channel HTX Studio) |
+| How it works | Camera over the desktop detects position + a charging coil that moves to it |
+| Other features | Transparent LCD to-do display, motorized standing height, pushes your cup every hour |
 | Charging output | Not confirmed |
-| Price | Not for sale (DIY project) |
+| Price | Not sold (DIY project) |
 | Availability in Korea | Not confirmed |
 
-## Editor's take
+## Our verdict
 
-Don't judge this desk by "is it worth buying" — you can't buy it. What's impressive is the head-on approach to the annoyance of wireless charging. If you just want fewer cables, a multi-coil charging pad is the realistic alternative. For makers, the idea itself — "the coil moves" — is worth borrowing as a project concept. It's a good example of technology aimed at a small everyday inconvenience.
+Asking whether AirDesk is "worth buying" misses the point, because buying one is impossible. What deserves attention is how directly it confronts the everyday irritation of wireless charging. If all you want is a desk with fewer cables, a multi-coil charging pad you can buy today is the sensible stand-in. If you are a maker, though, the core idea — let the coil do the travelling — is a project concept worth stealing. File this one away as an example of technology aimed squarely at a small, familiar frustration.
 
-Sources: Yanko Design (September 27, 2026), HTX Studio build video (YouTube). This is a materials-based introduction, not a hands-on review.
+Sources: Yanko Design (September 27, 2026) and the HTX Studio build video (YouTube). This is an introduction based on published materials, not a hands-on account.
 Related posts:
 https://blog.naver.com/3700708/224447910718
 https://blog.naver.com/3700708/224447909708
@@ -78,11 +78,11 @@ https://blog.naver.com/3700708/224447909708
 
 ## Working notes (excluded from upload)
 
-- Sources: Yanko Design / HTX Studio build video / verified 2026-10-18 (manuscript prepared), packaged 2026-10-21, English edition prepared 2026-10-21 under the user's "always publish the English edition too" instruction
+- Sources: Yanko Design / HTX Studio build video / verified 2026-10-18 (Korean manuscript prepared), packaged 2026-10-21
 - 3 images (AI-generated illustrations, self-made, usage rights: own), same files as the Korean edition:
-  - images/01-hero.jpg / No need to find the exact center of a charging pad — the whole desk becomes the charging zone (illustration)
-  - images/02-screen.jpg / When the desktop is a screen, the desk itself shows your to-do list and charging status (illustration)
-  - images/03-cup.jpg / Every hour the cup slides closer — the machine does the reminding for you (illustration)
-- Fact check: charging output and positioning accuracy not confirmed. No sales plan (one-off DIY build).
-- Target: English WordPress/Blogger (multi-channel program). English edition content_revision: 1 — confirm against check_distribution before first submit.
+  - images/01-hero.jpg / Forget hunting for the sweet spot on a charging pad — the desktop itself is the charging area (illustration)
+  - images/02-screen.jpg / Once the desktop doubles as a display, the desk can show your tasks and its charging status all by itself (illustration)
+  - images/03-cup.jpg / Hourly, your cup creeps a little nearer (illustration)
+- Fact check: charging wattage and position-detection accuracy are not confirmed in the published materials. No sales plans (one-off DIY build).
+- Target: English WordPress/Blogger (multi-channel program). English edition content_revision: 2 — rewritten for the 2026-10-21 Naver refresh batch with new wording; confirm against check_distribution before submitting.
 - Additional requests: none
