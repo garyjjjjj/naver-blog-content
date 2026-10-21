@@ -2,7 +2,7 @@
 post_id: "2026-10-21-202"
 muse_account: "muse-02"
 language: "en"
-content_revision: 1
+content_revision: 2
 status: "ready"
 title: "A robot dog that jumps on your palm — the wire-free, open-source Q8botOne"
 blog_url: "https://blog.naver.com/3700708"
@@ -26,51 +26,52 @@ result:
 <!-- 본문 시작 -->
 A robot dog that jumps on your palm — the wire-free, open-source Q8botOne
 
-When you hear "robot dog," you probably picture a knee-high machine. This one is only 12 cm long — small enough to walk between a coffee cup and a laptop on your desk. But small doesn't mean toy. This introduction is based on published materials.
+Mention a robot dog and most people imagine something bulky, about as tall as your knee. Q8botOne measures just 12 cm from nose to tail — it could trot across the gap between your mug and your laptop. Don't let the size fool you into calling it a toy, though. What follows is a roundup drawn from published sources.
 
-![12 cm long, 250 g — four legs on a body the size of a smartphone (illustration)](images/01-hero.jpg)
+![Only 12 cm long and 250 g — four legs attached to a body roughly the size of a smartphone (illustration)](images/01-hero.jpg)
 
-## No wires. That's the point.
+## The whole idea: no wires at all
 
-Q8botOne is a quadruped robot built by ZeroWire Robotics in the US. Building a robot usually means routing a messy bundle of wires to every motor, but here the circuit board (PCB) itself is the chassis. Eight motors and two batteries plug straight into the board, so there's no wire bundle inside. The "ZeroWire" in the name means exactly that.
+Q8botOne is a four-legged robot from the American company ZeroWire Robotics. Anyone who has built a robot knows the usual headache: running a separate cable to every motor leaves the inside a tangled mess. This design sidesteps that entirely by making the printed circuit board (PCB) double as the frame. Its eight motors and two batteries connect directly to the board, so there is no bundle of wiring tucked inside — which is precisely what the "ZeroWire" name is getting at.
 
-> One line
+> The short version
 >
-> ### **The board is the body, with no wires — a robot built to be opened up and fixed.**
+> ### **The circuit board is the skeleton, and the wires are gone — a robot designed from the start to be taken apart and repaired.**
 
-## Three fun things about it
+## Three things that make it interesting
 
-First, it doesn't move like a tiny toy. According to the developer, it walks and jogs — and even jumps — and can carry up to twice its own 250 g body weight. The legs use a parallel-link structure, and you can experiment with different gait patterns in the firmware.
+To begin with, it moves far beyond its size. The developer says the robot can walk, break into a jog, and even leap, all while hauling a load of up to twice its own 250 g weight. Its legs are built around a parallel linkage, and the walking pattern itself lives in the firmware, ready for you to tweak and test.
 
-Second, the motors are smart. Each joint uses a DYNAMIXEL smart servo — eight in total — feeding back position and speed. Unlike cheap hobby servos, the robot knows where its legs are, so you can run gait-correction experiments.
+Next, the motors are anything but dumb. Every joint carries a DYNAMIXEL smart servo — eight across the whole robot — and each one reports its position and speed back to the controller. Cheap hobby servos can't do that, so unlike them, this robot always knows where its legs are, opening the door to experiments like correcting its own stride.
 
-Third, everything is open. The circuit design files, firmware, 3D models, and assembly instructions are all open source. The base model has no camera or sensors, but a Qwiic connector and a 5 V expansion port let you mount sensors, a camera — or even a small computer like a Raspberry Pi — on its back.
+And finally, nothing about it is locked away. The schematics, the firmware, the 3D model files, and the build guide have all been released as open source. The standard version ships without a camera or sensors, yet a Qwiic connector and an expansion port supplying 5 V power mean you can add sensors or a camera later — or perch a tiny computer such as a Raspberry Pi on its back.
 
-![Motors and batteries plug straight into the board — when something breaks, you check the board, not a wire bundle (illustration)](images/02-pcb.jpg)
+![The motors and batteries mount straight onto the board — so when something fails, the board is the first place you look, not a nest of cables (illustration)](images/02-pcb.jpg)
 
-## Key product facts
+## The essentials at a glance
 
 | Item | Detail |
 | --- | --- |
 | Product | Q8botOne |
 | Maker | ZeroWire Robotics (US) |
-| Size · weight | 120×70×70mm / 250g |
-| Hardware | ESP32-C3, 8× DYNAMIXEL smart servos, central PCB chassis |
-| Price | Kit $199 (actuators sold separately) / assembled $599 |
-| Availability | Crowd Supply campaign (funding through ~Nov 19, 2026) |
-| Shipping | From March 2027, listed with free worldwide shipping |
+| Dimensions · weight | 120×70×70mm / 250g |
+| Hardware | ESP32-C3, 8× DYNAMIXEL smart servos, central PCB body |
+| Price | Kit $199 (actuators not included) / fully assembled $599 |
+| Status | Crowdfunding on Crowd Supply (running until around November 19, 2026) |
+| Shipping | Planned for March 2027, listed as free worldwide delivery |
+| Buying from Korea | Direct import (Korean-language support not confirmed) |
 
-## The catch
+## Where it falls short
 
-The $199 kit looks cheap until you notice the eight actuators that drive the legs aren't included — you have to buy them separately, and they're the most expensive part. And you can't buy the assembled version right now either: it's a crowdfunding product, shipping in March 2027. Performance figures like jumping and load capacity are still manufacturer claims with no independent verification.
+That $199 kit price comes with a catch. The eight actuators that actually move the legs are sold separately, and in the end they account for most of what you will spend. The ready-built version isn't something you can order and receive right away, either — it is a crowdfunding reward, with delivery not expected until March 2027. As for headline abilities like the jumping and the payload figures, those remain the developer's own claims at this stage; nobody independent has verified them yet.
 
-![The joy of changing gaits in code — the experiment itself is this robot's real body (illustration)](images/03-jump.jpg)
+![Rewriting the gait in code is half the fun — the real product here is the experimenting itself (illustration)](images/03-jump.jpg)
 
-## Editor's take
+## Our verdict
 
-This isn't a companion robot — it's closer to a teaching kit. No face, no cuteness. Instead, everything is visible and open, ready to be modified. It's for people who want to know how a robot's walk is made, or makers who want hands-on practice with ESP32 and servo control. If you want a finished toy, check the assembled version's price and shipping schedule once more before deciding.
+Think of Q8botOne less as a robot pet and more as a hands-on learning platform. There is no face and no attempt at being cute. What you get instead is a machine whose insides are fully visible and open to modification. It suits anyone curious about how a walking robot's gait comes together, and makers who want practical experience with ESP32 boards and servo control. If what you are after is a finished toy, take another careful look at the assembled model's price tag and its March 2027 shipping date before committing.
 
-Sources: Crowd Supply official campaign page, Hackster and Yanko Design coverage (October 2026). Prices and schedule verified October 21, 2026; this is a materials-based introduction, not a hands-on review.
+Sources: the official Crowd Supply campaign page, plus coverage by Hackster and Yanko Design (October 2026). Pricing and dates checked on October 21, 2026. This is an introduction based on published materials, not a hands-on review.
 Related posts:
 https://blog.naver.com/3700708/224444408193
 https://blog.naver.com/3700708/224447910718
@@ -80,9 +81,9 @@ https://blog.naver.com/3700708/224447910718
 
 - Sources: Crowd Supply official campaign (https://www.crowdsupply.com/zerowire-robotics/q8botone) / Hackster (2026-10-08) / Yanko Design (2026-10-10) / CNX Software / verified 2026-10-21
 - 3 images (AI-generated illustrations, self-made, usage rights: own):
-  - images/01-hero.jpg / 12 cm long, 250 g — four legs on a body the size of a smartphone (illustration)
-  - images/02-pcb.jpg / Motors and batteries plug straight into the board (illustration)
-  - images/03-jump.jpg / The joy of changing gaits in code (illustration)
-- Fact check: performance figures (jump, 2× payload) are manufacturer claims, no independent verification. $199 kit excludes actuators. Shipping scheduled March 2027.
-- Target: English WordPress/Blogger (multi-channel program). English edition content_revision: 1 — confirm against check_distribution before first submit.
+  - images/01-hero.jpg / Only 12 cm long and 250 g — four legs attached to a body roughly the size of a smartphone (illustration)
+  - images/02-pcb.jpg / The motors and batteries mount straight onto the board (illustration)
+  - images/03-jump.jpg / Rewriting the gait in code is half the fun (illustration)
+- Fact check: performance figures (jumping, carrying 2× its weight) are developer claims with no independent verification. The $199 kit excludes the actuators. Shipping is scheduled for March 2027.
+- Target: English WordPress/Blogger (multi-channel program). English edition content_revision: 2 — rewritten for the 2026-10-21 Naver refresh batch with new wording; confirm against check_distribution before submitting.
 - Additional requests: none
