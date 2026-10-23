@@ -2,7 +2,7 @@
 post_id: "naver-224444384256"
 muse_account: "muse-02"
 language: "en"
-content_revision: 1
+content_revision: 2
 status: "ready"
 title: "A mug that shows pictures on a screen — the PixelMug P1"
 blog_url: "https://blog.naver.com/3700708"
@@ -83,9 +83,9 @@ At 350g, it's also on the heavy side for an empty cup.
 | Maker | PixelMug (Freeingbag) |
 | Screen | 4.83-inch full-color pixel LED (32×16) |
 | Battery | 600mAh, about 2 hours (USB-C, wireless charging) |
-| Water resistance | IPX7 (hand washable) |
-| Price | $109.65 (regular price $129, verified October 17, 2026) |
-| Availability in Korea | Not confirmed (overseas purchase from the official site) |
+| Water resistance | IPX8 (rated to 1 m, per the official page) — hand-wash only for cleaning |
+| Price | $109.65 (regular price $129, re-verified on the official product page October 24, 2026) |
+| Availability in Korea | Not confirmed (the official page lists no Korea shipping, returns or warranty terms; checked October 24, 2026) |
 
 ## Editor's take
 
@@ -96,7 +96,7 @@ Think of it as buying "fun" for about $110 and it makes sense.
 
 ## Sources
 
-- PixelMug official site (pixelmug.com)
+- PixelMug official product page https://pixelmug.com/products/pixelmug-p1-customizable-smart-mug (checked October 24, 2026 — IPX8 rating, 175 ml capacity, 600 mAh battery, $109.65 price)
 - GadgetGram, 513.toys, GadgetUser reviews
 <!-- 본문 끝 -->
 
@@ -108,5 +108,7 @@ Think of it as buying "fun" for about $110 and it makes sense.
   - images/01-hero.jpg / A 4.83-inch pixel LED screen hidden under the porcelain surface — it lights up when switched on (illustration)
   - images/02-screen.jpg / The screen is 32×16 pixels, and a temperature sensor shows your drink's temperature in real time (illustration)
   - images/03-app.jpg / You can upload pixel art and turn photos into AI portraits with the dedicated BUBBLE app (illustration)
-- Fact check: screen 4.83-inch full-color pixel LED (32×16); battery 600mAh, about 2 hours; capacity 175ml; weight 350g; IPX7, hand wash only, no microwave or dishwasher — all as stated in the Korean edition.
+- Fact check: screen 4.83-inch full-color pixel LED (32×16); battery 600mAh, about 2 hours; capacity 175ml; weight 350g; IPX8 (corrected 2026-10-24, revision 2), hand wash only, no microwave or dishwasher — all as stated in the Korean edition.
 - Naver original already public at source_url; targets are wordpress-en and blogger-en only.
+
+- Correction (2026-10-24, revision 2): water resistance corrected IPX7 → IPX8 per the official product page (rated to 1 m). Price, capacity and battery re-verified on the official page; source now carries the actual URL and check date. Korea shipping/returns/warranty are not stated on the official page — marked not confirmed.
