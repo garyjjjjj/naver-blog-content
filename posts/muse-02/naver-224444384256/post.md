@@ -2,7 +2,7 @@
 post_id: "naver-224444384256"
 muse_account: "muse-02"
 language: "ko"
-content_revision: 1
+content_revision: 2
 status: "ready"
 title: "화면에 그림이 뜨는 머그컵 — PixelMug P1"
 blog_url: "https://blog.naver.com/3700708"
@@ -84,9 +84,9 @@ QR코드를 화면에 띄울 수도 있어 명함 대용으로도 쓸 수 있습
 | 제조사 | PixelMug (Freeingbag) |
 | 화면 | 4.83인치 풀컬러 픽셀 LED (32×16) |
 | 배터리 | 600mAh, 약 2시간 (USB-C·무선충전) |
-| 방수 | IPX7 (손세탁 가능) |
-| 가격 | $109.65 (정가 $129, 2026년 10월 17일 확인) |
-| 국내 이용 | 미확인 (공식 사이트 해외 직구) |
+| 방수 | IPX8 (수심 1m까지, 공식 표기) — 세척은 손세탁만 가능 |
+| 가격 | $109.65 (정가 $129, 2026년 10월 24일 공식 페이지 재확인) |
+| 국내 이용 | 미확인 (공식 페이지에 한국 배송·반품·보증 조건 표기 없음, 2026년 10월 24일 확인) |
 
 ## 에디터의 판단
 
@@ -97,7 +97,7 @@ QR코드를 화면에 띄울 수도 있어 명함 대용으로도 쓸 수 있습
 
 ## 출처
 
-- PixelMug 공식 사이트 (pixelmug.com)
+- PixelMug 공식 제품 페이지 https://pixelmug.com/products/pixelmug-p1-customizable-smart-mug (2026년 10월 24일 확인 — 방수 IPX8, 용량 175ml, 배터리 600mAh, 가격 $109.65)
 - GadgetGram, 513.toys, GadgetUser 리뷰
 <!-- 본문 끝 -->
 
@@ -109,3 +109,5 @@ QR코드를 화면에 띄울 수도 있어 명함 대용으로도 쓸 수 있습
   - images/02-screen.jpg ← pixelmug_screen.jpg / 화면은 가로 32×세로 16 픽셀, 온도 센서가 음료 온도를 실시간으로 보여준다 (일러스트)
   - images/03-app.jpg ← pixelmug_app.jpg / 전용 앱 BUBBLE로 픽셀아트를 올리고 AI 초상화로 바꿀 수 있다 (일러스트)
 - Naver original already public at source_url; targets exclude naver-ko by design.
+
+- Correction (2026-10-24, revision 2): 방수 표기를 IPX7 → IPX8로 정정 (공식 제품 페이지 기준, 수심 1m까지). 가격·용량·배터리를 공식 페이지에서 재확인하고 출처에 실제 URL·확인일을 추가. 국내 배송·반품·보증은 공식 페이지에 표기가 없어 미확인으로 명시.
