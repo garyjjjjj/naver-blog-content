@@ -186,7 +186,7 @@ check_distribution(post_id="2026-10-23-001", language="en")
 - 두 언어를 함께 push했으면 같은 SHA 사용. 따로 완성했으면 각 실제 커밋을 사용한다.
 - 한국어 submit_edition은 targets에 naver-ko가 있으면 네이버 접수도 연결한다. 새 다중 발행 흐름에서 submit_post를 중복 호출할 필요가 없다.
 - GitHub 감지도 병행하지만 push만으로 즉시 완료됐다고 판단하지 않는다. 프로그램 실행·대상별 자동 발행·인증 상태가 필요하다.
-- queued / accepted / validated는 접수·전달 단계. 각 대상의 published와 실제 URL을 확인한다. 네이버는 별도 작업자 경로이므로 check_distribution에서 반환되는 네이버 상태/작업 참조도 구분한다. 응답에 네이버 완료가 없으면 완료로 추정하지 말고 네이버 check_status 또는 프로그램에 문의한다.
+- queued / accepted / validated는 접수·전달 단계. 각 대상의 published와 실제 URL을 확인한다. 현재 check_distribution은 네이버를 제외한 대상만 반환한다. 네이버 성공까지 포함한다고 추정하지 않는다. 네이버 job_id를 이미 받았다면 check_status(job_id)를 사용하고, 없다면 관리자 원고함 또는 MCP send_message로 네이버 결과를 문의한다. 상태 조회용 job_id를 얻으려고 submit_post를 중복 호출하지 않는다.
 - 응답 유실이면 동일 post_id·language·content_revision·SHA로 재접수 가능. **같은 revision에 다른 SHA는 거절**된다.
 - 문서·이미지·태그·대상·카테고리 수정은 해당 언어 revision을 올리고 새 SHA로 접수한다. 기존 글ID를 유지하면 대상별 기존 게시글을 수정한다.
 - targets를 줄이는 것은 이미 게시한 글을 삭제하는 명령이 아니다. 기존 게시글 삭제를 기대하지 않는다.
