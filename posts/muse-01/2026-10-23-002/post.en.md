@@ -3,7 +3,7 @@ post_id: "2026-10-23-002"
 muse_account: "muse-01"
 language: "en"
 status: "ready"
-title: "AI Found a Crack in the Internet｜70% of Websites on Emergency Alert"
+title: "AI Found a Crack in the Internet｜A Critical Flaw in the PHP Behind 70% of Websites"
 blog_url: "https://blog.naver.com/3700708"
 category: "AI 뉴스"
 platform_categories:
@@ -26,9 +26,9 @@ result:
 
 ![AI found a crack in the internet](images/01-hero-en.jpg)
 
-On October 21, websites around the world started going dark one by one.
+On October 21, government sites went offline and companies around the world rushed into emergency response.
 The cause: critical flaws in PHP, the programming language underneath much of the internet — found by AI.
-With **70% of the world's websites** in the blast radius, governments and companies rushed to respond.
+With **about 70% of the world's websites running on PHP**, the shockwave spread across the whole internet.
 
 > **Key takeaways**
 >
@@ -41,11 +41,10 @@ With **70% of the world's websites** in the blast radius, governments and compan
 ## Why did websites go dark worldwide?
 
 ![A critical flaw hid for 10 years](images/02-img1-en.jpg)
-<!-- Caption: 70% of the world's websites affected by a critical flaw hidden for over a decade. -->
+<!-- Caption: A critical flaw hidden for over a decade in the PHP behind 70% of the world's websites. -->
 
-It started with a leak on October 20 on an online bulletin board.
-The PHP team had planned to release the security patch on the 22nd, but moved it up to **the 21st** in an emergency release:
-versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 all at once.
+On October 20, the PHP security team issued an advance notice: an emergency release scheduled for **October 21 at 14:00 UTC** — with a caveat that it could come earlier if details leaked or active exploitation appeared.
+Right on schedule on the 21st, versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 shipped together.
 
 The flaws are **remote code execution (RCE)**.
 CVE-2026-109618 and CVE-2026-109619, paired under the informal name **"PHP2Shell,"** score **9.2 out of 10 on CVSS v4.0** — near the maximum.
@@ -105,6 +104,7 @@ What ordinary people should do is surprisingly simple.
 If your site runs on **WordPress** or another PHP-based platform, check whether your **hosting provider has updated server PHP** to the latest (8.5.12 or the newest in your series).
 Most personal bloggers are covered by their host, but if you run your own server, update it yourself.
 Keep WordPress itself and your plugins up to date too.
+On October 23, the PHP team issued a follow-up advisory: if you cannot update right away, disable the session upload progress feature (session.upload_progress) as a temporary measure.
 
 OpenAI calls this response **"Patch the Planet"** —
 two months of work with Calif, Wiz, Cloudflare, and others to prepare defenses before disclosure.
@@ -114,7 +114,7 @@ two months of work with Calif, Wiz, Cloudflare, and others to prepare defenses b
 |---|---|
 | August 2026 | Calif finds the flaws with GPT-5.6 Sol (OpenAI-funded audit) |
 | Weeks later | Wiz independently finds them with Gemini 4 Argon and others |
-| October 20 | Information leaks → patch release moved up a day |
+| October 20 | PHP security team pre-announces the October 21 emergency release |
 | October 21 | Emergency PHP patches ship; global patch-and-pull-offline scramble |
 
 Honestly, my first thought on this story was not "AI is scary."
@@ -129,7 +129,7 @@ AI finding the cracks in that foundation may be the first scene of the internet 
 
 **Q. Is my WordPress blog at risk?**
 
-A. Sites running on PHP are in principle affected. But most personal bloggers are covered by their hosting provider's server PHP update — check your host's announcements, and keep WordPress and plugins current. If you run your own server, upgrade PHP to 8.5.12 (or the latest in your series).
+A. Any PHP installation serving web requests is in principle at risk, though the demonstrated attack path centers on specific setups such as Apache mod_php. Most personal bloggers are covered by their hosting provider's server PHP update — check your host's announcements, and keep WordPress and plugins current. If you run your own server, upgrade PHP to 8.5.12 (or the latest in your series).
 
 **Q. Have any sites been hacked already?**
 

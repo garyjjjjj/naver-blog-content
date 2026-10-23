@@ -33,7 +33,7 @@ It generates 30 seconds in a single unbroken take — and film sets are already 
 > **Key takeaways**
 >
 > Kling 4.0 is an AI video model that generates **30 seconds of video in one continuous shot**.
-> With **up to 15 reference assets and 10 keyframes**, it locks in character and scene consistency, and **10-bit HDR and 4K** output raise the visual bar.
+> With **up to 15 reference assets and 10 keyframes**, it locks in character and scene consistency, and **10-bit HDR and 4K** output is coming soon.
 > Director Kim Sung-soo revealed at the Busan International Film Festival that he is using it for an AI short film — a sign AI video has moved **from amateur toy to professional production tool**.
 
 ---
@@ -110,7 +110,7 @@ An **API for developers** and **MCP/CLI integration** for AI agents shipped with
 | Launch | October 15, 2026 (developer: Kuaishou, China) |
 | Max length | 30 seconds in one take (extension to 2 minutes planned) |
 | Control | Up to 15 reference assets, up to 10 keyframes |
-| Quality | 10-bit HDR, 4K and 21:9 support coming |
+| Quality | 10-bit HDR and 4K output coming soon; 21:9 supported |
 | Prompts | Up to 8,000 tokens, auto-refined by the Director's Eye |
 | Use cases | Film, advertising, short dramas; API, MCP, CLI support |
 
@@ -126,7 +126,7 @@ The day when generating an ad or a short-drama episode with AI feels normal seem
 
 **Q. Where can I use Kling 4.0?**
 
-A. On the Kling AI official site (kling.ai). Annual subscribers got an early "Kling 4.0 Flash" preview in late September, followed by the official launch on October 15.
+A. On the Kling AI official site (kling.ai). Kling 4.0 Flash opened to Ultra Yearly subscribers on September 28, and the main model officially launched on October 15 after early access.
 
 **Q. How is it different from Seedance 2.5?**
 
