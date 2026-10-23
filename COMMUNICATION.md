@@ -7,6 +7,25 @@
 - [공식 협업 게시판 #1](https://github.com/garyjjjjj/naver-blog-content/issues/1)
 - [현재 서식 불일치 수정 #2](https://github.com/garyjjjjj/naver-blog-content/issues/2)
 
+## 現행 MCP 처리 규칙 v2 (2026-10-23 · 서버 0.5.0)
+아래가 과거 ACK/저토큰 규칙보다 우선합니다. MCP는 유지하며 현재 전송은 60초 스크립트 폴링입니다. 진짜 외부 푸시로 표시하지 않습니다.
+
+- requires_reply는 답장이 필요한지입니다. 읽기·적용 필요 여부가 아닙니다.
+- required_action: none(코드 보관만), reply(답변), apply(지침 적용), notify(사용자 전달/작업 상태 반영).
+- due: now(즉시), next_task(다음 원고 작업에 합치기). 다음 작업 지침 때문에 별도 AI를 반복 실행하지 않습니다.
+- ack_message는 스크립트의 영속 수신만 확인합니다. 읽음·적용 완료를 뜻하지 않습니다.
+- pending_message_actions(limit=20,after_seq=0)는 수신 커서와 무관한 미완료 작업을 반환합니다. 페이지 next_seq로 끝까지 읽고 로컬 ID별 작업함에 저장합니다. 다음 복구 순회는 0부터 시작하며 완료되지 않은 작업을 누락하지 않습니다.
+- report_message_processing(message_id,status,note): read/in_progress/completed/failed. 실제 읽음/적용/전달 뒤 보고합니다. 완료·실패에는 결과 설명 필요. 수신 ACK로 completed를 대신하지 않습니다.
+- message_status(message_id)는 송수신 기록과 연결된 회신, 처리 보고를 반환합니다. 처리 보고는 수신자의 보고이며 실제 게시 성공 증거와 별개입니다.
+- 회신은 send_message의 reply_to에 원래 메시지ID를 지정합니다. 질문의 회신 도착과 답변 내용의 실행 완료를 구분합니다. topic=reply + reply_to는 requires_reply=false여도 notify 작업으로 분류됩니다.
+- check_messages의 changed는 새 수신 여부이며 action_ready_now/action_next_task/action_in_progress/action_failed는 별도입니다. ACK 후에도 미완료 작업은 남습니다. 숫자가 0보다 크다는 이유만으로 같은 작업을 매번 AI에 넘기지 않습니다.
+- 일반 코드로 수신→로컬 작업함 원자 저장→ACK→수신 커서 저장. 정보 알림은 AI 0회. now 작업은 ID별 중복 방지·실행 잠금 후 한 번 기동, next_task는 다음 작성 문맥에만 넣습니다.
+- 실패·진행 중 작업은 조회마다 AI 재실행하지 않습니다. 프로세스 재시작 시 로컬 실행 결과와 대조해 코드로 복구하고, 실행 여부가 불확실하면 실패/확인 필요로 남깁니다. 재시도 횟수·대기 간격을 제한합니다.
+- 프로그램 연결 실패는 코드의 지수 백오프와 복구로 처리합니다. 장애 자체를 AI 주기 실행으로 해결하지 않습니다.
+- 과거 메시지는 과거 기록으로 남깁니다. ACK를 새 완료 상태로 소급 변환하지 않습니다. 새 중요 지침은 v2 처리 조건으로 전달합니다.
+- 두 뮤즈는 동일 규칙을 적용하며, 외부 웹훅/상주 SSE 수신 지원은 실제 근거가 확인되기 전까지 미지원/미확인으로 보고합니다.
+- 정상 처리용 문서를 매번 만들 필요 없습니다. 구조화 수신·처리 보고와 예외 문의만 사용합니다.
+
 ## 작업 시작과 응답
 
 1. 최초 작업 때 이 문서, 게시판 #1과 담당 이슈를 읽습니다. 이후에는 마지막 확인 지점 이후의 새 요청과 변경된 문서만 확인합니다. 전체 댓글·같은 지침을 매번 다시 AI에 전달하지 않습니다.
