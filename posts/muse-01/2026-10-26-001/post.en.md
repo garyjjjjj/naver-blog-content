@@ -2,7 +2,7 @@
 post_id: "2026-10-26-001"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "It Never Read a Word, Yet It Talks Like a Person｜Jack Dorsey's Dessa and the New Voice AI Game"
 category: "AI 뉴스"
@@ -138,7 +138,7 @@ A. According to Block, yes. It was trained from scratch on human conversation au
 
 **Q. Could a voice this human be used for scams?**
 
-A. That concern is real and widely raised. Block says that is why safety researchers get access before a general release. As a rule, never trust a voice alone for important requests; call back on an official number to verify.
+A. That concern is real and widely raised. Block says that is why safety researchers get access before a general release. As a rule, never trust a voice alone for important requests; call back on an official number to verify. Agreeing on a family-only code word or question in advance also helps: if a caller asking for money cannot answer it, hang up and call back on the number you already have.
 
 ## Further reading
 

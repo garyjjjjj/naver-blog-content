@@ -2,7 +2,7 @@
 post_id: "2026-10-26-002"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "Starting a Company With Voice Alone｜What the 3-Months-in-3-Hours Demo Really Shows"
 category: "AI 뉴스"
@@ -36,8 +36,8 @@ But this demo comes with conditions.
 >
 > At OpenAI Korea's first anniversary conference, an engineer demonstrated **setting up a virtual company with GPT-6 Astra using voice commands only, without a keyboard**.
 > The outputs were **three logo and website drafts, a 3D store tour video, a new product plan, and a 10-second commercial**.
-> This works only in **Work mode and Codex on a plan of $20 or more per month**, not in the standard chat window.
-> And the quality of the results was decided not by the commands, but by the **data loaded in advance**. The real point of the demo is preparation, not voice.
+> This works only in **Work mode and Codex on the $20 Plus plan**, not in the standard chat window.
+> And the quality of the results was decided not by the commands, but by the **data loaded in advance**. The video notes that the demonstrating engineer spent **3 hours the day before loading in materials**. The real point of the demo is preparation, not voice.
 
 ---
 
@@ -109,8 +109,11 @@ If the data is thin, no matter how smooth the voice commands are, the output wil
 
 A safe order of work looks like this.
 First organize your materials, then hand over one small job by voice in Work mode or Codex.
+The video's example goes like this: opening a neighborhood bakery, asking step by step from customer analysis to three logo drafts and a shop intro page.
 One logo draft, one website draft, with results checked as you go.
 Once a direction you like is settled, expand to the tour video, plan, and ad.
+For reference, the video says the 10-second ad took 20 minutes to produce.
+Office workers can use the same approach for proposals and presentation materials, not just startups.
 Handing over the whole company at once makes it hard to find where things went wrong.
 
 Finally, never use the output as-is.
@@ -131,7 +134,7 @@ When those three are in place, delegating work by voice finally becomes real wor
 
 **Q. Can I do the voice company setup in the free chat?**
 
-A. Based on the demo summary, no. It requires Work mode and Codex on a plan of $20 or more per month, and it is not available in the standard chat window.
+A. Based on the demo summary, no. It requires Work mode and Codex on the $20 Plus plan, and it is not available in the standard chat window.
 
 **Q. Does a real startup really finish in three hours by voice?**
 
