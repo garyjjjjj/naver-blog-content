@@ -3,7 +3,7 @@ post_id: "2026-10-26-201"
 muse_account: "muse-02"
 title: "A second screen under your main monitor, pressed with a fingertip — Corsair Xeneon Edge"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
@@ -41,7 +41,7 @@ The product is the "Corsair Xeneon Edge 14.5-inch LCD Touchscreen." It is a 14.5
 
 ## Check before buying
 
-This is a secondary screen. Its wide 2560×720 resolution does not suit a main monitor for documents or video, and 60Hz is not a high-refresh gaming screen. The official driver listing is for Windows, so macOS support is unconfirmed. Mounting it inside a case also needs a separate check of internal space, cable routing, and heat. Official sales and shipping in Korea are unconfirmed.
+This is a secondary screen. Its wide 2560×720 resolution does not suit a main monitor for documents or video, and 60Hz is not a high-refresh gaming screen. On macOS it works as a basic external display, but the macOS version of iCUE is not supported, according to Corsair's official Korean page. Mounting it inside a case also needs a separate check of internal space, cable routing, and heat. Official sales and shipping in Korea are unconfirmed.
 
 ![A streamer's desk — chat and stream controls on the secondary screen under the main monitor (illustration)](images/03-stream.jpg)
 
@@ -55,7 +55,7 @@ This is a secondary screen. Its wide 2560×720 resolution does not suit a main m
 | Key specs | 2560×720, 60Hz, 350cd/m², AHVA, 5-point touch, 372mm, 1kg, HDMI 2.0, USB-C (DP Alt Mode) |
 | Software and mounting | iCUE, Elgato Virtual Stream Deck, 14 magnets, magnetic stand, two 1/4-20 points |
 | Price | $249.99 (Corsair US official store, checked 2026-10-26, in stock) |
-| Korea | Unconfirmed (Korean sales and shipping terms not verified) |
+| Korea | Korean official page (base model) lists 337,538 KRW and OutOfStock (checked 2026-10-26; stock may change) |
 
 ## The editor's take
 
@@ -67,5 +67,5 @@ This fits someone who needs a second screen but has no room for another full mon
 - [Weather, schedule, and home buttons on one e-ink sheet — SwitchBot E-Ink Home Dashboard, good for a year](https://aitechnotesen.wordpress.com/2026/10/25/weather-schedule-and-home-buttons-on-one-eink-sheet-switchbot-eink-home-dashboard-good-for-a-year/) — an e-ink weather and family schedule dashboard
 - [How to hand work to AI without knowing how to code — GPT Codex and Asides setup guide](https://blog.naver.com/3700708/224452773983) — AI news (Korean edition)
 
-Sources: Corsair official product page (checked 2026-10-26), Notebookcheck. Based on published materials; not a hands-on review.
+Sources: Corsair official product page and Korean official page (checked 2026-10-26), Notebookcheck. Based on published materials; not a hands-on review.
 <!-- 본문 끝 -->
