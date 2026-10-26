@@ -2,7 +2,7 @@
 post_id: "2026-10-27-002"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "A Robot Butler That Fears Water?｜Inside the $20,000 Voxel"
 category: "AI 뉴스"
@@ -52,7 +52,7 @@ The team is about seven people.
 Founder Rosalind Shinkle calls Voxel "a gentleman-in-training, obsessed with elegance."
 
 The launch film runs just 90 seconds.
-It shows Voxel dancing to a digital wind instrument.
+It puts up a card saying "This is not CGI," showing crumbs swept into a small dustpan and a bonsai tree being watered.
 The Pixar DNA is not decoration.
 An animator who spent over a decade at Pixar joined to develop the character, and another ex-Pixar animator's 3D animations train Voxel's movement.
 
@@ -77,6 +77,7 @@ Movement also starts from animation.
 Motion is first created as 3D animation, then models trained on it recreate it on the real robot, handling gravity, sloping floors, and sudden shoves.
 Its job is the home reset.
 Tidy rooms, learn where things belong, remember where it last saw an item, and find lost things.
+Its signature demo hands a man a clarinet and dances along as he plays.
 It will not cook or change diapers at launch.
 
 ## Before paying $20,000, check this
@@ -158,6 +159,6 @@ A. Stereo RGB cameras and a wide-field camera recognize surroundings and learn w
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
-- 자료 출처: Matt Wolfe 'The Robot Butler Will Clean Up After You' (2026-10-26) / Fast Company, Interesting Engineering, Dezeen, Moss & Fog, The Rundown (Oct 20-23, 2026)
+- 자료 출처: Matt Wolfe 'The Robot Butler Will Clean Up After You' (2026-10-26) 자막 원문 대조 완료 / Fast Company, Interesting Engineering, Dezeen, Moss & Fog, The Rundown (Oct 20-23, 2026)
 - 이미지: images/01-hero-en.jpg ~ 04-img3-en.jpg / 직접 제작 (AI 생성 + 영어 오버레이) / 사용권: 자작
-- 참고: 자막 원문 확인 작업 진행 중, 자막 도착 시 원고와 대조해 정정 여부 판단
+- 참고: 자막 원문 대조 완료 후 정정본 (rev2)

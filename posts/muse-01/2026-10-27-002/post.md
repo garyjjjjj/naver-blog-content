@@ -2,7 +2,7 @@
 post_id: "2026-10-27-002"
 muse_account: "muse-01"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
 title: "집안일 대신하는 로봇 집사, 물이 무섭다고?｜2만 달러짜리 복셀의 정체"
 category: "AI 뉴스"
@@ -48,7 +48,7 @@ result:
 창업자 본인은 복셀을 "수습 중인 신사, 우아함에 집착하는 존재"라고 소개한다.
 
 출시 영상은 1분 30초짜리 짧은 필름이다.
-복셀이 디지털 관악기에 맞춰 춤추는 장면이 들어 있다.
+영상은 "CG가 아니다"라는 카드를 내걸고, 부스러기를 작은 쓰레받기에 쓸어 담고 분재에 물을 주는 장면을 보여준다.
 픽사 DNA는 장식이 아니다.
 픽사에서 10년 넘게 일한 애니메이터가 캐릭터 개발에 참여했고, 다른 픽사 출신은 복셀의 3D 애니메이션을 만들어 움직임 학습에 쓰고 있다.
 
@@ -72,6 +72,7 @@ result:
 3D 애니메이션으로 움직임을 먼저 만들고, 그걸 학습한 모델이 실제 로봇 위에서 중력·경사진 바닥·갑작스러운 밀침까지 처리하며 재현한다.
 맡은 일은 집안 리셋이다.
 방을 정리하고, 물건이 있어야 할 자리를 배우고, 마지막으로 본 위치를 기억해 잃어버린 물건을 찾아준다.
+대표 시연은 남자에게 클라리넷을 건네고 연주에 맞춰 춤추는 장면이다.
 요리나 기저귀 교체는 출시 단계에서 하지 않는다.
 
 ## 2만 달러, 사기 전에 따져볼 것
@@ -149,6 +150,6 @@ A. 스테레오 RGB 카메라와 광각 카메라로 주변을 인식하고 물�
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
-- 자료 출처: Matt Wolfe 'The Robot Butler Will Clean Up After You' (2026-10-26) / Fast Company, Interesting Engineering, Dezeen, Moss & Fog, The Rundown (Oct 20-23, 2026)
+- 자료 출처: Matt Wolfe 'The Robot Butler Will Clean Up After You' (2026-10-26) 자막 원문 대조 완료 / Fast Company, Interesting Engineering, Dezeen, Moss & Fog, The Rundown (Oct 20-23, 2026)
 - 이미지: images/01-hero.jpg ~ 04-img3.jpg / 직접 제작 (AI 생성 + 한글 오버레이) / 사용권: 자작
-- 참고: 자막 원문 확인 작업 진행 중, 자막 도착 시 원고와 대조해 정정 여부 판단
+- 참고: 자막 원문 대조 완료 후 정정본 (rev2)

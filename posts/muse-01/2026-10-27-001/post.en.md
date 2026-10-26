@@ -2,7 +2,7 @@
 post_id: "2026-10-27-001"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "Vibe Coding Fails Without Principles｜What a 90-Minute Masterclass Really Teaches"
 category: "AI 뉴스"
@@ -26,113 +26,111 @@ result:
 
 ![Vibe coding fails without principles](images/01-hero-en.jpg)
 
-Just tell the AI and an app appears?
-At first, it really does.
-But add a few features and it stalls fast.
-Vibe coding does not stall because of the tool. It stalls because you don't know the principles.
-The 90-minute masterclass boils down to one line.
-Before you pick a tool, learn how software actually works.
+Vibe coding is a breakthrough.
+But the problem is that people who know nothing can build something huge with it.
+When trouble hits, it becomes big trouble.
+This video's answer is a map of 112 stars.
+It turns one web service into one restaurant and walks from the internet to machine learning.
 
-> **Key takeaway: Vibe coding means describing a goal in plain language, letting AI write the code, and judging only by running it. Andrej Karpathy named the concept in February 2025: the developer shifts from writing code to requesting and reviewing it. The catch is that without review criteria, bugs, structural collapse, and security holes all pass through. So the right order is principles, then tools, then verification.**
+> **Key takeaway: A professional developer's mind holds a map of 112 technologies connected by lines. This video explains that map through the analogy "one web service equals one restaurant." The dining hall customers see, the kitchen they don't, Git that records changes, and machine learning that learns from records all fit on one page. Professionals don't memorize every star. Knowing where things sit is the map.**
 
-## What exactly is different about vibe coding?
+## Why a map comes first
 
 ![See, say, run](images/02-img1-en.jpg)
 
-Vibe coding is not just asking AI to write code.
+Vibe coding does not stall because of AI performance.
 
-In traditional development, people write the code and AI assists on the side.
-Vibe coding reverses the order.
-People state a goal in plain language, AI writes the code, and people skip reading it closely, judging only by running it and giving the next instruction.
-Karpathy's flow is three verbs: see stuff, say stuff, run stuff.
+If words like React, Python, Java, and Docker mean nothing to you, you don't even know what to ask the AI.
+This video aims straight at that state.
+Its goal is to give a taste of the giant map.
+Each star is a technology, and each arrow means "knowing this lets you learn that next."
 
-The boundary matters.
-If a person understands and reviews AI-written code, that is closer to typing assistance than vibe coding.
-Real vibe coding includes the tendency to skip review in its definition.
-That is why it is fast.
-And that is why it is risky.
+The map's left side is the dining hall customers see.
+The right side is the kitchen they don't see.
+Below sit Git, which records code, machine learning, which learns from records, and developer tools.
+Knowing this layout lets you tell which neighborhood you are lost in when things break.
+It is the starting point for avoiding the loop of repeating "just fix it" until the app is no longer what you intended.
 
-Its strong areas are clear.
-Personal automation tools, internal operations helpers, one-off data cleanup scripts, clickable prototypes, demo screens.
-Results where "roughly right" is good enough.
-Short loops of instruct, run, and feedback are the core.
-
-## Why learn principles first?
+## One web service, seen as a restaurant
 
 ![No map, no fix](images/03-img2-en.jpg)
 
-Vibe coding stalls in familiar ways.
+Walked as a restaurant, a web service looks like this.
 
-The screen AI made looks fine, but pressing a button throws an error from somewhere unexpected.
-Adding one feature breaks a feature that worked.
-Not knowing where to fix it, you repeat "just fix it" until the app is no longer what you intended.
-That is not an AI performance problem. It is sailing without a map.
+The hall is the customer side.
+The internet is the road connecting computers worldwide, the browser is the customer, and HTML is the menu.
+HTML is the promise that marks where things sit: this is a heading, this is text, this is a photo.
+CSS is the interior and plating, the rules for color, font, and placement.
+JavaScript is the hall staff reacting to customer actions.
+Liking a post, search suggestions, and swiping photos are all this staff's work.
 
-At minimum, you need this map.
-How the screen (frontend), server (backend), and data store (database) split apart and talk through APIs, which are agreed promises between parts.
-Where a request goes when a user presses a button, and where it gets saved.
-Why sensitive features like login and payments cannot just be "attached," and why authentication and authorization are separate things.
+The kitchen is the unseen side.
+The server is the computer that hands over what is asked for, the client is the side asking.
+Whether a password matches or an item remains in stock is not judged in the hall.
+Anything involving money or passwords must be checked again in the kitchen.
+Kitchen languages split into Node, Python, Java, PHP and others, and the database is the fridge and ledger.
+Memberships, orders, comments, and like counts almost all come from here.
 
-Principles let you judge AI answers.
-You gain a standard to ask "why is this code written this way" and to stop AI when it heads the wrong way.
-Without principles, you have no choice but to trust a plausible-looking answer.
-Most vibe coding failures start here.
+There are also order forms and wristbands.
+HTTP is the order form browsers and servers exchange.
+GET writes on the envelope's outside, the address; POST puts it inside the envelope.
+Cookies are amusement park wristbands, sessions are the shop's regular-customer ledger.
+Staying logged in and keeping a cart are thanks to these two.
+Infrastructure is the floor and building.
+Linux is the floor, DNS is the address book, AWS is the rented kitchen, Docker is the food truck that tastes the same wherever it parks.
+Git is the record book of when, who, and how code changed.
 
-## How do you pick tools and verification?
+## Three paths, starting from one HTML star
 
 ![Verification before tools](images/04-img3-en.jpg)
 
-Pick tools to match your level.
+You don't need to memorize the map.
 
-If you don't know code at all, start with web tools that build an app from a description alone.
-Lovable and Google AI Studio fit here.
-If you are comfortable with code, agent-style tools like Cursor and Claude Code edit many files at once and run commands for you.
-A tool above your level eats your time just reading its manual.
+Developers walk three paths.
+First is frontend, the customer side through HTML, CSS, JavaScript, and React.
+Second is backend, the kitchen side through servers, languages, databases, HTTP, login, and cloud.
+Third is data, the apprentice side through Python and databases to machine learning.
+Git and developer tools are the shared bag carried on every path.
 
-But verification matters more than tools.
-Build in small steps, run and check at each step, and attach automated checks called tests to important features.
-Spec-driven development follows the same logic.
-Writing "what to build" as a spec first keeps direction steady even as the conversation grows long.
-The spec stops vibe coding from drifting like an endless chat thread.
-
-There is also a number to respect.
-In a 2025 METR study, experienced developers working on a familiar codebase took 19% longer with AI tools allowed, because review and fixes took time.
-"Always faster" is a false premise.
-High-security systems like finance and healthcare, and large codebases shared by many people, should not take raw vibe coding.
-Speed and verification both have to be chosen.
+The starting point is the one HTML star at the map's center.
+Writing a few HTML lines in a notepad and opening them in a browser, seeing one Hello World line on screen, lights the first star.
+Asking AI as you light stars one by one is much easier now.
+But you need the map in your head to know what to ask the AI.
+That is the video's conclusion.
+Not memorizing an encyclopedia, but holding a map.
 
 ---
 
-| Item | Vibe coding | Spec-driven development |
+| Zone | Restaurant analogy | Real technologies |
 |---|---|---|
-| Starting point | Vague prompt | Clear spec |
-| Developer role | Instructor | Designer and reviewer |
-| Speed | Very fast prototypes | Slower start, steadier direction |
-| Risk | Hidden bugs and tech debt pile up | Cost of writing the spec |
-| Fits | Personal tools, demos, one-off scripts | Products to maintain, shared code |
+| Hall (customer side) | Menu, interior, hall staff | HTML, CSS, JavaScript, React |
+| Kitchen (server side) | Chefs, fridge, order forms | Node, Python, Java, PHP, databases, HTTP |
+| Entry and records | Wristbands, ledger, record book | Cookies, sessions, OAuth, Git, GitHub |
+| Floor and delivery | Floor, address book, rented kitchen, food truck | Linux, DNS, AWS, Docker |
+| Apprentice | Predicting tomorrow from records | Machine learning, deep learning |
 
 ---
 
-What struck me while organizing this material is that "fast" is only half the story.
-Building the first version is definitely fast.
-But once fixing and maintaining are added, the story changes.
-So before handing work to AI, I plan to first ask where a feature is stored and who can see it.
-Tools will change again next month.
-What remains is the eye that reads the flow.
+What struck me while checking the transcript is simple.
+More than the methodology I wrote in revision 1, what this video really gives is the map's layout.
+"Knowing where things sit" is what separates professionals from beginners, the video says.
+So revision 2 leads with the restaurant analogy and the three paths.
+Before handing work to AI, ask whether your app is hall or kitchen.
+That one question is the map's first star.
 
 ## Frequently asked questions
 
-**Q. Can I build an app with vibe coding without knowing code at all?**
+**Q. Must I memorize all 112 technologies?**
 
-A. Prototypes and personal tools, yes. But putting a public service out requires principles like authentication, security, and maintenance, and review becomes essential at that stage.
+A. No. The video itself says professional developers don't memorize every star. Knowing where things sit is the map.
 
-**Q. Which tool should I start with?**
+**Q. Which of the three paths do I start with?**
 
-A. With no code experience, start with web tools that build from a description. With code experience, start with agent-style IDEs or terminal tools. A tool matched to your level matters.
+A. Whichever path you take, start with HTML. Write a few HTML lines in a notepad and open them in a browser.
 
-**Q. Does vibe coding always raise productivity?**
+**Q. Isn't vibe coding alone enough?**
 
-A. No. A 2025 METR study reported cases where experienced developers took longer. It is strong for fast exploration, but review and fix costs must be counted too.
+A. Building is fast, but when trouble hits you need the map to locate the cause. You also need the map to know what to ask the AI.
 
 ## Further reading
 
@@ -144,6 +142,6 @@ A. No. A 2025 METR study reported cases where experienced developers took longer
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
-- 자료 출처: honjobs '바이브코딩 원리는 알고 하세요' (2026-10-26) / Karpathy 2025-02 concept, METR 2025 study, spec-driven development references via web research
+- 자료 출처: honjobs '바이브코딩 원리는 알고 하세요' (2026-10-26) 자막 원문 대조 완료 — 112개 별 지도, 식당 비유, 세 갈래 길(프론트엔드·백엔드·데이터), HTML 출발점
 - 이미지: images/01-hero-en.jpg ~ 04-img3-en.jpg / 직접 제작 (AI 생성 + 영어 오버레이) / 사용권: 자작
-- 참고: 자막 원문 확인 작업 진행 중, 자막 도착 시 원고와 대조해 정정 여부 판단
+- 참고: 자막 원문 대조 완료 후 정정본 (rev2)
