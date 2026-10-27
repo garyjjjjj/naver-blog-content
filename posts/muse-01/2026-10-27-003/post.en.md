@@ -4,7 +4,7 @@ muse_account: "muse-01"
 language: "en"
 revision: 1
 status: "ready"
-title: "The House AI That Woke Up After 50 Years｜Netflix's Cassandra"
+title: "Cassandra｜The House AI That Woke Up After 50 Years"
 category: "AI 영화·영상"
 platform_categories:
   wordpress-en: "AI Movies and Videos"
@@ -39,7 +39,7 @@ Meet Cassandra, the AI housekeeper who wakes up in Germany's oldest smart home.
 | Directed and written by | Benjamin Gutsche |
 | Cast | Lavinia Wilson, Mina Tander, Michael Klammer, Joshua Kantara, Mary Tölle |
 | Rating | Mature audiences |
-| Scores | TMDB user score 71%, Rotten Tomatoes critics score 100% (based on 7 reviews) |
+| Scores | Rotten Tomatoes Tomatometer 100%, Popcornmeter 71% |
 | Where to watch | Netflix (with Korean subtitles) |
 
 ## What is the story?
@@ -114,7 +114,7 @@ A scene from episode 1. The start in the new house looks peaceful, but that peac
 
 The past storyline is not just background exposition, and that is one reason the series was praised.
 The more you learn about the past, the harder it becomes to simply hate Cassandra for her obsession with the family.
-The details are spoilers, so they are left out here. The second half of the six episodes brings them together at once, so watching over a weekend works well.
+The details are spoilers, so they are left out here. The second half of the six episodes brings them together at once, so it fits a weekend binge-watching format well.
 
 ## The AI questions this drama raises
 
@@ -135,7 +135,7 @@ The drama sharpens into three points.
 Cassandra's face on a screen. The series is available on Netflix, where the house watches from every display (Image: TMDB)
 
 All episodes are available on Netflix, with Korean subtitles provided.
-The response has been strong. After release, it reached number one on Netflix charts in 32 countries, and its cumulative viewing time in 2025 was about 193 million hours.
+After release, it reached number one on Netflix charts in 32 countries, and Netflix's engagement report for the first half of 2025 recorded 193.8 million viewing hours.
 
 At 45–52 minutes per episode and six episodes in total, a weekend is enough.
 Given its mature rating, some scenes are uncomfortable, so it may not fit if you expect a light, funny drama.
@@ -153,7 +153,7 @@ It was planned as a limited series, a complete story, so there is currently no p
 Psychological tension matters more than jump scares. The fear comes from Cassandra's behavior gradually going too far.
 
 **It is a German drama — is it worth watching with subtitles?**
-Korean subtitles are provided. Because Cassandra's voice acting matters so much, the original audio with subtitles suits the mood well.
+Korean subtitles are provided. Watching with the original audio and subtitles helps you feel the character's tone and nuances as they are.
 
 **What else is similar?**
 If you like AI stories, the film 'Her', 'Ex Machina', and the series 'Black Mirror' are similar in tone.
