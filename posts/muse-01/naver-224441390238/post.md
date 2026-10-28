@@ -4,7 +4,7 @@ muse_account: "muse-01"
 language: "ko"
 revision: 1
 status: "ready"
-title: "메타 새 AI "뮤즈 원더" 공개｜오퍼스 5.5 턱밑까지 따라왔다"
+title: '메타 새 AI "뮤즈 원더" 공개｜오퍼스 5.5 턱밑까지 따라왔다'
 category: "AI 뉴스"
 targets: ["wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["메타", "뮤즈원더", "오퍼스55", "AI에이전트", "AI뉴스", "인공지능", "AI활용", "AI모델", "일상에이전트", "메타AI"]
