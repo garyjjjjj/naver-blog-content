@@ -2,7 +2,7 @@
 post_id: "2026-10-29-001"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "Running AI Free on Your Own Computer｜A Local AI Comparison by Device"
 category: "AI 뉴스"
@@ -70,14 +70,16 @@ The further down you go, the bigger and more expensive the model you can run; th
 |---|---|---|
 | Phone · Raspberry Pi | Lightest | Short summaries, simple Q&A |
 | Old laptop (e.g., M1, 8GB) | The tested baseline | Dictation, voice, writing, drawing |
-| Mac Mini | A step up on the desk | Bigger models, longer writing |
-| Mac Studio · DGX Spark | Professional desktops | Coding, long document work |
+| Mac Mini (16–64GB) | A step up on the desk | Bigger models, longer writing |
+| Mac Studio · DGX Spark (128–512GB) | Professional desktops | Coding, long document work |
 | Gaming PC | Graphics card as weapon | Image and video work |
 | Data center | A different kitchen altogether | Practically unlimited scale |
 
 The old laptop baseline stands out.
 Even an older MacBook (M1, 8GB of memory) was tested hands-on for dictation, voice, writing, and drawing.
-That means local AI can work even without the latest machine, as long as you keep the job light.
+But the results varied by job.
+Dictation was fast and accurate, while voice was slow and nearly used up the memory; a small writing model produced plausible sentences that dropped key points, and a single image took more than 10 minutes.
+That it runs at all and that it runs comfortably are two different stories.
 
 The data center is the other end of the comparison.
 A facility worth millions of dollars runs at a scale no desk machine can match.
@@ -95,6 +97,8 @@ Here is the twist.
 Local AI has no usage fee, but electricity, time, and the effort of buying and maintaining a machine remain.
 Downloading models, tuning settings, and finding out why answers are slow are all your job.
 A subscription pays money to hand that hassle over; local AI saves money and takes the hassle on.
+Security belongs in the same check.
+A local program left wide open or a model file from an unverified source can be risky, so start with widely used tools and verified files.
 
 LM Studio and Ollama are often named as starting tools.
 They let you download a model file and use it like a chat window, which lowers the setup barrier a lot.
@@ -108,6 +112,9 @@ Third, ask whether slow answers are acceptable. If you need real-time conversati
 If subscription fees are pushing you toward local AI, the order is this.
 Do not buy a machine first. Put a small model on the machine you have, find where it falls short, and then decide the next step.
 That one test saves you from buying an expensive machine and regretting it.
+And you do not have to pick one side only.
+Running everyday repeat jobs locally while leaving demanding writing or video work to a subscription is the realistic mix.
+For the first model, pick a small one that stays under half your memory.
 
 ## Frequently asked questions
 
@@ -130,5 +137,5 @@ Both make models easy to run. LM Studio suits you if you prefer clicking in a wi
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
-- 자료 출처: honjobs '내 컴퓨터로 AI 공짜로 돌리면 어디까지 될까? | 9분만에 모든 로컬 AI 비교분석' (영상 설명·목차 기준) / 웹 리서치 없음 (영상 설명 범위 내 작성)
+- 자료 출처: honjobs '내 컴퓨터로 AI 공짜로 돌리면 어디까지 될까? | 9분만에 모든 로컬 AI 비교분석' (2026-10-28 업로드 확인, 스크립트 패널 0:00~8:57 전 구간 확인 기준 요약) / 웹 리서치 없음
 - 이미지: images/01-hero-en.jpg ~ 04-img3-en.jpg / 직접 제작 (AI 생성 + 영어 오버레이) / 사용권: 자작
