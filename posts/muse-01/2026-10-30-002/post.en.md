@@ -2,7 +2,7 @@
 post_id: "2026-10-30-002"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "Google's Gemini 4 Carbon｜Before the No. 1 Score, Note This: You Cannot Use It Yet"
 category: "AI 뉴스"
@@ -98,6 +98,7 @@ Input is $2 per million tokens and output $10, with repeated input discounted by
 After the introductory period, prices rise to $4 and $20, but Google gave no end date for the lower price.
 
 For ordinary readers, this is the useful conclusion.
+According to the video and press reports, Carbon has no public API and is not available in the Gemini app, and the top Google model usable right now is Argon.
 There is no need to switch models right now.
 It is not too late to decide after checking whether Carbon arrives in the services or tools you use, and at what price.
 Watching the rollout widen is safer than rushing to switch on a No. 1 announcement.
@@ -123,5 +124,5 @@ A. Introductory pricing is $2 per million input tokens and $10 per million outpu
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
-- 자료 출처: TheAIGRID 'Gemini 4 Carbon - The Worlds Smartest AI' (2026-10-30 04:36 KST, 제목·주제 기준) / 구글 발표 보도 웹 리서치 (2026-10-30 확인: 2026-10-28 발표, Intelligence Index 59점, 보안 3종 수치, Fairwind 선공개, 도입 가격 2달러/10달러)
+- 자료 출처: TheAIGRID 'Gemini 4 Carbon' (2026-10-30, 자막·설명 확인 rev2) / 구글 발표 보도 웹 리서치 (2026-10-30 확인: 2026-10-28 발표, Intelligence Index 59점, 보안 3종 수치, Fairwind 선공개, 도입 가격 2달러/10달러, 당장 쓸 수 있는 최상위 구글 모델은 아르곤)
 - 이미지: images/01-hero-en.jpg ~ 04-img3-en.jpg / 직접 제작 (AI 생성 + 영어 오버레이) / 사용권: 자작

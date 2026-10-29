@@ -2,9 +2,9 @@
 post_id: "2026-10-30-001"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
-title: "Comparing Multiple PDFs at Once｜How to Use Acrobat's Document Summary AI"
+title: "Asking Several Documents at Once｜How to Use Acrobat PDF Spaces"
 category: "AI 뉴스"
 platform_categories:
   wordpress-en: "AI News"
@@ -24,96 +24,95 @@ result:
 
 <!-- 본문 시작 -->
 
-![Comparing Multiple PDFs at Once](images/01-hero-en.jpg)
+![Asking Documents at Once](images/01-hero-en.jpg)
 
-Contracts, reports, papers.
-Open them one by one and you end up reading the same content three times.
+The more reports pile up, the slower finding an answer becomes.
+You open files one by one, compare numbers, and flip between last month and this month.
 
-Acrobat's document summary AI summarizes and compares several documents at once.
-The point is not to read less, but to narrow down exactly what needs checking.
+Acrobat PDF Spaces gathers several documents in one place and lets you ask questions of them.
+Instead of reading documents, you ask the documents.
 
 > **Key takeaway**
 >
-> Summarizing and comparing multiple documents at once is what Acrobat AI does best.
-> For contracts, it compares up to 10 documents for changes and inconsistencies, and shows citations to the original text for its answers.
-> A summary is only a starting point. Before signing or paying, click the citation and check the original yourself.
+> A PDF Space is a room that answers only from documents you put in it.
+> Numbers in an answer carry citation numbers pointing to the original text, so clicking one lets you check the evidence yourself.
+> Up to 100 files, links, and text blocks can be gathered in one Space.
+> But the reports and figures shown in the video demo are fictional material made for filming, so they must not be quoted as real business figures.
 
-## What changes when you summarize several documents at once?
+## What makes a PDF Space different?
 
-![Many Documents, One Summary](images/02-img1-en.jpg)
-When several documents are summarized together, you no longer read each file separately.
+![A Room You Ask Questions In](images/02-img1-en.jpg)
+A PDF Space is not a folder. It is a room you ask questions in.
 
-Acrobat AI Assistant creates an outline and section summaries when you open a document.
-Its distinctive feature is analyzing multiple documents together, pulling out shared points, differences, and connections.
-According to Adobe's official guidance, up to 100 documents can be analyzed at once.
+First create a Space, then add PDF, Excel, PowerPoint, and Word documents and web links.
+You can add them as they are, without converting them to PDF first. That is the starting point.
+According to the video, up to 100 files, links, and text blocks can be gathered in one Space.
 
+Once documents are in, an automatic summary is created, and questions are answered from the documents inside the Space.
 This shines when material is scattered.
-Meeting notes in several files, multiple versions of a report, survey results split across files.
-Gathering only the key points from each file makes it much faster to grasp the whole picture.
+Monthly reports in several files, or supplier documents in several files, can be compared across files with one question.
 
-But the wider the scope, the rougher the summary becomes.
-With more files, it is harder to fit every detailed condition into the summary.
-So use the overall summary to set direction, and re-check important numbers and conditions in the individual files.
+But the wider the scope, the rougher the answer becomes.
+With more files, it is harder to fit every detailed condition into the answer.
+So use the overall summary to set direction, and re-check important numbers and conditions in the original through the citation numbers.
 
-When summarizing multiple documents, deciding your questions first makes the result much sharper.
-"What is the shared conclusion?" or "Where do they disagree?" Set the comparison criteria first.
-Asking only "summarize this" tends to leave polished sentences while the differences you actually need drop out.
+## How do you compare monthly reports?
 
-## How should contract comparison be used?
+![Monthly Comparison in One Question](images/03-img2-en.jpg)
+The key to comparison is asking one clear question.
 
-![Comparing Contracts This Way](images/03-img2-en.jpg)
-Contract comparison is the most practical use of multi-document summary.
+For example, put several months of reports in a Space and ask, "What changed between last month and this month?"
+Add a new month's report to the same Space, and the comparison with earlier months continues.
+How the trend changed, and which item stands out, gets organized by one question.
 
-When Acrobat AI Assistant recognizes a document as a contract, it switches to a contract view.
-It shows key dates and main terms at a glance, and suggests questions specific to each contract.
-Scanned contracts can also be compared, with up to 10 contracts checked for changes and inconsistencies.
+The most important caution in this flow is telling demo material apart from real material.
+The monthly report comparison shown in the video uses fictional material made for filming.
+The flow can be used as a reference, but the figures and company names in the demo are not real business material and must not be quoted as they are.
 
 Three questions work well in practice.
-First, "Summarize this contract's key dates and payment terms."
-Second, "What changed compared with the previous version?"
-Third, "Does any clause conflict with the other contracts?"
+First, "Summarize how this month's key indicators changed from last month."
+Second, "If any item stands out, show me the original location that supports it."
+Third, "After adding the new report, what differs from the previous trend?"
 
-These questions matter because the most expensive mistake in contract review is a clause you never saw.
-One changed sentence or one missing date can become a dispute later.
-AI comparison reduces that risk, but it does not replace legal judgment.
+The more specific the question, the easier it is to check the sources.
+Asking only "summarize this" tends to leave polished sentences while the differences you actually need drop out.
 
-So once you have a comparison result, the next steps are fixed.
-Read the changed clauses in the original, and re-check amounts, dates, and termination conditions as numbers.
-If a clause looks doubtful, open the citation location before passing it to a lawyer or legal team.
+## What about checking, sharing, and cautions?
 
-## Can you trust the answers as they are?
+![Check, Share, and Take Care](images/04-img3-en.jpg)
+Do not trust answers as they are.
+A PDF Space's strength is the citation number attached to each answer.
 
-![Do Not Trust Answers Blindly](images/04-img3-en.jpg)
-No, not as they are.
-Acrobat AI Assistant's strength is showing a citation to the original text for each answer.
-
-Clicking a citation jumps straight to that sentence in the original document.
-The reason is clear.
+Clicking a citation number jumps to that figure's location in the original document.
 A summary is a sentence the AI made, and the original is the real evidence.
-
-So a good order is this.
-First grasp the whole picture from the AI summary, then click citations and check just three key sentences in the original.
 Before an irreversible decision such as signing, paying, or submitting, never skip this checking step.
 
-Check the terms of use in advance too.
-Whether AI Assistant is included can vary by plan.
-Before using it, check whether your plan includes the feature or requires a separate subscription.
-Adobe's business guidance states that business data is not used to train AI models, but for personal documents it is safer to re-check your own account settings and terms for how documents are stored and processed.
+According to the video, documents users upload are not used to train Adobe's generative AI models.
+That explanation targets people worried about accuracy and safety.
+But since this is the video's claim, it is safer to re-check your own account terms and settings before uploading important documents.
 
-In short, Acrobat's document summary AI is not a tool for reading fewer documents.
-It is a tool for narrowing down what to check.
-Bundle several documents, compare contract changes, and verify through citations, and the fatigue of document work drops sharply.
+Extra features follow as well.
+An audio summary can be listened to through a link or QR code after checking and editing its script, and presentation material built from uploaded documents can be edited in Adobe Express.
+When inviting team members, editing permission and viewing permission can be separated.
+
+Check the terms of use in advance too.
+PDF Spaces is available with the Adobe Acrobat Studio plan, and the video description mentions a 7-day free trial.
+Before using it, check whether your plan includes the feature and what charges apply after the trial.
+
+In short, a PDF Space is not a tool for reading fewer documents.
+It is a room for asking documents questions.
+Gather several documents in one place, ask comparison questions, and verify through citations, and the fatigue of reading piled-up reports drops sharply.
 
 ## Frequently asked questions
 
-**Q. Does it work with non-PDF files?**
-A. Acrobat AI Assistant works on PDF documents. Convert other formats to PDF first.
+**Q. What files can I put in?**
+A. According to the video, PDF, Excel, PowerPoint, and Word documents, web links, and text blocks can be gathered in one Space. They can be added without converting them to PDF first.
 
-**Q. Can scanned documents be compared?**
-A. Contract comparison guidance says scanned documents can be included, up to 10 in total. If scan quality is low, recognition can be wrong, so check key clauses against the original image as well.
+**Q. Can I use it for free?**
+A. The video description mentions a 7-day free trial. After the trial, check the Acrobat Studio plan terms.
 
-**Q. Can a summary be wrong?**
-A. Yes, it can. That is why clicking the citation to check the original is essential. Re-check amounts, dates, and termination conditions as numbers.
+**Q. Are uploaded documents used for AI training?**
+A. The video states that documents users upload are not used to train Adobe's generative AI models. For important documents, it is safer to re-check your own account terms.
 
 ## Further reading
 
@@ -125,5 +124,5 @@ A. Yes, it can. That is why clicking the citation to check the original is essen
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
-- 자료 출처: 오후다섯씨 '애크로뱃 문서 요약 AI로 여러 문서와 PDF 한 번에 비교하는 법' (2026-10-29, 제목·주제 기준) / Adobe Acrobat AI Assistant 공식 안내 웹 리서치 (2026-10-30 확인: 최대 100개 문서 동시 분석, 계약서 최대 10개 대조, 인용 출처)
+- 자료 출처: 오후다섯씨 '애크로뱃 문서 요약 AI로 여러 문서와 PDF 한 번에 비교하는 법' (2026-10-29, 자막·설명 확인 rev2) / Acrobat PDF 스페이스: 스페이스 생성→파일·링크·텍스트 블록 최대 100개→비교 질문→출처 번호 확인→오디오 요약·발표 자료·팀 공유, Acrobat Studio 플랜·7일 무료 체험, 시연 자료는 가상 자료
 - 이미지: images/01-hero-en.jpg ~ 04-img3-en.jpg / 직접 제작 (AI 생성 + 영어 오버레이) / 사용권: 자작
