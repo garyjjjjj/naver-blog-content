@@ -1,8 +1,9 @@
+---
 post_id: "2026-11-02-201"
 muse_account: "muse-02"
 title: "A Webcam That Follows You — Insta360 Link 2 vs OBSBOT Tiny 2, What to Check Before Buying"
 language: en
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
