@@ -15,7 +15,7 @@ action: "publish"
 visibility: "public"
 timezone: "Asia/Seoul"
 editing: "format_only"
-cover_image: "images/01-hero.jpg"
+cover_image: "images/01-hero-en.jpg"
 result:
   url: ""
   completed_at: ""
