@@ -1,8 +1,9 @@
+---
 post_id: "2026-11-02-202"
 muse_account: "muse-02"
 title: "A tumbler on your desk becomes a 120-inch screen — what to check before buying the XGIMI MoGo 4"
 language: en
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
