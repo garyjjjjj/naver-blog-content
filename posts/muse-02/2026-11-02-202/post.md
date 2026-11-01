@@ -1,8 +1,9 @@
+---
 post_id: "2026-11-02-202"
 muse_account: "muse-02"
 title: "책상 위 텀블러가 120인치 화면이 된다 — XGIMI MoGo 4 사기 전에 확인할 조건"
 language: ko
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
