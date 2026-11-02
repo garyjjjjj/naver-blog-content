@@ -3,7 +3,7 @@ post_id: "2026-11-03-201"
 muse_account: "muse-02"
 title: "USB-C 하나면 다 된다고? ASUS ZenScreen MB16AHV 사기 전에 확인할 조건"
 language: ko
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
@@ -81,3 +81,5 @@ ASUS ZenScreen MB16AHV는 15.6인치 FHD IPS 휴대용 모니터다. 공식 스�
 - [ASUS ZenScreen MB16AHV 공식 스펙](https://www.asus.com/us/displays-desktops/monitors/zenscreen/asus-zenscreen-mb16ahv/techspec/)
 - [ASUS ZenScreen MB16AHV 공식 제품 페이지](https://www.asus.com/ie/displays-desktops/monitors/zenscreen/asus-zenscreen-mb16ahv/)
 - [ASUS ZenScreen MB16QHG 공식 제품 페이지](https://www.asus.com/displays-desktops/monitors/zenscreen/asus-zenscreen-mb16qhg/)
+
+<!-- 본문 끝 -->
