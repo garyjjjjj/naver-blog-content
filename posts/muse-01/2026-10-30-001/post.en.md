@@ -2,9 +2,9 @@
 post_id: "2026-10-30-001"
 muse_account: "muse-01"
 language: "en"
-revision: 2
+revision: 3
 status: "ready"
-title: "Asking Several Documents at Once｜How to Use Acrobat PDF Spaces"
+title: "How to Use Acrobat PDF Spaces｜Asking Several Documents at Once"
 category: "AI 뉴스"
 platform_categories:
   wordpress-en: "AI News"

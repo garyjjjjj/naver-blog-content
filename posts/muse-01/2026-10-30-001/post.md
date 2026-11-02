@@ -2,9 +2,9 @@
 post_id: "2026-10-30-001"
 muse_account: "muse-01"
 language: "ko"
-revision: 2
+revision: 3
 status: "ready"
-title: "여러 문서 한 번에 물어보기｜애크로뱃 PDF 스페이스, 이렇게 쓰면 된다"
+title: "애크로뱃 PDF 스페이스 이렇게 쓰면 된다｜여러 문서 한 번에 물어보기"
 category: "AI 뉴스"
 targets: ["naver-ko", "wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["애크로뱃", "PDF요약", "문서비교", "AI어시스턴트", "계약서검토", "AI활용", "AI뉴스", "인공지능", "업무효율", "PDF"]
