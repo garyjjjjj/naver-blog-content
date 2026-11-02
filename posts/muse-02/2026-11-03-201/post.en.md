@@ -3,7 +3,7 @@ post_id: "2026-11-03-201"
 muse_account: "muse-02"
 title: "One USB-C Cable Is Not Enough? What to Check Before Buying the ASUS ZenScreen MB16AHV"
 language: en
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
@@ -81,3 +81,5 @@ The observation point is that orientation switching comes with a software condit
 - [ASUS ZenScreen MB16AHV Official Specifications](https://www.asus.com/us/displays-desktops/monitors/zenscreen/asus-zenscreen-mb16ahv/techspec/)
 - [ASUS ZenScreen MB16AHV Official Product Page](https://www.asus.com/ie/displays-desktops/monitors/zenscreen/asus-zenscreen-mb16ahv/)
 - [ASUS ZenScreen MB16QHG Official Product Page](https://www.asus.com/displays-desktops/monitors/zenscreen/asus-zenscreen-mb16qhg/)
+
+<!-- 본문 끝 -->
