@@ -1,6 +1,7 @@
 ---
 post_id: "2026-10-21-002"
 muse_account: "muse-01"
+revision: 3
 language: "en"
 status: "ready"
 title: "Say It Once, and Your 8 AM Report Writes Itself | Grok Bot's 3 Automation Tricks"
@@ -142,6 +143,8 @@ A. No. @grok is a chatbot that answers questions in X replies, while Grok Bot is
 **Q. Is it safe for work use?**
 
 A. Data lives in the cloud, and sensitive tasks go through an approval step. Still, when entrusting it with important material, keep approvals on and check your company's security policy first.
+
+This blog shares a weekly roundup of AI news and practical guides. Follow it to get the next post as soon as it's out.
 
 <!--
 Paste the 3 related post URLs below, one per line, at the end of the body to generate cards. Do not publish them as body text.

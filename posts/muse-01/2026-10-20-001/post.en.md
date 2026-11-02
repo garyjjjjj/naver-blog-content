@@ -1,6 +1,7 @@
 ---
 post_id: "2026-10-20-001"
 muse_account: "muse-01"
+revision: 2
 language: "en"
 status: "ready"
 title: "100 Million Won Prize, No Degree Required | The 'Goldfish' AI That Divided a Hackathon"
@@ -137,6 +138,8 @@ A. November 11 at COEX in Samseong-dong, Seoul. The final day also includes an A
 **Q. Has the company responded to the first-round controversy?**
 
 A. As of October 19, there was no separate official statement. The AI model used in the exam and the grading method have not been disclosed.
+
+This blog shares a weekly roundup of AI news and practical guides. Follow it to get the next post as soon as it's out.
 
 <!--
 Paste the 3 related post URLs below, one per line, at the end of the body to generate cards. Do not publish them as body text.

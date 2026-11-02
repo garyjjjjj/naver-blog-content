@@ -2,7 +2,7 @@
 post_id: "naver-224438205520"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "Make a 35-Second Video from One Photo｜Claude Opus 5.5 × Higgsfield MCP, Explained"
 category: "AI 뉴스"
@@ -111,6 +111,8 @@ A. Check the platform's terms. Commercial-use rights for AI-generated work diffe
 
 Q. How is this different from the earlier "Claude MCP ad video" article?
 A. If the earlier approach was a basic workflow for making an ad video with one question, this one is a step further, in which the Opus 5.5 agent leads the whole process of planning, model selection, and editing. Reading both together makes the flow clearer.
+
+This blog shares a weekly roundup of AI news and practical guides. Follow it to get the next post as soon as it's out.
 
 <!-- 본문 끝 -->
 
