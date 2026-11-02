@@ -2,9 +2,9 @@
 post_id: "2026-11-02-001"
 muse_account: "muse-01"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
-title: "클로드 쓰는 법이 바뀌었다｜한 달 업데이트 4가지, 코드·브라우저·파일·계획 모드"
+title: "클로드 한 달 업데이트 4가지｜코드·브라우저·파일·계획 모드, 뭐가 달라졌나"
 category: "AI 뉴스"
 targets: ["naver-ko", "wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["클로드", "Claude", "클로드코드", "크롬확장", "파일생성", "Plan모드", "AI업무", "인공지능", "AI뉴스", "생산성"]

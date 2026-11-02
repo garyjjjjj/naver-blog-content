@@ -2,9 +2,9 @@
 post_id: "2026-11-02-001"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
-title: "How to Use Claude Changed｜Four Updates: Code, Browser, Files, and Plan Mode"
+title: "Four Claude Updates in a Month｜Code, Browser, Files, and Plan Mode — What Actually Changed"
 category: "AI 뉴스"
 platform_categories:
   wordpress-en: "AI News"

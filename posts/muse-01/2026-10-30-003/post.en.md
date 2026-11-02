@@ -2,9 +2,9 @@
 post_id: "2026-10-30-003"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
-title: "Ex Machina｜A Programmer Invited to a Turing Test, and Ava"
+title: "A Programmer Invited to a Turing Test｜Ex Machina and Ava's Story"
 category: "AI 영화·영상"
 platform_categories:
   wordpress-en: "AI Movies and Videos"

@@ -2,9 +2,9 @@
 post_id: "2026-11-02-004"
 muse_account: "muse-01"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
-title: "블레이드 러너 2049｜기억을 가진 인조인간, 인간의 기준을 묻다"
+title: "기억을 가진 인조인간｜블레이드 러너 2049가 묻는 인간의 기준"
 category: "AI 영화·영상"
 targets: ["naver-ko", "wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["블레이드러너2049", "SF영화", "리플리컨트", "인공지능", "AI영화", "드니빌뇌브", "라이언고슬링", "해리슨포드", "영화소개", "AI영화영상"]

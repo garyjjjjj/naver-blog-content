@@ -2,9 +2,9 @@
 post_id: "2026-10-30-003"
 muse_account: "muse-01"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
-title: "엑스 마키나｜튜링 테스트에 초대된 프로그래머, 그리고 에이바"
+title: "튜링 테스트에 초대된 프로그래머｜엑스 마키나와 에이바의 이야기"
 category: "AI 영화·영상"
 targets: ["naver-ko", "wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["엑스마키나", "AI영화", "SF영화", "알렉스가랜드", "튜링테스트", "로봇영화", "웨이브", "AI영화영상", "인공지능", "SF스릴러"]

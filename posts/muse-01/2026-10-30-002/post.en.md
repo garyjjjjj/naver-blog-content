@@ -2,9 +2,9 @@
 post_id: "2026-10-30-002"
 muse_account: "muse-01"
 language: "en"
-revision: 2
+revision: 3
 status: "ready"
-title: "Google's Gemini 4 Carbon｜Before the No. 1 Score, Note This: You Cannot Use It Yet"
+title: "You Cannot Use Gemini 4 Carbon Yet｜Check This Before the No. 1 Score"
 category: "AI 뉴스"
 platform_categories:
   wordpress-en: "AI News"

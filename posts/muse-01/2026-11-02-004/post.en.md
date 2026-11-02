@@ -2,9 +2,9 @@
 post_id: "2026-11-02-004"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 3
 status: "ready"
-title: "Blade Runner 2049｜A Replicant with Memories Asks What Makes Us Human"
+title: "A Replicant with Memories｜What Blade Runner 2049 Asks About Being Human"
 category: "AI 영화·영상"
 platform_categories:
   wordpress-en: "AI Movies and Videos"

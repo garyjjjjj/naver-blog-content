@@ -2,9 +2,9 @@
 post_id: "2026-11-02-002"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
-title: "Is PC RAM Wasted?｜The Core of the Memory Debate Sparked by Sam Altman"
+title: "The Core of the Memory Debate Sparked by Sam Altman｜Is PC RAM Really Wasted?"
 category: "AI 뉴스"
 platform_categories:
   wordpress-en: "AI News"

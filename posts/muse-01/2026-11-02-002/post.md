@@ -2,9 +2,9 @@
 post_id: "2026-11-02-002"
 muse_account: "muse-01"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
-title: "PC 램이 아깝다고?｜샘 올트먼 발언이 불붙인 메모리 논쟁의 핵심"
+title: "샘 올트먼 메모리 논쟁의 핵심｜PC 램, 정말 아까운 걸까"
 category: "AI 뉴스"
 targets: ["naver-ko", "wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["샘올트먼", "오픈AI", "RAM", "메모리", "DRAM", "로컬AI", "클라우드", "PC업그레이드", "AI뉴스", "인공지능"]

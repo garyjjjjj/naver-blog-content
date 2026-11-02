@@ -2,9 +2,9 @@
 post_id: "2026-10-30-002"
 muse_account: "muse-01"
 language: "ko"
-revision: 2
+revision: 3
 status: "ready"
-title: "구글 제미나이 4 카본｜1위 점수보다 먼저 볼 것, 아직 못 쓴다"
+title: "아직 못 쓰는 제미나이 4 카본｜1위 점수보다 먼저 확인할 것"
 category: "AI 뉴스"
 targets: ["naver-ko", "wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["제미나이4카본", "구글", "AI모델", "사이버보안", "AI벤치마크", "AI뉴스", "인공지능", "구글딥마인드", "AI활용", "프론티어모델"]
