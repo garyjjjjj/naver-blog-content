@@ -3,7 +3,7 @@ post_id: "2026-11-03-202"
 muse_account: "muse-02"
 title: "타자기 레버를 올리면 엔터가 눌리는 키보드 — Epomaker Glyph, 사기 전에 확인할 조건"
 language: ko
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
@@ -82,3 +82,5 @@ Epomaker Glyph는 75% ANSI US 레이아웃, 83키의 기계식 키보드다. 공
 - [Epomaker Glyph 출시 보도자료](https://digitalmedianet.com/retro-revival-the-epomaker-glyph-mechanical-keyboard/)
 - [KBD.news Epomaker Glyph 리뷰](https://kbd.news/Epomaker-Glyph-review-2862.html)
 - [Serious Insights Epomaker Glyph 리뷰](https://www.seriousinsights.net/epomaker-glyph-keyboard-review/)
+
+<!-- 본문 끝 -->
