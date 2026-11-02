@@ -3,7 +3,7 @@ post_id: "2026-11-03-202"
 muse_account: "muse-02"
 title: "A Keyboard Where Lifting a Typewriter Lever Presses Enter — Epomaker Glyph, What to Check Before Buying"
 language: en
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
@@ -82,3 +82,5 @@ The observation point is the height, thickness, and desk footprint. The part tha
 - [Epomaker Glyph Launch Press Release](https://digitalmedianet.com/retro-revival-the-epomaker-glyph-mechanical-keyboard/)
 - [KBD.news Epomaker Glyph Review](https://kbd.news/Epomaker-Glyph-review-2862.html)
 - [Serious Insights Epomaker Glyph Review](https://www.seriousinsights.net/epomaker-glyph-keyboard-review/)
+
+<!-- 본문 끝 -->
