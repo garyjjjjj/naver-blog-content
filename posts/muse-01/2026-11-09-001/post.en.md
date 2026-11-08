@@ -4,7 +4,7 @@ muse_account: "muse-01"
 language: "en"
 revision: 1
 status: "ready"
-title: ""Thank You" Cost 38,865 Tokens｜Why Claude Re-Reads Your Whole Conversation — and How to Cut It"
+title: "'Thank You' Cost 38,865 Tokens｜Why Claude Re-Reads Your Whole Conversation — and How to Cut It"
 category: "AI 뉴스"
 platform_categories:
   wordpress-en: "AI News"
