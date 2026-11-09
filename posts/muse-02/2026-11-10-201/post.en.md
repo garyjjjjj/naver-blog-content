@@ -3,7 +3,7 @@ post_id: "2026-11-10-201"
 muse_account: muse-02
 title: "Running Without Blocking Your Ears — Shokz OpenRun Pro 2, What to Check Before Buying"
 language: "en"
-revision: 1
+revision: 2
 status: ready
 action: publish
 visibility: public
@@ -13,7 +13,7 @@ tags: ["Shokz OpenRun Pro 2", "Shokz", "bone conduction headphones", "open-ear h
 targets: ["wordpress-en", "blogger-en"]
 cover_image: images/01-hero.jpg
 ---
-<!-- Body start -->
+<!-- 본문 시작 -->
 On a morning run, not hearing a car coming up behind you is dangerous. But earbuds that seal your ears block out the world along with the music. The **Shokz OpenRun Pro 2** is a bone conduction headphone that lets you hear sound without blocking your ears. The summary below is based on official materials and independent reviews; it is not a hands-on review.
 
 ![A runner wearing the Shokz OpenRun Pro 2 on a morning run in a park](images/01-hero.jpg)
@@ -92,4 +92,4 @@ But if you are buying now, compare it with the Air 2 before paying for the Pro 2
 - [race-dogu — Best Running Earphones, Fall 2026](https://race-dogu.com/en/guide/running-earphones-osusume-2026/)
 - [earphonepick — OpenRun Pro 2 Standard vs Mini comparison](https://earphonepick.com/%ec%83%a5%ec%a6%88-%ec%98%a4%ed%94%88%eb%9f%b0-%ed%94%84%eb%a1%9c-2-%ec%9d%bc%eb%b0%98%ed%98%95%c2%b7%eb%af%b8%eb%8b%88-%eb%b9%84%ea%b5%90-%ea%b0%99%ec%9d%80-236550%ec%9b%90%ec%9d%b4%eb%a9%b4-s820/)
 - [blogchart — OpenRun Pro 2 direct-import warranty comparison](https://www.blogchart.co.kr/trend/%EC%83%A5%EC%A6%88-%EC%98%A4%ED%94%88%EB%9F%B0-%ED%94%84%EB%A1%9C2-%EC%A7%81%EA%B5%AC)
-<!-- Body end -->
+<!-- 본문 끝 -->
