@@ -157,7 +157,6 @@ It is not rechargeable — it runs on a single AA battery.
 [Making a video in 35 seconds](https://blog.naver.com/3700708/224438205520)
 
 If stiff wrists are a regular thing, try standing your mouse upright.
-Follow this series for the next pick — a massage gun, and how to choose one by the feel at your fingertips.
 
 <!-- 본문 끝 -->
 
