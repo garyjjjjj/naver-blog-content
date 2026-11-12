@@ -2,7 +2,7 @@
 post_id: "2026-10-31-003"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "WALL·E｜A Cleaning Robot Who Found a Purpose on an Abandoned Earth"
 category: "AI 영화·영상"

@@ -2,9 +2,9 @@
 post_id: "2026-11-08-001"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
-title: "What Is Anthropic's Internal "Model 4"?｜METR's Report Says AI Is Accelerating 1.9x — How Far Should We Trust It?"
+title: "What Is Anthropic's Internal \"Model 4\"?｜METR's Report Says AI Is Accelerating 1.9x — How Far Should We Trust It?"
 category: "AI 뉴스"
 platform_categories:
   wordpress-en: "AI News"
