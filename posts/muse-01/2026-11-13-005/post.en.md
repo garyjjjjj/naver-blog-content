@@ -2,10 +2,10 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 2
+revision: 3
 status: "ready"
 title: "The Mouse Your Wrist Notices First | Logitech Lift Vertical Mouse, Held Upright for a Reason"
-category: "Buy It Now Tech"
+category: "바로 살 수 있는 테크"
 targets: ["wordpress-en", "blogger-en"]
 tags: ["LogitechLift", "VerticalMouse", "ErgonomicMouse", "WirelessMouse", "WristCare", "DeskSetup", "WorkFromHome", "Logitech", "OfficeGear", "BuyItNowTech"]
 action: "publish"
