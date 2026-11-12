@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "ko"
-revision: 2
+revision: 3
 status: "ready"
 title: "손목이 먼저 알아보는 마우스｜로지텍 리프트 버티컬 마우스, 세로로 잡는 이유"
 category: "바로 살 수 있는 테크"
