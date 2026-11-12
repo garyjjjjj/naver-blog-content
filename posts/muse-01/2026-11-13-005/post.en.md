@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 3
+revision: 4
 status: "ready"
 title: "The Mouse Your Wrist Notices First | Logitech Lift Vertical Mouse, Held Upright for a Reason"
 category: "바로 살 수 있는 테크"
@@ -114,13 +114,14 @@ For someone moving between documents and a browser all day, it fits.
 - Over 3,000 buyers in the past month
 - Model: LIFT VERTICAL MR0094, graphite
 
-**[Check the price on Coupang](https://link.coupang.com/a/iCGwnhPQnQ)**
-
 **Editor's judgment**
 For anyone who wants less wrist strain and holds a mouse all day, the Lift points in the right direction.
 The 57-degree angle, the long battery life, and the three-device switching are things you feel every day at your desk.
 It may not suit large hands or gaming use.
 This assessment is independent of the link and based only on official specifications and the product page.
+
+**▶ [Check today's price on Coupang](https://link.coupang.com/a/iCGwnhPQnQ)**
+See today's price, discounts, and reviews right now.
 
 ## Closing
 Swapping a mouse looks like a small decision.
@@ -163,5 +164,5 @@ Follow this series for the next pick — a massage gun, and how to choose one by
 ## Working notes (not for upload)
 
 - Sources: Logitech Lift official specs (57 degrees, one AA battery up to 24 months, DPI 400–4,000, 108×70×71 mm, 125 g, Bluetooth LE and Logi Bolt, up to 3 devices, 10 m range, 6 buttons, Logi Options+, Windows/macOS/iPadOS/ChromeOS) + Coupang product page vp/7295558262 (crawled 2026-10-27: 8,530 reviews, 4.8 rating, over 3,000 buyers in a month, genuine Logitech Korea, free shipping) + affiliate series plan (group A, no price shown)
-- Images: images/01-hero-en.jpg ~ 04-img3-en.jpg / original illustrations + English banner overlay (1200x675)
+- Images: images/01-hero-en.jpg is the real Coupang product photo + English banner overlay, 02-img1-en.jpg ~ 04-img3-en.jpg are original illustrations + English banner overlay (1200x675)
 - Price not shown (group A): no price figure in the manuscript — link text only, "Check the price on Coupang"
