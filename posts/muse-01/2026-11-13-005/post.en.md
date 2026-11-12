@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "The Mouse Your Wrist Notices First | Logitech Lift Vertical Mouse, Held Upright for a Reason"
 category: "Buy It Now Tech"
@@ -19,7 +19,7 @@ result:
   note: ""
 ---
 
-<!-- Body start -->
+<!-- 본문 시작 -->
 
 As part of the Coupang Partners program, I may earn a commission from purchases made through links in this post.
 
@@ -158,7 +158,7 @@ It is not rechargeable — it runs on a single AA battery.
 If stiff wrists are a regular thing, try standing your mouse upright.
 Follow this series for the next pick — a massage gun, and how to choose one by the feel at your fingertips.
 
-<!-- Body end -->
+<!-- 본문 끝 -->
 
 ## Working notes (not for upload)
 
