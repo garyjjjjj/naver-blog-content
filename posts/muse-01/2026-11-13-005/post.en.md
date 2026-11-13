@@ -2,9 +2,9 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 5
+revision: 6
 status: "ready"
-title: "The Mouse Your Wrist Notices First | Logitech Lift Vertical Mouse, Held Upright for a Reason"
+title: "Logitech Lift Vertical Mouse Review Roundup | What 9,817 Reviews Say — Pros and Cons"
 category: "바로 살 수 있는 테크"
 targets: ["wordpress-en", "blogger-en"]
 tags: ["LogitechLift", "VerticalMouse", "ErgonomicMouse", "WirelessMouse", "WristCare", "DeskSetup", "WorkFromHome", "Logitech", "OfficeGear", "BuyItNowTech"]
@@ -21,7 +21,13 @@ result:
 
 <!-- 본문 시작 -->
 
-As part of the Coupang Partners program, I may earn a commission from purchases made through links in this post.
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "As part of the Coupang Partners program, I may earn a commission from purchases made through links in this post."
+    style: {bold: true, color: "#007aa6"}
+```
 
 ```blog
 type: image
@@ -33,31 +39,28 @@ align: center
 url: https://link.coupang.com/a/iCGwnhPQnQ
 ```
 
-For anyone who holds a mouse all day, wrist pain is a familiar story.
+If your wrist aches after a full day of holding a mouse, the angle of the mouse is worth suspecting first.
 The Logitech Lift is a vertical mouse — you hold it upright instead of flat.
-Its 57-degree angle lets you grip it like a handshake, a single AA battery lasts up to 24 months, and its compact size fits small and medium hands.
-This post is a fact-based guide drawn from Logitech's official specifications and the Coupang product page.
-I have not used this mouse myself, and the assessment below is written independently of the affiliate link.
+This post is not a hands-on review.
+It is a buying guide put together from Logitech's official specifications, the Coupang product page, and real buyer reviews.
+Facts and reviews are kept apart, and the assessment is written independently of the affiliate link.
+
+If you set up [an AI assistant and advisor system for a one-person business](https://blog.naver.com/3700708/224474063959) on your desk, choose your mouse by the same standard.
+What sits on your desk decides how tired you feel at the end of the day.
 
 ```blog
-type: quote
-variant: 1
-markdown: |
-  **Key takeaway**
-
-  The Logitech Lift is a **vertical mouse tilted at 57 degrees**.
-  You hold it like a handshake, so your wrist stays close to neutral — the whole point is to ease the strain of holding a mouse all day.
-  **One AA battery lasts up to 24 months**, it connects over Bluetooth and Logi Bolt to up to 3 devices, and DPI adjusts from 400 to 4,000.
-  At 108 × 70 × 71 mm and 125 g, it is a **compact design made for small and medium hands**.
-  On Coupang it sells as a genuine Logitech Korea product with Rocket delivery, over 8,500 reviews, and a 4.8 rating.
+type: table
+rows:
+  - [{text: "Item", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Details", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
+  - [{text: "Checked price"}, {runs: [{text: "₩62,970", style: {bold: true, color: "#007aa6"}}, {text: " (checked 2026-11-13, list price ₩89,900, graphite)"}]}]
+  - [{text: "Reviews"}, {text: "9,817 reviews · 5 stars 91% · 4 stars 6% (4 stars or higher: 97%)"}]
+  - [{text: "Key specs"}, {text: "57-degree angle · one AA battery, up to 24 months · DPI 400–4,000 · Bluetooth and Logi Bolt, up to 3 devices"}]
+  - [{text: "Size and weight"}, {text: "108 × 70 × 71 mm · 125 g (Logitech official specs)"}]
+  - [{text: "Shipping"}, {text: "Not Rocket delivery · free shipping (CJ Logistics, sequential delivery, arriving 11/17)"}]
+  - [{text: "Seller"}, {text: "CR Tech Co. (official Logitech Korea certified seller · official importer Double Information Technology · after-sales service available)"}]
 ```
 
-```blog
-type: divider
-variant: 1
-```
-
-## Why hold a mouse upright?
+## What real buyers say
 
 ```blog
 type: image
@@ -69,68 +72,66 @@ align: center
 url: https://link.coupang.com/a/iCGwnhPQnQ
 ```
 
-A regular mouse turns your palm down.
-Keep your wrist twisted inward for eight hours a day, and the first signal is usually a dull ache.
-The Lift tilts the mouse 57 degrees to change that posture.
-Held like a handshake, your wrist sits closer to neutral and your forearm relaxes.
+**Pro 1 — Most reviews say wrist pain went down.**
+"I live with wrist pain as an office worker — I wish I had bought this sooner" (buyer, 2026.11.11).
+"My wrist pain really dropped noticeably" (buyer, 2026.11.05).
+"Rest your hand on it and it wraps around at a natural 57-degree angle, like a handshake" (buyer).
+The 57-degree angle and the Asian-fit size come up again and again.
 
-That angle is the reason this mouse exists.
-It has 6 buttons and a SmartWheel that adjusts its own scroll speed.
-The clicks are whisper-quiet, which matters in a shared office.
-The palm rest uses a soft rubber grip so your hand does not slip.
+**Pro 2 — The clicks are nearly silent.**
+"The click sound is really quiet" (buyer, 2026.09.28).
+"The low-noise switch barely makes a sound, so I can use it in a quiet office or during meetings without worrying" (buyer).
+One caveat: the side buttons are not silent. See the cons below.
 
-If you set up [an AI assistant and advisor system for a one-person business](https://blog.naver.com/3700708/224474063959) on your desk, choose your mouse by the same standard.
-What sits on your desk decides how tired you feel at the end of the day.
-You can swap the keyboard and the monitor, but if the mouse stays the same, your wrist keeps the same posture.
+**Pro 3 — Battery life and multi-device switching are easy.**
+"One AA battery lasts up to two years, so there is no charging stress — I like that" (buyer).
+"One Easy-Switch button switches easily between up to three devices" (buyer).
+There is no charging cable to plug in; one battery swap is all the maintenance it needs.
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "Con 1 — Some 1-star reviews say it feels heavy, and small hands find it strains the wrist. "
+    style: {bold: true, color: "#C0392B"}
+  - text: "\"Too small for an average woman's hand\", \"My wrist floats in the air, so it strains my wrist\" (1-star review, 2026.09.05). \"Heavy, and my wrist hurts even more\" (1-star review). \"Heavier than I expected, uncomfortable\" (1-star review). The 125 g figure alone does not tell you how it feels, so if your hands are small or you are used to a light mouse, weigh this first."
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "Con 2 — Some reviews raise doubts about used, defective, or non-genuine deliveries. "
+    style: {bold: true, color: "#C0392B"}
+  - text: "\"Ordered a new product, got a used one with defects, even a USB stick with a virus\", \"A direct import from China arrived… I bought it because it said genuine Logitech Korea…\", \"The delivery bag was full of Chinese writing… likely no after-sales service in Korea\" (1-star reviews). For balance: the seller in this post (CR Tech) is listed as an official Logitech Korea certified seller, and in a product inquiry dated 2026/11/11 it answered that after-sales service is available. The review header also notes that the reviews cover the same product across different sellers, so these complaints do not necessarily describe this seller's deliveries. Check the seller name before ordering."
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "Con 3 — Button failures and noisy side buttons. "
+    style: {bold: true, color: "#C0392B"}
+  - text: "\"The double-click frequency is absurd\", \"Left-click button broke — after-sales service is nowhere\" (1-star reviews). \"Not all buttons are silent. The back and forward buttons on the side make a click sound, tick, tick\" (buyer, 2026.10.19). Other reviews list \"high price\", \"needs an adjustment period\", and \"smudge issues\" as downsides (buyer, 2026.09.20)."
+```
+
+## Who it suits — and who it does not
 
 ```blog
 type: table
 rows:
-  - [{text: "Feature", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Logitech Lift", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Ordinary flat mouse", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
-  - [{text: "Grip angle"}, {text: "57 degrees, handshake posture"}, {text: "Flat, palm down"}]
-  - [{text: "Battery"}, {text: "One AA battery, up to 24 months"}, {text: "Rechargeable or frequent swaps"}]
-  - [{text: "DPI"}, {text: "Adjustable 400–4,000"}, {text: "Fixed or limited adjustment"}]
-  - [{text: "Weight"}, {text: "125 g"}, {text: "Varies by product"}]
-  - [{text: "Connection"}, {text: "Bluetooth and Logi Bolt, 3 devices"}, {text: "Often one device only"}]
+  - [{text: "Verdict", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Who", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Why, in one line", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
+  - [{text: "Recommended"}, {text: "Office workers who hold a mouse all day with wrist pain"}, {text: "Most reviews credit the 57-degree angle with easing wrist strain"}]
+  - [{text: "Recommended"}, {text: "People working in quiet offices or shared spaces"}, {text: "The main clicks are repeatedly called near-silent"}]
+  - [{text: "Recommended"}, {text: "People switching between a laptop, tablet, and desktop"}, {text: "Easy-Switch moves between 3 devices with one button"}]
+  - [{text: "Recommended"}, {text: "People who want a mouse that lasts without charging"}, {text: "One AA battery, up to 24 months"}]
+  - [{text: "Not recommended"}, {text: "People with large hands"}, {text: "Compact design for small and medium hands; fingers may overhang"}]
+  - [{text: "Not recommended"}, {text: "People looking for a gaming or precision graphics mouse"}, {text: "An office and document mouse; weigh DPI and weight separately"}]
+  - [{text: "Not recommended"}, {text: "Left-handed users"}, {text: "This model is right-handed; the left-handed model is separate"}]
+  - [{text: "Not recommended"}, {text: "People who want a light mouse"}, {text: "125 g, with 1-star reviews calling it heavy"}]
 ```
 
-```blog
-type: divider
-variant: 1
-```
-
-## Two years on one battery — how does the connection work?
-
-```blog
-type: image
-path: images/03-img2-en.jpg
-alt: Up to 24 months on one AA battery
-caption: Runs on a single AA battery, no charging needed
-width: 1200
-align: center
-url: https://link.coupang.com/a/iCGwnhPQnQ
-```
-
-The Lift is not rechargeable — it runs on a single AA battery.
-Logitech rates battery life at up to 24 months, based on eight hours of office use a day.
-There is no charging cable to plug in, and one battery swap is all the maintenance it needs.
-It never stops mid-work because you forgot to charge it.
-
-It connects two ways: Bluetooth Low Energy and the Logi Bolt USB receiver.
-You can pair up to three devices — a laptop, a tablet, a desktop — and switch between them with a button.
-Wireless range reaches up to 10 meters.
-It supports Windows, macOS, iPadOS, and ChromeOS.
-
-DPI adjusts from 400 to 4,000 in 100-DPI steps, with a default of 1,000 DPI.
-The Logi Options+ app lets you remap buttons and tune DPI.
-Lower for document work, higher for sweeping across a wide screen — set it to the job at hand.
-
-```blog
-type: divider
-variant: 1
-```
-
-## What to check before you buy
+## Check before you buy
 
 ```blog
 type: image
@@ -142,74 +143,33 @@ align: center
 url: https://link.coupang.com/a/iCGwnhPQnQ
 ```
 
-First, check your hand size.
-The Lift is built compact for small and medium hands.
-It measures 108 mm high, 70 mm wide, 71 mm deep, and weighs 125 g.
-If your hands are large, your fingers may feel like they overhang.
-In that case, compare it with a larger vertical mouse before deciding.
-
-Second, this model is for right-handed users.
-The model covered here is the right-handed graphite version.
-A left-handed model is sold separately, so confirm left or right before ordering.
-
-Third, the use case.
-The Lift is an office, document, and everyday-work mouse.
-If you need fast reactions for gaming or fine precision for graphics work, weigh the DPI and weight separately.
-For someone moving between documents and a browser all day, it fits.
-
-**Purchase information (checked on the Coupang product page, 2026-11-13)**
-- Seller: genuine Logitech Korea product, Rocket delivery, free shipping
-- Reviews: over 8,500, rating 4.8
-- Over 3,000 buyers in the past month
-- Model: LIFT VERTICAL MR0094, graphite
-
-**Editor's judgment**
-For anyone who wants less wrist strain and holds a mouse all day, the Lift points in the right direction.
-The 57-degree angle, the long battery life, and the three-device switching are things you feel every day at your desk.
-It may not suit large hands or gaming use.
-This assessment is independent of the link and based only on official specifications and the product page.
-
 ```blog
-type: link_box
-markdown: |
-  **▶ Check today's price on Coupang**
-  See today's price, discounts, and reviews right now.
-url: https://link.coupang.com/a/iCGwnhPQnQ
-border_color: "#146C3B"
+type: list
+items:
+  - "✅ Does it fit your hand — small to medium hands? Reviews say large hands find it uncomfortable"
+  - "✅ Is it the right-handed model? Left-handed users need the separate model"
+  - "✅ Graphite color and seller (CR Tech)? Price varies by option and seller"
+  - "⚠️ It is free shipping, not Rocket delivery — check the arrival date"
+  - "⚠️ It is an office and document mouse, not a gaming or precision tool — decide the use first"
 ```
 
-## Closing
-Swapping a mouse looks like a small decision.
-But it is something you hold for eight hours a day, so your wrist notices the change first.
-I am the type who memorizes keyboard shortcuts, yet preparing this post made me look at mouse angles again.
-If stiff wrists are a regular thing, try standing your mouse upright first.
+```blog
+type: image
+path: images/05-banner-cta-en.jpg
+alt: Check the lowest price for the Logitech Lift on Coupang
+caption: Check the lowest price on Coupang · Checked price ₩62,970 (2026-11-13)
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
+
+For someone who holds a mouse all day with a stiff wrist, this points in the right direction; for large hands or gaming use, compare another mouse first.
 Like [automating Instagram card news with Claude Code](https://blog.naver.com/3700708/224474066475), changing one desk tool at a time eventually changes how you work.
 
-## FAQ
-**Is there a left-handed version?**
-The standard model is right-handed, and a left-handed model is sold separately.
-Confirm left or right before ordering.
-
-**Does it work with a MacBook or iPad?**
-It supports Windows, macOS, iPadOS, and ChromeOS.
-Connect over Bluetooth, or use the Logi Bolt receiver.
-
-**How long does the battery last?**
-One AA battery lasts up to 24 months.
-That is Logitech's official figure, based on eight hours of office use a day.
-
-**Does it fit large hands?**
-It is a compact size made for small and medium hands.
-If your hands are large, compare it with a larger vertical mouse.
-
-**Does it need a charging cable?**
-No.
-It is not rechargeable — it runs on a single AA battery.
-
 ## Recommended reads
-[AI assistant and advisor system for a one-person business](https://blog.naver.com/3700708/224474063959)
-[Automating Instagram card news with Claude Code](https://blog.naver.com/3700708/224474066475)
-[Making a video in 35 seconds](https://blog.naver.com/3700708/224438205520)
+[AI assistant and advisor system for a one-person business — the same standard, applied to your desk](https://blog.naver.com/3700708/224474063959)
+[Automating Instagram card news with Claude Code — changing one desk tool at a time](https://blog.naver.com/3700708/224474066475)
+[Making a video in 35 seconds — a short video made with AI tools](https://blog.naver.com/3700708/224438205520)
 
 If stiff wrists are a regular thing, try standing your mouse upright.
 
@@ -217,7 +177,7 @@ If stiff wrists are a regular thing, try standing your mouse upright.
 
 ## Working notes (not for upload)
 
-- Sources: Logitech Lift official specs (57 degrees, one AA battery up to 24 months, DPI 400–4,000, 108×70×71 mm, 125 g, Bluetooth LE and Logi Bolt, up to 3 devices, 10 m range, 6 buttons, Logi Options+, Windows/macOS/iPadOS/ChromeOS) + Coupang product page vp/7295558262 (crawled 2026-10-27: 8,530 reviews, 4.8 rating, over 3,000 buyers in a month, genuine Logitech Korea, free shipping) + affiliate series plan (group A, no price shown)
-- Images: images/01-hero-en.jpg is the real Coupang product photo + English banner overlay, 02-img1-en.jpg ~ 04-img3-en.jpg are original illustrations + English banner overlay (1200x675). From rev5, all 4 images link to the affiliate URL on click (image block url); the purchase CTA is a single link_box.
-- New features applied (2026-11-13 blog-components-v1): link_box (purchase CTA), image blocks (click link + caption), quote block (key takeaway), table block (comparison, header #123456/white text), divider blocks, no naver_title_style (no Naver target for English). naver_link_cards not used (link_box is the custom box, used instead of the default card). Mid-sentence and recommended-read links stay as Markdown links (not converted to cards).
-- Price not shown (group A): no price figure in the manuscript — link text only, "Check the price on Coupang"
+- Sources: Logitech Lift official specs (57 degrees, one AA battery up to 24 months, DPI 400–4,000, 108×70×71 mm, 125 g, Bluetooth LE and Logi Bolt, up to 3 devices, 10 m range, 6 buttons, Logi Options+, Windows/macOS/iPadOS/ChromeOS) + Coupang product page vp/7295558262 (checked directly in Chrome, 2026-11-13, graphite: checked price ₩62,970, list price ₩89,900, 9,817 reviews, 5 stars 91%, 4 stars 6%, over 4,000 buyers in a month, not Rocket delivery, free shipping via CJ Logistics arriving 11/17, seller CR Tech Co., official Logitech Korea certified seller, official importer Double Information Technology, after-sales service available) + real buyer review quotes translated from Korean (3 pros, 3 cons, including 1-star 127 and 2-star 53) + affiliate new format "buying guide material" (affiliate-research-2026-11-13-v2.md section 7, adopted by the user 2026-11-13 15:41) + design and highlight research (2026-11-13, blog-design-improvement-research-2026-11-13.md, blog-writing-highlight-research-2026-11-13.md)
+- Images: 01-hero-en.jpg (real Coupang product photo + English banner overlay), 02-img1-en.jpg (57-degree illustration + banner), 04-img3-en.jpg (size illustration + banner), 05-banner-cta-en.jpg (purchase CTA banner — real product photo + "Check the lowest price on Coupang" + checked price ₩62,970, click leads to the affiliate link). All 4 images link to the affiliate URL on click (image block url). Banner image CTA used instead of link_box (user instruction 2026-11-13 15:47).
+- New features applied (blog-components-v1): runs formatting (disclosure bold + color #007aa6, checked price bold + color, cons bold + red #C0392B), table blocks (at-a-glance table and recommend/not-recommend table, header #123456/white text), list block (checklist ✅/⚠️), image blocks (click link + caption), no naver_title_style (no Naver target for English). naver_link_cards not used. Mid-sentence and recommended-read links stay as Markdown links (not converted to cards).
+- Corrections vs rev5: checked price ₩62,970 shown (group A no-price policy dropped, decision 2026-11-13 15:41). Rocket delivery claim removed — this listing is not Rocket delivery (free shipping). Reviews 8,500 → 9,817, monthly buyers 3,000 → over 4,000. Title changed to "[Product] + Review Roundup" format.
