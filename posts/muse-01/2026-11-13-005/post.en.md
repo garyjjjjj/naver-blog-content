@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 7
+revision: 8
 status: "ready"
 title: "Logitech Lift Vertical Mouse Review Roundup | What 9,817 Reviews Say — Pros and Cons"
 category: "바로 살 수 있는 테크"
@@ -45,6 +45,16 @@ I haven't tried this one myself, though; everything here comes from Logitech's o
 
 If you set up [an AI assistant and advisor system for a one-person business](https://blog.naver.com/3700708/224474063959) on your desk, choose your mouse by the same standard.
 What sits on your desk decides how tired you feel by the end of the day.
+
+```blog
+type: image
+path: images/06-infographic-en.jpg
+alt: Logitech Lift at a glance — checked price, reviews, key specs, pros and cons
+caption: Logitech Lift at a glance — price, reviews, specs, pros and cons on one sheet
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 ```blog
 type: table
@@ -181,3 +191,4 @@ If stiff wrists are a regular thing, try standing your mouse upright.
 - New features applied (blog-components-v1): runs formatting (disclosure bold + color #007aa6, checked price bold + color, cons bold + red #C0392B), table blocks (at-a-glance table and recommend/not-recommend table, header #123456/white text), list block (checklist ✅/⚠️), image blocks (click link + caption), no naver_title_style (no Naver target for English). naver_link_cards not used. Mid-sentence and recommended-read links stay as Markdown links (not converted to cards).
 - Tone revision (rev7, 2026-11-13 user feedback): applied the human-writing skill (blog_writing_guideline.md 4.3, 4.3.1 AI-tell checklist, 4.6). (1) Intro disclosure condensed from 3 stiff sentences to one flowing sentence in the N3 (AMSKY letsdowhatilove) style; (2) dropped the declarative "Facts and reviews are kept apart, and the assessment is written independently of the affiliate link" sentence — fairness is shown by including the cons; (3) removed mechanical "Pro 1/2/3, Con 1/2/3" numbering, "See the cons below" → "More on that in the cons below", conclusion rewritten as a human weighing rather than a summary.
 - Corrections vs rev5: checked price ₩62,970 shown (group A no-price policy dropped, decision 2026-11-13 15:41). Rocket delivery claim removed — this listing is not Rocket delivery (free shipping). Reviews 8,500 → 9,817, monthly buyers 3,000 → over 4,000. Title changed to "[Product] + Review Roundup" format.
+- rev8 (2026-11-13 user instruction): one-sheet summary infographic added after the intro (06-infographic-en.jpg, 1200×1500: checked price, reviews, spec grid, pros/cons, shipping), click leads to the affiliate link. Same change as Korean rev7 (the English post had no neighbor-add CTA line).
