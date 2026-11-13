@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 4
+revision: 5
 status: "ready"
 title: "The Mouse Your Wrist Notices First | Logitech Lift Vertical Mouse, Held Upright for a Reason"
 category: "바로 살 수 있는 테크"
@@ -23,7 +23,15 @@ result:
 
 As part of the Coupang Partners program, I may earn a commission from purchases made through links in this post.
 
-![The mouse your wrist notices first](images/01-hero-en.jpg)
+```blog
+type: image
+path: images/01-hero-en.jpg
+alt: The mouse your wrist notices first
+caption: Logitech Lift graphite · real product photo
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 For anyone who holds a mouse all day, wrist pain is a familiar story.
 The Logitech Lift is a vertical mouse — you hold it upright instead of flat.
@@ -31,19 +39,35 @@ Its 57-degree angle lets you grip it like a handshake, a single AA battery lasts
 This post is a fact-based guide drawn from Logitech's official specifications and the Coupang product page.
 I have not used this mouse myself, and the assessment below is written independently of the affiliate link.
 
-> **Key takeaway**
->
-> The Logitech Lift is a **vertical mouse tilted at 57 degrees**.
-> You hold it like a handshake, so your wrist stays close to neutral — the whole point is to ease the strain of holding a mouse all day.
-> **One AA battery lasts up to 24 months**, it connects over Bluetooth and Logi Bolt to up to 3 devices, and DPI adjusts from 400 to 4,000.
-> At 108 × 70 × 71 mm and 125 g, it is a **compact design made for small and medium hands**.
-> On Coupang it sells as a genuine Logitech Korea product with Rocket delivery, over 8,500 reviews, and a 4.8 rating.
+```blog
+type: quote
+variant: 1
+markdown: |
+  **Key takeaway**
 
----
+  The Logitech Lift is a **vertical mouse tilted at 57 degrees**.
+  You hold it like a handshake, so your wrist stays close to neutral — the whole point is to ease the strain of holding a mouse all day.
+  **One AA battery lasts up to 24 months**, it connects over Bluetooth and Logi Bolt to up to 3 devices, and DPI adjusts from 400 to 4,000.
+  At 108 × 70 × 71 mm and 125 g, it is a **compact design made for small and medium hands**.
+  On Coupang it sells as a genuine Logitech Korea product with Rocket delivery, over 8,500 reviews, and a 4.8 rating.
+```
+
+```blog
+type: divider
+variant: 1
+```
 
 ## Why hold a mouse upright?
 
-![57 degrees, held like a handshake](images/02-img1-en.jpg)
+```blog
+type: image
+path: images/02-img1-en.jpg
+alt: 57 degrees, held like a handshake
+caption: Vertical grip held upright at 57 degrees
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 A regular mouse turns your palm down.
 Keep your wrist twisted inward for eight hours a day, and the first signal is usually a dull ache.
@@ -59,19 +83,33 @@ If you set up [an AI assistant and advisor system for a one-person business](htt
 What sits on your desk decides how tired you feel at the end of the day.
 You can swap the keyboard and the monitor, but if the mouse stays the same, your wrist keeps the same posture.
 
-| Feature | Logitech Lift | Ordinary flat mouse |
-| --- | --- | --- |
-| Grip angle | 57 degrees, handshake posture | Flat, palm down |
-| Battery | One AA battery, up to 24 months | Rechargeable or frequent swaps |
-| DPI | Adjustable 400–4,000 | Fixed or limited adjustment |
-| Weight | 125 g | Varies by product |
-| Connection | Bluetooth and Logi Bolt, 3 devices | Often one device only |
+```blog
+type: table
+rows:
+  - [{text: "Feature", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Logitech Lift", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Ordinary flat mouse", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
+  - [{text: "Grip angle"}, {text: "57 degrees, handshake posture"}, {text: "Flat, palm down"}]
+  - [{text: "Battery"}, {text: "One AA battery, up to 24 months"}, {text: "Rechargeable or frequent swaps"}]
+  - [{text: "DPI"}, {text: "Adjustable 400–4,000"}, {text: "Fixed or limited adjustment"}]
+  - [{text: "Weight"}, {text: "125 g"}, {text: "Varies by product"}]
+  - [{text: "Connection"}, {text: "Bluetooth and Logi Bolt, 3 devices"}, {text: "Often one device only"}]
+```
 
----
+```blog
+type: divider
+variant: 1
+```
 
 ## Two years on one battery — how does the connection work?
 
-![Up to 24 months on one AA battery](images/03-img2-en.jpg)
+```blog
+type: image
+path: images/03-img2-en.jpg
+alt: Up to 24 months on one AA battery
+caption: Runs on a single AA battery, no charging needed
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 The Lift is not rechargeable — it runs on a single AA battery.
 Logitech rates battery life at up to 24 months, based on eight hours of office use a day.
@@ -87,11 +125,22 @@ DPI adjusts from 400 to 4,000 in 100-DPI steps, with a default of 1,000 DPI.
 The Logi Options+ app lets you remap buttons and tune DPI.
 Lower for document work, higher for sweeping across a wide screen — set it to the job at hand.
 
----
+```blog
+type: divider
+variant: 1
+```
 
 ## What to check before you buy
 
-![Compact size for smaller hands](images/04-img3-en.jpg)
+```blog
+type: image
+path: images/04-img3-en.jpg
+alt: Compact size for smaller hands
+caption: Compact size at 108 × 70 × 71 mm, 125 g
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 First, check your hand size.
 The Lift is built compact for small and medium hands.
@@ -120,8 +169,14 @@ The 57-degree angle, the long battery life, and the three-device switching are t
 It may not suit large hands or gaming use.
 This assessment is independent of the link and based only on official specifications and the product page.
 
-**▶ [Check today's price on Coupang](https://link.coupang.com/a/iCGwnhPQnQ)**
-See today's price, discounts, and reviews right now.
+```blog
+type: link_box
+markdown: |
+  **▶ Check today's price on Coupang**
+  See today's price, discounts, and reviews right now.
+url: https://link.coupang.com/a/iCGwnhPQnQ
+border_color: "#146C3B"
+```
 
 ## Closing
 Swapping a mouse looks like a small decision.
@@ -163,5 +218,6 @@ If stiff wrists are a regular thing, try standing your mouse upright.
 ## Working notes (not for upload)
 
 - Sources: Logitech Lift official specs (57 degrees, one AA battery up to 24 months, DPI 400–4,000, 108×70×71 mm, 125 g, Bluetooth LE and Logi Bolt, up to 3 devices, 10 m range, 6 buttons, Logi Options+, Windows/macOS/iPadOS/ChromeOS) + Coupang product page vp/7295558262 (crawled 2026-10-27: 8,530 reviews, 4.8 rating, over 3,000 buyers in a month, genuine Logitech Korea, free shipping) + affiliate series plan (group A, no price shown)
-- Images: images/01-hero-en.jpg is the real Coupang product photo + English banner overlay, 02-img1-en.jpg ~ 04-img3-en.jpg are original illustrations + English banner overlay (1200x675)
+- Images: images/01-hero-en.jpg is the real Coupang product photo + English banner overlay, 02-img1-en.jpg ~ 04-img3-en.jpg are original illustrations + English banner overlay (1200x675). From rev5, all 4 images link to the affiliate URL on click (image block url); the purchase CTA is a single link_box.
+- New features applied (2026-11-13 blog-components-v1): link_box (purchase CTA), image blocks (click link + caption), quote block (key takeaway), table block (comparison, header #123456/white text), divider blocks, no naver_title_style (no Naver target for English). naver_link_cards not used (link_box is the custom box, used instead of the default card). Mid-sentence and recommended-read links stay as Markdown links (not converted to cards).
 - Price not shown (group A): no price figure in the manuscript — link text only, "Check the price on Coupang"

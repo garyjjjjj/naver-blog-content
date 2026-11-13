@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "ko"
-revision: 3
+revision: 4
 status: "ready"
 title: "손목이 먼저 알아보는 마우스｜로지텍 리프트 버티컬 마우스, 세로로 잡는 이유"
 category: "바로 살 수 있는 테크"
@@ -13,6 +13,7 @@ visibility: "public"
 timezone: "Asia/Seoul"
 editing: "format_only"
 cover_image: "images/01-hero.jpg"
+naver_title_style: {font_family: 나눔고딕, font_size: 32, align: center}
 result:
   url: ""
   completed_at: ""
@@ -23,7 +24,15 @@ result:
 
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
-![손목이 먼저 알아보는 마우스](images/01-hero.jpg)
+```blog
+type: image
+path: images/01-hero.jpg
+alt: 손목이 먼저 알아보는 마우스
+caption: 로지텍 리프트 그래파이트 · 실제 제품 사진
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 하루 종일 마우스를 잡고 일하는 사람에게 손목 통증은 낯선 얘기가 아니다.
 로지텍 리프트는 마우스를 세로로 잡는 버티컬 마우스다.
@@ -31,19 +40,35 @@ result:
 이 글은 로지텍 공식 자료와 쿠팡 판매 페이지를 바탕으로, 사기 전에 확인할 조건을 정리한 자료 기반 안내다.
 직접 사용해 보지 않았고, 평가는 제휴 링크 유무와 무관하게 적었다.
 
-> **핵심 정리**
->
-> 로지텍 리프트는 **57도 기울어진 버티컬 마우스**다.
-> 손목을 돌리지 않고 악수 자세로 잡기 때문에, 하루 종일 마우스를 잡는 사람의 손목 부담을 줄이는 데 초점이 맞춰져 있다.
-> **AA 건전지 하나로 최대 24개월**, 블루투스와 Logi Bolt로 최대 3대 기기를 오가며, DPI는 400부터 4,000까지 조절된다.
-> 크기는 108×70×71mm, 무게 125g으로 **작은 손·중간 손에 맞는 컴팩트한 설계**다.
-> 쿠팡에서는 로지텍 코리아 정품으로 로켓배송 중이며, 리뷰 8,500개 이상에 평점 4.8점을 받고 있다.
+```blog
+type: quote
+variant: 1
+markdown: |
+  **핵심 정리**
 
----
+  로지텍 리프트는 **57도 기울어진 버티컬 마우스**다.
+  손목을 돌리지 않고 악수 자세로 잡기 때문에, 하루 종일 마우스를 잡는 사람의 손목 부담을 줄이는 데 초점이 맞춰져 있다.
+  **AA 건전지 하나로 최대 24개월**, 블루투스와 Logi Bolt로 최대 3대 기기를 오가며, DPI는 400부터 4,000까지 조절된다.
+  크기는 108×70×71mm, 무게 125g으로 **작은 손·중간 손에 맞는 컴팩트한 설계**다.
+  쿠팡에서는 로지텍 코리아 정품으로 로켓배송 중이며, 리뷰 8,500개 이상에 평점 4.8점을 받고 있다.
+```
+
+```blog
+type: divider
+variant: 1
+```
 
 ## 왜 마우스를 세로로 잡아야 할까?
 
-![57도, 악수하듯 잡는 각도](images/02-img1.jpg)
+```blog
+type: image
+path: images/02-img1.jpg
+alt: 57도, 악수하듯 잡는 각도
+caption: 57도 기울기로 세워 잡는 버티컬 그립
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 일반 마우스는 손등이 위를 향한다.
 손목을 안쪽으로 돌린 채로 하루 8시간을 보내면, 손목이 보내는 신호는 대개 뻐근함부터 시작한다.
@@ -59,19 +84,33 @@ result:
 책상 위 물건은 결국 하루의 피로도를 정한다.
 키보드와 모니터를 아무리 바꿔도 마우스가 그대로면 손목은 같은 자세로 남는다.
 
-| 항목 | 로지텍 리프트 | 일반 평면 마우스 |
-| --- | --- | --- |
-| 잡는 각도 | 57도, 악수 자세 | 평평하게, 손등 위 |
-| 배터리 | AA 1개로 최대 24개월 | 충전식 또는 수시 교체 |
-| DPI | 400–4,000 조절 가능 | 고정 또는 제한적 조절 |
-| 무게 | 125g | 제품마다 다름 |
-| 연결 | 블루투스·Logi Bolt, 3대 기기 | 1대 기기인 경우 많음 |
+```blog
+type: table
+rows:
+  - [{text: "항목", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "로지텍 리프트", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "일반 평면 마우스", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
+  - [{text: "잡는 각도"}, {text: "57도, 악수 자세"}, {text: "평평하게, 손등 위"}]
+  - [{text: "배터리"}, {text: "AA 1개로 최대 24개월"}, {text: "충전식 또는 수시 교체"}]
+  - [{text: "DPI"}, {text: "400–4,000 조절 가능"}, {text: "고정 또는 제한적 조절"}]
+  - [{text: "무게"}, {text: "125g"}, {text: "제품마다 다름"}]
+  - [{text: "연결"}, {text: "블루투스·Logi Bolt, 3대 기기"}, {text: "1대 기기인 경우 많음"}]
+```
 
----
+```blog
+type: divider
+variant: 1
+```
 
 ## 건전지 하나로 2년, 연결은 어떻게 되나?
 
-![건전지 하나로 최대 24개월](images/03-img2.jpg)
+```blog
+type: image
+path: images/03-img2.jpg
+alt: 건전지 하나로 최대 24개월
+caption: 충전 없이 AA 건전지 1개로 움직이는 구조
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 리프트는 충전식이 아니라 AA 건전지 1개로 움직인다.
 로지텍 공식 기준 배터리 수명은 최대 24개월, 하루 8시간 사무실 사용을 전제로 한 수치다.
@@ -89,11 +128,22 @@ DPI는 400부터 4,000까지 100 단위로 조절된다.
 Logi Options+ 앱에서 버튼 기능을 바꾸고 DPI를 맞출 수 있다.
 문서 작업에는 낮게, 넓은 화면을 오갈 때는 높게, 용도에 맞게 바꾸는 방식이다.
 
----
+```blog
+type: divider
+variant: 1
+```
 
 ## 사기 전에 확인할 조건
 
-![작은 손에도 맞는 컴팩트한 크기](images/04-img3.jpg)
+```blog
+type: image
+path: images/04-img3.jpg
+alt: 작은 손에도 맞는 컴팩트한 크기
+caption: 108×70×71mm, 125g의 컴팩트한 크기
+width: 1200
+align: center
+url: https://link.coupang.com/a/iCGwnhPQnQ
+```
 
 가장 먼저 확인할 건 손 크기다.
 리프트는 작은 손과 중간 손에 맞는 컴팩트한 크기로 설계됐다.
@@ -122,8 +172,14 @@ Logi Options+ 앱에서 버튼 기능을 바꾸고 DPI를 맞출 수 있다.
 다만 손이 크거나 게임용을 찾는 사람에게는 맞지 않을 수 있다.
 이 평가는 링크 유무와 무관하게, 공식 자료와 판매 페이지에 나온 사실만을 기준으로 적었다.
 
-**▶ [쿠팡에서 가격 확인하기](https://link.coupang.com/a/iCGwnhPQnQ)**
-오늘 가격·할인·리뷰를 바로 확인할 수 있어요.
+```blog
+type: link_box
+markdown: |
+  **▶ 쿠팡에서 가격 확인하기**
+  오늘 가격·할인·리뷰를 바로 확인할 수 있어요.
+url: https://link.coupang.com/a/iCGwnhPQnQ
+border_color: "#146C3B"
+```
 
 ## 마무리
 마우스를 바꾸는 건 작은 결정처럼 보인다.
@@ -166,5 +222,6 @@ AA 건전지 1개로 최대 24개월이다.
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
 - 자료 출처: 로지텍 리프트 공식 스펙(57도, AA 1개 최대 24개월, DPI 400–4,000, 108×70×71mm, 125g, 블루투스 LE·Logi Bolt, 3대 기기, 10m, 6버튼, Logi Options+, Windows·macOS·iPadOS·ChromeOS) + 쿠팡 판매 페이지 vp/7295558262 (2026-10-27 크롤 기준: 리뷰 8,530개, 평점 4.8, 한 달간 3,000명 이상 구매, 로지텍 코리아 정품, 무료배송) + 제휴 시리즈 기획안 affiliate-series-plan.md (A군 가격 비공개)
-- 이미지: images/01-hero.jpg는 쿠팡 제품 사진(실물) + 한글 배너 오버레이, 02-img1.jpg ~ 04-img3.jpg는 자작 일러스트 + 한글 배너 오버레이 (1200x675)
+- 이미지: images/01-hero.jpg는 쿠팡 제품 사진(실물) + 한글 배너 오버레이, 02-img1.jpg ~ 04-img3.jpg는 자작 일러스트 + 한글 배너 오버레이 (1200x675). rev4부터 이미지 4장 모두 클릭 시 제휴 링크로 연결 (image 블록 url), 구매 CTA는 link_box 1개.
+- 새 기능 적용 (2026-11-13 blog-components-v1): link_box(구매 CTA), image 블록(클릭 링크·캡션), quote 블록(핵심 정리), table 블록(비교표, 머리행 #123456/흰 글씨), divider 블록(구분선), naver_title_style(나눔고딕 32·가운데). naver_link_cards는 미사용 (link_box가 맞춤 박스라 기본 카드 대신 사용). 문장 중간·추천 링크는 Markdown 링크 유지 (카드로 바꾸지 않음).
 - 가격 비공개(A군): 원고에 가격 수치 없음 — 링크 문구만 "쿠팡에서 가격 확인하기"
