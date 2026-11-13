@@ -2,7 +2,7 @@
 post_id: "2026-11-13-007"
 muse_account: "muse-01"
 language: "en"
-revision: 3
+revision: 4
 status: "ready"
 title: "Canon SELPHY CP1500 Review | Print Your Kids' Photos at Home"
 category: "바로 살 수 있는 테크"
@@ -39,11 +39,7 @@ align: center
 url: https://link.coupang.com/a/iCG56YVorc
 ```
 
-Your phone holds thousands of photos. How many have you actually held in your hands?
-
-Today I'm gathering just the material to judge whether printing photos at home with the Canon SELPHY CP1500 is the right choice for you.
-
-I haven't used it myself — this is a roundup of Canon's official specs, the Coupang product page, and 448 real buyer reviews.
+Your phone holds thousands of photos. How many have you actually held in your hands? Today I'm gathering just the material to judge whether printing photos at home with the Canon SELPHY CP1500 is the right choice for you. I haven't used it myself — this is a roundup of Canon's official specs, the Coupang product page, and 448 real buyer reviews.
 
 If you set up the [Logitech Lift vertical mouse](https://blog.naver.com/3700708/224475023579) on your desk, choose your printer by the same standard. Every object on a desk ends up setting how tired you feel at the end of the day.
 
@@ -81,21 +77,15 @@ align: center
 url: https://link.coupang.com/a/iCG56YVorc
 ```
 
-**No more trips to the photo shop for your kid's pictures.**
-
-Your phone holds hundreds of photos of your kids, but printing them means going to a shop or ordering online. The CP1500 prints at home.
+**No more trips to the photo shop for your kid's pictures.** Your phone holds hundreds of photos of your kids, but printing them means going to a shop or ordering online. The CP1500 prints at home.
 
 "The picture quality exceeded my expectations. I won't need to go to a photo shop to print my kid's photos anymore" (Kongkongijjang). A photo taken today can be on the fridge tonight.
 
-**Print straight from your phone, no computer needed.**
-
-This printer prints directly from your phone. Connect over Wi-Fi or the SELPHY app and there's no need to turn on a computer. An SD card slots straight into the body, too.
+**Print straight from your phone, no computer needed.** This printer prints directly from your phone. Connect over Wi-Fi or the SELPHY app and there's no need to turn on a computer. An SD card slots straight into the body, too.
 
 "The quality is almost identical to what I see on my phone!! Completely satisfied" (Kim). "It's easy to operate — insert a memory card and select photos on the printer itself to print." Printing from your phone turns out to be this easy.
 
-**A photo you can hold becomes a gift, an album, a diary.**
-
-A photo that only lived on a screen feels different once you can hold it. One for a birthday card, one for a diary, one for a frame.
+**A photo you can hold becomes a gift, an album, a diary.** A photo that only lived on a screen feels different once you can hold it. One for a birthday card, one for a diary, one for a frame.
 
 "The photos come out so, so, so, so well" (Lee). At about ₩304 per print (RP-108, 108 sheets), one print doesn't cost much. An overcoat protects against water and fingerprints, and Canon says album-stored prints last 100 years.
 
@@ -111,21 +101,15 @@ align: center
 url: https://link.coupang.com/a/iCG56YVorc
 ```
 
-**Ink and paper aren't included. The box holds the printer only.**
-
-You get the printer, adapter, and manual. Ink and paper are separate purchases.
+**Ink and paper aren't included. The box holds the printer only.** You get the printer, adapter, and manual. Ink and paper are separate purchases.
 
 "Ink and paper are not included, so I recommend buying them together." Order paper (RP-108 and similar) together. Otherwise the printer arrives and you can't use it right away.
 
-**The battery is sold separately, so it only works plugged in.**
-
-The body looks small and light enough to carry, but without the optional battery it only works near an outlet.
+**The battery is sold separately, so it only works plugged in.** The body looks small and light enough to carry, but without the optional battery it only works near an outlet.
 
 "You can't print while carrying it around" (Lee). To print outdoors or on a trip, you need the battery too.
 
-**Prints come out slightly curled, and some report connection failures.**
-
-A 1-star review (Park, 2026.10.14) says the unit wouldn't connect at all, and not a single photo was printed.
+**Prints come out slightly curled, and some report connection failures.** A 1-star review (Park, 2026.10.14) says the unit wouldn't connect at all, and not a single photo was printed.
 
 "It doesn't print completely flat — it comes out slightly curled" (Kim). If you expect photo-shop sharpness, you may be disappointed.
 
@@ -177,9 +161,7 @@ align: center
 url: https://link.coupang.com/a/iCG56YVorc
 ```
 
-If you want to turn the photos piling up on your phone into one you can hold, this printer is worth a serious look.
-
-But if you need the battery too, or expect photo-shop sharpness, these reviews alone aren't enough. Compare a few printers first.
+If you want to turn the photos piling up on your phone into one you can hold, this printer is worth a serious look. But if you need the battery too, or expect photo-shop sharpness, these reviews alone aren't enough. Compare a few printers first.
 
 Like [automating Instagram card news with Claude Code](https://blog.naver.com/3700708/224474066475), changing one desk tool at a time eventually changes how you work.
 
@@ -221,9 +203,9 @@ If your phone holds nothing but photos, hold at least one of them in your hands.
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
-- rev3 complete rewrite (2026-11-13 18:00, user instruction "원고를 완전 다시 작성해서 재업로드"): rev2's split blog text blocks (3 blocks per downside) created excessive line spacing. Rewrite rule — all flowing text as plain markdown paragraphs (blog text blocks only for images·tables·lists·the single affiliate disclosure block). Paragraphs break every 2-3 sentences, quotes woven naturally into the paragraph. Downside bold lead loses the red color (#C0392B) because plain markdown can't carry color (readability first, color dropped). Affiliate disclosure moved to the very top (before the hero) to fix the "not at the very top" issue found in the WordPress check. Hero image regenerated (headline left margin 48→80, font 52→48, fixing the clipped "폰 속").
-- Recommended section (English): image banners kept (rec1-3-hero-en.jpg) — naver_link_cards is Naver-only and the English edition targets wordpress-en and blogger-en only.
+- rev4 rewrite (2026-11-13 18:05, user report "글 띄어쓰기 간격 이상, og카드 비이상적으로 크다"): rev3 was live on Naver but spacing was still abnormal. Cause — rev3 still split scenes and downsides into 3 paragraphs (bold lead on its own line + explanation + quote). rev4 rule — 2 paragraphs per scene/downside, bold lead inline at the start of the first paragraph (no standalone lead line). Intro merged into one paragraph, conclusion merged into one paragraph. Recommended section reverted from OG cards to image banners (naver_link_cards renders as oversized large-image cards on Naver). English keeps image banners (naver_link_cards is Naver-only).
+- rev3 changes kept: affiliate disclosure at the very top (before hero), regenerated hero (wider headline margin), flowing text as plain markdown paragraphs (blog text blocks only for images·tables·lists·the single disclosure block), downside bold lead without red color (plain markdown, readability first).
 - Sources: Canon SELPHY CP1500 official specs (dye-sublimation, 300×300 dpi, postcard 4×6 in / wallet / sticker, 41 sec per print, 3.5 in color LCD, Wi-Fi·USB·SD·AirPrint·SELPHY app, overcoat·100-year preservation, 182.2×133.0×57.6 mm·about 850 g) + Coupang product page vp/6882547049 (2026-11-13 Chrome direct check: confirmed price ₩200,000·Wow coupon ₩181,000, 448 reviews·89% 5 stars·6% 4 stars·2% 3 stars·1% 2 stars·2% 1 star, Rocket delivery·free shipping·arrives 11/14, seller Coupang Inc.·manufacturer/importer Canon Korea·A/S 1533-3355, colors black/pink/white, contents printer + adapter CA-CP300B + paper cassette PCP-CP400, ink and paper not included, battery sold separately) + real buyer review quotes (3 pros · 3 cons, incl. 11 one-star reviews) + affiliate series format "구매 판단 재료" (2026-11-13) + design/highlight research (2026-11-13).
-- Images: 01-hero-en.jpg (regenerated, wider headline margin), 02-img1-en.jpg, 03-img2-en.jpg, 04-img3-en.jpg, 05-banner-cta-en.jpg, 06-infographic-en.jpg. All images link to the affiliate URL (image block url). No AI illustrations — all real product photos.
+- Images: 01-hero-en.jpg (regenerated, wider headline margin), 02-img1-en.jpg, 03-img2-en.jpg, 04-img3-en.jpg, 05-banner-cta-en.jpg, 06-infographic-en.jpg, rec1-hero-en.jpg, rec2-hero-en.jpg, rec3-hero-en.jpg. All images link to the affiliate URL (image block url). No AI illustrations — all real product photos.
 - Price policy (2026-11-13 16:40): price appears once, in the overview table, as plain text (no bold·color·large). No price in the infographic or banner. Confirmed price ₩200,000 (confirmed 2026-11-13, general sale price). Wow coupon ₩181,000 is a conditional price, noted in the same row.
 - Corrections vs snapshot: confirmed price ₩207,000 (2026-10-22 crawl) → ₩200,000 (2026-11-13 confirmed). Reviews 453 → 448. The 4.8 rating has no numeric display on the page, so it is shown as "95% 4 stars or higher" from the star distribution (~4.76 calculated). Seller is Coupang Inc. only — the page has no "Canon Korea official seller" wording, so no official-seller claim; manufacturer/importer is Canon Korea.
