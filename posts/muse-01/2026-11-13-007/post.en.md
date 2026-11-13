@@ -2,9 +2,9 @@
 post_id: "2026-11-13-007"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
-title: "Canon SELPHY CP1500 Review Roundup | What 448 Reviews Say — Pros and Cons"
+title: "Canon SELPHY CP1500 Review | Print Your Kids' Photos at Home"
 category: "바로 살 수 있는 테크"
 targets: ["wordpress-en", "blogger-en"]
 tags: ["CanonSELPHY", "CP1500", "PhotoPrinter", "PhotoPrinting", "SELPHYPrinter", "PhotoPrinterReview", "PrintPaper", "BuyItNowTech"]
@@ -81,13 +81,19 @@ url: https://link.coupang.com/a/iCG56YVorc
 ```
 
 **No more trips to the photo shop for your kid's pictures.**
-Your phone holds hundreds of photos of your kids, but printing them means going to a shop or ordering online. The CP1500 prints at home. "The picture quality exceeded my expectations. I won't need to go to a photo shop to print my kid's photos anymore" (Kongkongijjang). A photo taken today can be on the fridge tonight. That removal of a small errand is the printer's biggest use.
+Your phone holds hundreds of photos of your kids, but printing them means going to a shop or ordering online. The CP1500 prints at home.
+
+"The picture quality exceeded my expectations. I won't need to go to a photo shop to print my kid's photos anymore" (Kongkongijjang). A photo taken today can be on the fridge tonight.
 
 **Print straight from your phone, no computer needed.**
-This printer prints directly from your phone. Connect over Wi-Fi or the SELPHY app and there's no need to turn on a computer. "The quality is almost identical to what I see on my phone!! Completely satisfied" (Kim). "Install the SELPHY app on your phone and just follow the manual to connect to the printer easily." An SD card slots straight into the body, too. "It's easy to operate — insert a memory card and select photos on the printer itself to print." Printing from your phone turns out to be this easy.
+This printer prints directly from your phone. Connect over Wi-Fi or the SELPHY app and there's no need to turn on a computer. An SD card slots straight into the body, too.
+
+"The quality is almost identical to what I see on my phone!! Completely satisfied" (Kim). "It's easy to operate — insert a memory card and select photos on the printer itself to print." Printing from your phone turns out to be this easy.
 
 **A photo you can hold becomes a gift, an album, a diary.**
-A photo that only lived on a screen feels different once you can hold it. One for a birthday card, one for a diary, one for a frame. "The photos come out so, so, so, so well" (Lee). At about ₩304 per print (RP-108, 108 sheets), one print doesn't cost much. An overcoat protects against water and fingerprints, and Canon says album-stored prints last 100 years. There's a moment when a photo stops being a file and becomes an object.
+A photo that only lived on a screen feels different once you can hold it. One for a birthday card, one for a diary, one for a frame.
+
+"The photos come out so, so, so, so well" (Lee). At about ₩304 per print (RP-108, 108 sheets), one print doesn't cost much. An overcoat protects against water and fingerprints, and Canon says album-stored prints last 100 years.
 
 ## The downsides, too
 
@@ -107,7 +113,21 @@ style: {font_size: 16, line_height: 1.8}
 runs:
   - text: "Ink and paper aren't included. The box holds the printer only. "
     style: {bold: true, color: "#C0392B"}
-  - text: "\"I only bought the printer — the box contains the printer, adapter, and manual. Ink and paper are not included, so I recommend buying them together.\" A product Q&A answer (2026/11/02) also confirms the ink isn't included. Reviewers raise this again and again, so order paper (RP-108 and similar) together. Otherwise the printer arrives and you can't use it right away."
+  - text: "You get the printer, adapter, and manual. Ink and paper are separate purchases."
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "\"Ink and paper are not included, so I recommend buying them together.\""
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "Order paper (RP-108 and similar) together. Otherwise the printer arrives and you can't use it right away."
 ```
 
 ```blog
@@ -116,7 +136,21 @@ style: {font_size: 16, line_height: 1.8}
 runs:
   - text: "The battery is sold separately, so it only works plugged in. "
     style: {bold: true, color: "#C0392B"}
-  - text: "\"The downside is having to connect the power cord and adapter — slightly annoying.\" \"You can't print while carrying it around. It's a portable size, but you can't print while you're out\" (Lee). The body looks small and light enough to carry, but without the optional battery it only works near an outlet. To print outdoors or on a trip, you need the battery too — and it isn't cheap."
+  - text: "The body looks small and light enough to carry, but without the optional battery it only works near an outlet."
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "\"You can't print while carrying it around\" (Lee)."
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "To print outdoors or on a trip, you need the battery too."
 ```
 
 ```blog
@@ -125,7 +159,21 @@ style: {font_size: 16, line_height: 1.8}
 runs:
   - text: "Prints come out slightly curled, and some report connection failures. "
     style: {bold: true, color: "#C0392B"}
-  - text: "\"It doesn't print completely flat — it comes out slightly curled\" (Kim). \"I connected it to my computer with a cable… and it wouldn't connect\" (Kim). A 1-star review (Park, 2026.10.14) says: \"Maybe the unit I got was defective — it wouldn't connect at all. I couldn't print a single photo.\" Another reviewer notes \"a clear difference in sharpness compared to photos printed at a photo shop or a professional printing service\" (Lee Dong-geun). If you expect photo-shop sharpness, you may be disappointed."
+  - text: "A 1-star review (Park, 2026.10.14) says the unit wouldn't connect at all, and not a single photo was printed."
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "\"It doesn't print completely flat — it comes out slightly curled\" (Kim)."
+```
+
+```blog
+type: text
+style: {font_size: 16, line_height: 1.8}
+runs:
+  - text: "If you expect photo-shop sharpness, you may be disappointed."
 ```
 
 ## Who it's for / who should skip it
