@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 8
+revision: 9
 status: "ready"
 title: "Logitech Lift Vertical Mouse Review Roundup | What 9,817 Reviews Say — Pros and Cons"
 category: "바로 살 수 있는 테크"
@@ -49,8 +49,8 @@ What sits on your desk decides how tired you feel by the end of the day.
 ```blog
 type: image
 path: images/06-infographic-en.jpg
-alt: Logitech Lift at a glance — checked price, reviews, key specs, pros and cons
-caption: Logitech Lift at a glance — price, reviews, specs, pros and cons on one sheet
+alt: Logitech Lift at a glance — features, reviews, pros and cons
+caption: Logitech Lift at a glance — features, reviews, pros and cons on one sheet
 width: 1200
 align: center
 url: https://link.coupang.com/a/iCGwnhPQnQ
@@ -60,7 +60,7 @@ url: https://link.coupang.com/a/iCGwnhPQnQ
 type: table
 rows:
   - [{text: "Item", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Details", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
-  - [{text: "Checked price"}, {runs: [{text: "₩62,970", style: {bold: true, color: "#007aa6"}}, {text: " (checked 2026-11-13, list price ₩89,900, graphite)"}]}]
+  - [{text: "Checked price"}, {text: "₩62,970 (checked 2026-11-13, list price ₩89,900, graphite)"}]
   - [{text: "Reviews"}, {text: "9,817 reviews · 5 stars 91% · 4 stars 6% (4 stars or higher: 97%)"}]
   - [{text: "Key specs"}, {text: "57-degree angle · one AA battery, up to 24 months · DPI 400–4,000 · Bluetooth and Logi Bolt, up to 3 devices"}]
   - [{text: "Size and weight"}, {text: "108 × 70 × 71 mm · 125 g (Logitech official specs)"}]
@@ -68,7 +68,7 @@ rows:
   - [{text: "Seller"}, {text: "CR Tech Co. (official Logitech Korea certified seller · official importer Double Information Technology · after-sales service available)"}]
 ```
 
-## What real buyers say
+## What changes when you actually use it?
 
 ```blog
 type: image
@@ -80,21 +80,16 @@ align: center
 url: https://link.coupang.com/a/iCGwnhPQnQ
 ```
 
-**Most reviews say wrist pain went down.**
-"I live with wrist pain as an office worker — I wish I had bought this sooner" (buyer, 2026.11.11).
-"My wrist pain really dropped noticeably" (buyer, 2026.11.05).
-"Rest your hand on it and it wraps around at a natural 57-degree angle, like a handshake" (buyer).
-The 57-degree angle and the Asian-fit size come up again and again.
+**The moment your wrist stands up.**
+A regular mouse has you hold your hand flat, palm down. Keep that pose all day and your wrist stays twisted stiff. The Lift holds your hand at a 57-degree angle — like a handshake. "Rest your hand on it and it wraps around at a natural 57-degree angle, like a handshake" (buyer). That is why "less wrist pain" is the most common thing buyers mention.
 
-**The clicks are nearly silent, reviewers say.**
-"The click sound is really quiet" (buyer, 2026.09.28).
-"The low-noise switch barely makes a sound, so I can use it in a quiet office or during meetings without worrying" (buyer).
-One caveat: the side buttons aren't silent. More on that in the cons below.
+**Silent clicks matter more than you would think.**
+You notice click noise most in quiet places — during a meeting, in a shared office, late at night. The Lift's main clicks are near-silent, so buyers say they can use it "in a quiet office or during meetings without worrying" (buyer). One caveat: the side buttons aren't silent. More on that in the cons below.
 
-**Battery life and multi-device switching are easy, reviewers say.**
-"One AA battery lasts up to two years, so there is no charging stress — I like that" (buyer).
-"One Easy-Switch button switches easily between up to three devices" (buyer).
-No charging cable to plug in — one battery swap is all it needs.
+**Three devices on one desk, one button to switch.**
+If you work across a laptop, a tablet, and a desktop, one Easy-Switch button moves between up to three devices. "One Easy-Switch button switches easily between up to three devices" (buyer). And one AA battery lasts up to 24 months, so there is no charging cable to think about. "One AA battery lasts up to two years, so there is no charging stress — I like that" (buyer).
+
+## The downsides
 
 ```blog
 type: text
@@ -165,7 +160,7 @@ items:
 type: image
 path: images/05-banner-cta-en.jpg
 alt: Check the lowest price for the Logitech Lift on Coupang
-caption: Check the lowest price on Coupang · Checked price ₩62,970 (2026-11-13)
+caption: Check the lowest price on Coupang
 width: 1200
 align: center
 url: https://link.coupang.com/a/iCGwnhPQnQ
@@ -187,8 +182,9 @@ If stiff wrists are a regular thing, try standing your mouse upright.
 ## Working notes (not for upload)
 
 - Sources: Logitech Lift official specs (57 degrees, one AA battery up to 24 months, DPI 400–4,000, 108×70×71 mm, 125 g, Bluetooth LE and Logi Bolt, up to 3 devices, 10 m range, 6 buttons, Logi Options+, Windows/macOS/iPadOS/ChromeOS) + Coupang product page vp/7295558262 (checked directly in Chrome, 2026-11-13, graphite: checked price ₩62,970, list price ₩89,900, 9,817 reviews, 5 stars 91%, 4 stars 6%, over 4,000 buyers in a month, not Rocket delivery, free shipping via CJ Logistics arriving 11/17, seller CR Tech Co., official Logitech Korea certified seller, official importer Double Information Technology, after-sales service available) + real buyer review quotes translated from Korean (3 pros, 3 cons, including 1-star 127 and 2-star 53) + affiliate new format "buying guide material" (affiliate-research-2026-11-13-v2.md section 7, adopted by the user 2026-11-13 15:41) + design and highlight research (2026-11-13, blog-design-improvement-research-2026-11-13.md, blog-writing-highlight-research-2026-11-13.md)
-- Images: 01-hero-en.jpg (real Coupang product photo + English banner overlay), 02-img1-en.jpg (**rev7: AI illustration replaced with a real product photo** — graphite side profile, review photo from android.com.pl), 04-img3-en.jpg (**rev7: AI illustration replaced with a real product photo** — hand holding the graphite mouse, Logitech official press photo via 9to5toys, right half), 05-banner-cta-en.jpg (purchase CTA banner — real product photo + "Check the lowest price on Coupang" + checked price ₩62,970, click leads to the affiliate link). All 4 images link to the affiliate URL on click (image block url). Banner image CTA used instead of link_box (user instruction 2026-11-13 15:47).
+- Images: 01-hero-en.jpg (real Coupang product photo + English banner overlay), 02-img1-en.jpg (**rev7: AI illustration replaced with a real product photo** — graphite side profile, review photo from android.com.pl), 04-img3-en.jpg (**rev7: AI illustration replaced with a real product photo** — hand holding the graphite mouse, Logitech official press photo via 9to5toys, right half), 05-banner-cta-en.jpg (purchase CTA banner — real product photo + "Check the lowest price on Coupang" + feature lines "57° angle · near-silent clicks / 1 AA · up to 24 months", **price removed in rev9**, click leads to the affiliate link). All 4 images link to the affiliate URL on click (image block url). Banner image CTA used instead of link_box (user instruction 2026-11-13 15:47).
 - New features applied (blog-components-v1): runs formatting (disclosure bold + color #007aa6, checked price bold + color, cons bold + red #C0392B), table blocks (at-a-glance table and recommend/not-recommend table, header #123456/white text), list block (checklist ✅/⚠️), image blocks (click link + caption), no naver_title_style (no Naver target for English). naver_link_cards not used. Mid-sentence and recommended-read links stay as Markdown links (not converted to cards).
 - Tone revision (rev7, 2026-11-13 user feedback): applied the human-writing skill (blog_writing_guideline.md 4.3, 4.3.1 AI-tell checklist, 4.6). (1) Intro disclosure condensed from 3 stiff sentences to one flowing sentence in the N3 (AMSKY letsdowhatilove) style; (2) dropped the declarative "Facts and reviews are kept apart, and the assessment is written independently of the affiliate link" sentence — fairness is shown by including the cons; (3) removed mechanical "Pro 1/2/3, Con 1/2/3" numbering, "See the cons below" → "More on that in the cons below", conclusion rewritten as a human weighing rather than a summary.
 - Corrections vs rev5: checked price ₩62,970 shown (group A no-price policy dropped, decision 2026-11-13 15:41). Rocket delivery claim removed — this listing is not Rocket delivery (free shipping). Reviews 8,500 → 9,817, monthly buyers 3,000 → over 4,000. Title changed to "[Product] + Review Roundup" format.
 - rev8 (2026-11-13 user instruction): one-sheet summary infographic added after the intro (06-infographic-en.jpg, 1200×1500: checked price, reviews, spec grid, pros/cons, shipping), click leads to the affiliate link. Same change as Korean rev7 (the English post had no neighbor-add CTA line).
+- rev9 (2026-11-13 16:40 user feedback — "content too thin, no purchase desire or curiosity; don't repeat the price or write it big; I'm not a lowest-price seller, the post should make readers curious about features and use"): **price de-emphasized** — price appears once in the at-a-glance table as plain text (bold + accent removed), removed from the infographic (redesigned around features: 57° angle, near-silent switch, AA up to 24 months, Easy-Switch 3 devices + who it's for) and from the CTA banner image and caption (feature lines added instead). **Content enriched** — the pro list under "What real buyers say" rewritten as "What changes when you actually use it?" with three use scenes (wrist stands up at 57°, silent clicks in quiet places, one-button switching across 3 devices + battery), cons moved under "The downsides". Affiliate format policy change: price stated once as plain text only, the post leads with the curiosity and desire that come from features and use.
