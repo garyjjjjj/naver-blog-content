@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "ko"
-revision: 8
+revision: 9
 status: "ready"
 title: "로지텍 리프트 버티컬 마우스 후기 정리｜9,817개 리뷰의 장점과 단점"
 category: "바로 살 수 있는 테크"
@@ -60,13 +60,13 @@ url: https://link.coupang.com/a/iCGwnhPQnQ
 ```blog
 type: table
 rows:
-  - [{text: "항목", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "내용", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
-  - [{text: "확인 가격"}, {text: "62,970원 (2026-11-13 확인, 정가 89,900원, 그래파이트 기준)"}]
-  - [{text: "리뷰"}, {text: "9,817개 · 5점 91% · 4점 6% (4점 이상 97%)"}]
-  - [{text: "핵심 스펙"}, {text: "57도 각도 · AA 건전지 1개로 최대 24개월 · DPI 400–4,000 · 블루투스·Logi Bolt 3대 기기"}]
-  - [{text: "크기·무게"}, {text: "108×70×71mm · 125g (로지텍 공식 스펙)"}]
-  - [{text: "배송"}, {text: "로켓배송 아님 · 무료배송 (CJ대한통운 순차배송, 11/17 도착 예정)"}]
-  - [{text: "판매자"}, {text: "주식회사씨알텍 (로지텍 코리아 정품 공식 판매점 · 공식 수입사 더블정보기술 · AS 가능)"}]
+  - [{text: "항목", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 18}, {text: "내용", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 82}]
+  - [{text: "확인 가격", width: 18}, {text: "62,970원 (2026-11-13 확인, 정가 89,900원, 그래파이트 기준)", width: 82}]
+  - [{text: "리뷰", width: 18}, {text: "9,817개 · 5점 91% · 4점 6% (4점 이상 97%)", width: 82}]
+  - [{text: "핵심 스펙", width: 18}, {text: "57도 각도 · AA 건전지 1개로 최대 24개월 · DPI 400–4,000 · 블루투스·Logi Bolt 3대 기기", width: 82}]
+  - [{text: "크기·무게", width: 18}, {text: "108×70×71mm · 125g (로지텍 공식 스펙)", width: 82}]
+  - [{text: "배송", width: 18}, {text: "로켓배송 아님 · 무료배송 (CJ대한통운 순차배송, 11/17 도착 예정)", width: 82}]
+  - [{text: "판매자", width: 18}, {text: "주식회사씨알텍 (로지텍 코리아 정품 공식 판매점 · 공식 수입사 더블정보기술 · AS 가능)", width: 82}]
 ```
 
 ## 이 마우스, 써보면 뭐가 다를까?
@@ -124,15 +124,15 @@ runs:
 ```blog
 type: table
 rows:
-  - [{text: "구분", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "이런 사람", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "한 줄 이유", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
-  - [{text: "추천"}, {text: "손목 통증으로 하루 종일 마우스 잡는 직장인"}, {text: "57도 각도로 손목 부담을 줄인다는 후기가 가장 많다"}]
-  - [{text: "추천"}, {text: "조용한 사무실·공유 공간에서 쓰는 사람"}, {text: "메인 클릭이 무소음이라는 후기가 반복된다"}]
-  - [{text: "추천"}, {text: "노트북·태블릿·데스크톱 3대를 오가는 사람"}, {text: "이지스위치로 3대 기기를 버튼 하나로 전환"}]
-  - [{text: "추천"}, {text: "충전 스트레스 없이 오래 쓰는 마우스 찾는 사람"}, {text: "AA 1개로 최대 24개월"}]
-  - [{text: "비추천"}, {text: "손이 큰 사람"}, {text: "작은 손·중간 손용 컴팩트 설계, 손가락이 남는다는 후기"}]
-  - [{text: "비추천"}, {text: "게임용·정밀 그래픽 작업용 찾는 사람"}, {text: "사무·문서용 마우스, DPI·무게를 따로 따져야 한다"}]
-  - [{text: "비추천"}, {text: "왼손잡이"}, {text: "이 모델은 오른손잡이용, 왼손 모델은 별도로 확인"}]
-  - [{text: "비추천"}, {text: "가벼운 마우스 찾는 사람"}, {text: "125g, 무겁다는 1점 후기가 있다"}]
+  - [{text: "구분", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 12}, {text: "이런 사람", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 40}, {text: "한 줄 이유", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 48}]
+  - [{text: "추천", width: 12}, {text: "손목 통증으로 하루 종일 마우스 잡는 직장인", width: 40}, {text: "57도 각도로 손목 부담을 줄인다는 후기가 가장 많다", width: 48}]
+  - [{text: "추천", width: 12}, {text: "조용한 사무실·공유 공간에서 쓰는 사람", width: 40}, {text: "메인 클릭이 무소음이라는 후기가 반복된다", width: 48}]
+  - [{text: "추천", width: 12}, {text: "노트북·태블릿·데스크톱 3대를 오가는 사람", width: 40}, {text: "이지스위치로 3대 기기를 버튼 하나로 전환", width: 48}]
+  - [{text: "추천", width: 12}, {text: "충전 스트레스 없이 오래 쓰는 마우스 찾는 사람", width: 40}, {text: "AA 1개로 최대 24개월", width: 48}]
+  - [{text: "비추천", width: 12}, {text: "손이 큰 사람", width: 40}, {text: "작은 손·중간 손용 컴팩트 설계, 손가락이 남는다는 후기", width: 48}]
+  - [{text: "비추천", width: 12}, {text: "게임용·정밀 그래픽 작업용 찾는 사람", width: 40}, {text: "사무·문서용 마우스, DPI·무게를 따로 따져야 한다", width: 48}]
+  - [{text: "비추천", width: 12}, {text: "왼손잡이", width: 40}, {text: "이 모델은 오른손잡이용, 왼손 모델은 별도로 확인", width: 48}]
+  - [{text: "비추천", width: 12}, {text: "가벼운 마우스 찾는 사람", width: 40}, {text: "125g, 무겁다는 1점 후기가 있다", width: 48}]
 ```
 
 ## 사기 전에 확인할 것

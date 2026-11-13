@@ -2,7 +2,7 @@
 post_id: "2026-11-13-005"
 muse_account: "muse-01"
 language: "en"
-revision: 9
+revision: 10
 status: "ready"
 title: "Logitech Lift Vertical Mouse Review Roundup | What 9,817 Reviews Say — Pros and Cons"
 category: "바로 살 수 있는 테크"
@@ -59,13 +59,13 @@ url: https://link.coupang.com/a/iCGwnhPQnQ
 ```blog
 type: table
 rows:
-  - [{text: "Item", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Details", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
-  - [{text: "Checked price"}, {text: "₩62,970 (checked 2026-11-13, list price ₩89,900, graphite)"}]
-  - [{text: "Reviews"}, {text: "9,817 reviews · 5 stars 91% · 4 stars 6% (4 stars or higher: 97%)"}]
-  - [{text: "Key specs"}, {text: "57-degree angle · one AA battery, up to 24 months · DPI 400–4,000 · Bluetooth and Logi Bolt, up to 3 devices"}]
-  - [{text: "Size and weight"}, {text: "108 × 70 × 71 mm · 125 g (Logitech official specs)"}]
-  - [{text: "Shipping"}, {text: "Not Rocket delivery · free shipping (CJ Logistics, sequential delivery, arriving 11/17)"}]
-  - [{text: "Seller"}, {text: "CR Tech Co. (official Logitech Korea certified seller · official importer Double Information Technology · after-sales service available)"}]
+  - [{text: "Item", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 20}, {text: "Details", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 80}]
+  - [{text: "Checked price", width: 20}, {text: "₩62,970 (checked 2026-11-13, list price ₩89,900, graphite)", width: 80}]
+  - [{text: "Reviews", width: 20}, {text: "9,817 reviews · 5 stars 91% · 4 stars 6% (4 stars or higher: 97%)", width: 80}]
+  - [{text: "Key specs", width: 20}, {text: "57-degree angle · one AA battery, up to 24 months · DPI 400–4,000 · Bluetooth and Logi Bolt, up to 3 devices", width: 80}]
+  - [{text: "Size and weight", width: 20}, {text: "108 × 70 × 71 mm · 125 g (Logitech official specs)", width: 80}]
+  - [{text: "Shipping", width: 20}, {text: "Not Rocket delivery · free shipping (CJ Logistics, sequential delivery, arriving 11/17)", width: 80}]
+  - [{text: "Seller", width: 20}, {text: "CR Tech Co. (official Logitech Korea certified seller · official importer Double Information Technology · after-sales service available)", width: 80}]
 ```
 
 ## What changes when you actually use it?
@@ -123,15 +123,15 @@ runs:
 ```blog
 type: table
 rows:
-  - [{text: "Verdict", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Who", header: true, style: {background: "#123456", color: "#FFFFFF"}}, {text: "Why, in one line", header: true, style: {background: "#123456", color: "#FFFFFF"}}]
-  - [{text: "Recommended"}, {text: "Office workers who hold a mouse all day with wrist pain"}, {text: "Most reviews credit the 57-degree angle with easing wrist strain"}]
-  - [{text: "Recommended"}, {text: "People working in quiet offices or shared spaces"}, {text: "The main clicks are repeatedly called near-silent"}]
-  - [{text: "Recommended"}, {text: "People switching between a laptop, tablet, and desktop"}, {text: "Easy-Switch moves between 3 devices with one button"}]
-  - [{text: "Recommended"}, {text: "People who want a mouse that lasts without charging"}, {text: "One AA battery, up to 24 months"}]
-  - [{text: "Not recommended"}, {text: "People with large hands"}, {text: "Compact design for small and medium hands; fingers may overhang"}]
-  - [{text: "Not recommended"}, {text: "People looking for a gaming or precision graphics mouse"}, {text: "An office and document mouse; weigh DPI and weight separately"}]
-  - [{text: "Not recommended"}, {text: "Left-handed users"}, {text: "This model is right-handed; the left-handed model is separate"}]
-  - [{text: "Not recommended"}, {text: "People who want a light mouse"}, {text: "125 g, with 1-star reviews calling it heavy"}]
+  - [{text: "Verdict", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 20}, {text: "Who", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 38}, {text: "Why, in one line", header: true, style: {background: "#123456", color: "#FFFFFF"}, width: 42}]
+  - [{text: "Recommended", width: 20}, {text: "Office workers who hold a mouse all day with wrist pain", width: 38}, {text: "Most reviews credit the 57-degree angle with easing wrist strain", width: 42}]
+  - [{text: "Recommended", width: 20}, {text: "People working in quiet offices or shared spaces", width: 38}, {text: "The main clicks are repeatedly called near-silent", width: 42}]
+  - [{text: "Recommended", width: 20}, {text: "People switching between a laptop, tablet, and desktop", width: 38}, {text: "Easy-Switch moves between 3 devices with one button", width: 42}]
+  - [{text: "Recommended", width: 20}, {text: "People who want a mouse that lasts without charging", width: 38}, {text: "One AA battery, up to 24 months", width: 42}]
+  - [{text: "Not recommended", width: 20}, {text: "People with large hands", width: 38}, {text: "Compact design for small and medium hands; fingers may overhang", width: 42}]
+  - [{text: "Not recommended", width: 20}, {text: "People looking for a gaming or precision graphics mouse", width: 38}, {text: "An office and document mouse; weigh DPI and weight separately", width: 42}]
+  - [{text: "Not recommended", width: 20}, {text: "Left-handed users", width: 38}, {text: "This model is right-handed; the left-handed model is separate", width: 42}]
+  - [{text: "Not recommended", width: 20}, {text: "People who want a light mouse", width: 38}, {text: "125 g, with 1-star reviews calling it heavy", width: 42}]
 ```
 
 ## Check before you buy
