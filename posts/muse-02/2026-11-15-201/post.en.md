@@ -3,7 +3,7 @@ post_id: "2026-11-15-201"
 muse_account: "muse-02"
 title: "A Smartphone Built to Last Until 2033 — Fairphone Gen. 6 and Gen. 6+, What to Check Before Buying"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
@@ -22,7 +22,7 @@ When a smartphone breaks, there are two options: pay an expensive repair bill, o
 type: image
 path: images/01-hero.jpg
 alt: Fairphone Gen. 6 in Forest Green, front and back
-caption: Official image of the Fairphone Gen. 6 in Forest Green (source: Fairphone, CC BY-SA 4.0). Open just the lower back cover and the battery is right there.
+caption: "Official image of the Fairphone Gen. 6 in Forest Green (source: Fairphone, CC BY-SA 4.0). Open just the lower back cover and the battery is right there."
 url: https://www.fairphone.com/the-fairphone-gen-6
 ```
 
