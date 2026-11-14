@@ -3,7 +3,7 @@ post_id: "2026-11-15-201"
 muse_account: "muse-02"
 title: "2033년까지 쓰는 스마트폰 — 페어폰 Gen. 6와 Gen. 6+, 사기 전에 확인할 조건"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
@@ -29,7 +29,7 @@ naver_link_cards:
 type: image
 path: images/01-hero.jpg
 alt: 페어폰 Gen. 6 포레스트 그린 앞뒤 모습
-caption: 페어폰 Gen. 6 포레스트 그린 공식 이미지 (출처: Fairphone, CC BY-SA 4.0). 뒷면 아래쪽 커버만 열면 배터리가 바로 나온다.
+caption: "페어폰 Gen. 6 포레스트 그린 공식 이미지 (출처: Fairphone, CC BY-SA 4.0). 뒷면 아래쪽 커버만 열면 배터리가 바로 나온다."
 url: https://www.fairphone.com/the-fairphone-gen-6
 ```
 
