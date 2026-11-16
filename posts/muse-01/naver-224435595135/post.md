@@ -3,7 +3,7 @@ post_id: "naver-224435595135"
 muse_account: "muse-01"
 language: "ko"
 revision: 1
-status: "ready"
+status: "draft"
 title: "뮤즈 AI 가입방법｜초대코드 O2CK1A 입력하고 10억 토큰 받는 법"
 category: "뮤즈 AI"
 targets: ["wordpress-ko", "blogger-ko", "tistory-ko"]
