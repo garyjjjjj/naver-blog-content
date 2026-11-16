@@ -2,7 +2,7 @@
 post_id: "2026-11-17-001"
 muse_account: "muse-01"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
 title: "2030년 AI 전망｜16가지 혁신 연대표로 읽다"
 category: "AI 뉴스"
@@ -15,7 +15,7 @@ editing: "format_only"
 cover_image: "images/01-hero.jpg"
 naver_link_cards:
   - url: "https://blog.naver.com/3700708/224477518377"
-    occurrence: 2
+    occurrence: 1
   - url: "https://blog.naver.com/3700708/224478573702"
     occurrence: 1
 result:

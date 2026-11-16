@@ -16,9 +16,9 @@ cover_image: "images/01-hero.jpg"
 naver_title_style: {font_family: 나눔고딕, font_size: 32, align: center}
 naver_link_cards:
   - url: https://blog.naver.com/3700708/224478574315
-    occurrence: 2
+    occurrence: 1
   - url: https://blog.naver.com/3700708/224478573702
-    occurrence: 2
+    occurrence: 1
 result:
   url: ""
   completed_at: ""

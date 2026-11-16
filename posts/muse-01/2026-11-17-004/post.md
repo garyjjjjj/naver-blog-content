@@ -18,11 +18,11 @@ editing: "format_only"
 cover_image: "images/01-hero.jpg"
 naver_link_cards:
   - url: "https://blog.naver.com/3700708/224478573702"
-    occurrence: 2
+    occurrence: 1
   - url: "https://blog.naver.com/3700708/224474068089"
     occurrence: 1
   - url: "https://blog.naver.com/3700708/224474081075"
-    occurrence: 2
+    occurrence: 1
 result:
   url: ""
   completed_at: ""
