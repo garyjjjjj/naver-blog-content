@@ -2,7 +2,7 @@
 post_id: "2026-11-02-004"
 muse_account: "muse-01"
 language: "en"
-revision: 3
+revision: 4
 status: "ready"
 title: "A Replicant with Memories｜What Blade Runner 2049 Asks About Being Human"
 category: "AI 영화·영상"
@@ -24,7 +24,7 @@ result:
 
 <!-- 본문 시작 -->
 
-![Blade Runner 2049](images/01-hero.jpg)
+![Blade Runner 2049](images/01-hero-en.jpg)
 
 Los Angeles, 2049.
 Replicants — bioengineered beings almost indistinguishable from humans — live in the middle of society.
@@ -141,3 +141,4 @@ A. As checked on 2026-11-02, Wavve rental was HD 1,300 won and purchase HD 5,500
 
 - 자료 출처: TMDB Korea page checked 2026-11-02 (same facts as Korean version)
 - 이미지: 4 TMDB backdrops, cropped to 1200x675 / no ending scenes
+
