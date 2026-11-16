@@ -1,7 +1,7 @@
 ---
 post_id: "2026-10-21-002"
 muse_account: "muse-01"
-revision: 3
+revision: 4
 language: "en"
 status: "ready"
 title: "Say It Once, and Your 8 AM Report Writes Itself | Grok Bot's 3 Automation Tricks"
@@ -68,7 +68,7 @@ Not getting stuck on unsupported services is one of its biggest strengths.
 Third, **it sees the job through and only checks back for approval**.
 It chains multiple steps together on its own, and asks you only at the moments where your judgment is genuinely needed.
 
-The entry ticket is **a paid plan of the AI coding tool Cursor (Cursor Pro, $20/month) or better**, with a limited free trial on the side.
+The entry ticket is **The X Subscription Premium ($30/month) or higher**, with no always-on free trial.
 It runs on macOS, Windows, and iPhone.
 
 ---
@@ -134,7 +134,7 @@ That said, the price is still steep, so if there's nothing urgent to automate, w
 
 **Q. Can I use Grok Bot for free?**
 
-A. There is a limited free trial. Real use requires a Cursor Pro plan ($20/month) or higher, and the plan structure can change — check xAI's official guidance for the current terms.
+A. There is no always-on free trial. Real use is included in The X Subscription Premium ($30/month) or higher, and the plan structure can change — check xAI's official guidance for the current terms.
 
 **Q. Is it the same thing as @grok on X?**
 
@@ -167,3 +167,4 @@ https://blog.naver.com/3700708/224443356012
 - Processing result:
 - Verified post URL or draft identifier:
 - Errors or incomplete items:
+
