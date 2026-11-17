@@ -1,9 +1,9 @@
 ---
 post_id: "2026-11-14-202"
 muse_account: "muse-02"
-title: "Straight Out of Your Pocket, Straight Into a Movie — DJI Osmo Pocket 3, What to Check Before Buying"
+title: "DJI Osmo Pocket 3 | 1-Inch Gimbal Camera, Check the Discount Price"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
@@ -16,9 +16,17 @@ cover_image: "images/01-hero.jpg"
 
 <!-- 본문 시작 -->
 
-Straight Out of Your Pocket, Straight Into a Movie — DJI Osmo Pocket 3, What to Check Before Buying
+DJI Osmo Pocket 3 | 1-Inch Gimbal Camera, Check the Discount Price
 
-Video shot while walking on a phone shakes with every step. Even with stabilization turned on, the picture can ripple like water. The DJI Osmo Pocket 3 is a pocket-sized gimbal camera built to fix that problem. It came out in October 2023, and with the Pocket 4 having arrived in April 2026, the question now is whether the discounted older model is still a sensible buy.
+> Walking footage shot on a phone shakes with every step.
+>
+> **A 179 g gimbal camera, from 548,000 KRW in Korea.**
+>
+> Check the discount first, then add the microphone and card to get the real price.
+
+Walk and film on a phone, and the picture shakes with every step. Even with stabilization turned on, the picture can ripple like water. The DJI Osmo Pocket 3 is a **pocket-sized gimbal camera** built to fix that problem. This post pulls together official material and independent reviews and hands-on reports.
+
+With the Pocket 4 out since April 2026, the question now is whether the discounted older model is still a sensible buy.
 
 ```blog
 type: image
@@ -30,31 +38,9 @@ url: https://us.store.dji.com/products/osmo-pocket-3
 
 ## What is this camera?
 
-The DJI Osmo Pocket 3 is a gimbal camera that fits in the palm of your hand. According to the official specifications (checked 2026-11-14), it pairs a 1-inch CMOS sensor and a 20mm equivalent f/2.0 lens with a three-axis mechanical gimbal. It weighs 179 g and measures 139.7 × 42.2 × 33.5 mm, so it fits in a pocket. Unlike a phone, the lens itself moves mechanically to cancel shake, so footage stays steady while you walk. It can also take 9.4MP photos, but video is what it is really about.
+The DJI Osmo Pocket 3 is a gimbal camera that fits in the palm of your hand. It pairs a **1-inch CMOS sensor** with a 20mm equivalent f/2.0 lens. The three-axis mechanical gimbal handles the shake. It weighs 179 g and measures 139.7 × 42.2 × 33.5 mm, so it fits in a pocket.
 
-## Turn the screen and the video turns vertical
-
-The first thing that catches the eye is the 2-inch rotatable OLED touchscreen. According to the official specifications, it reaches 700 nits of brightness at 556 × 314 resolution. Rotating the screen switches between horizontal and vertical shooting, and you can even turn the camera on by rotating the screen. There is no need to hold the camera sideways for vertical Shorts or Reels. Tap a subject on the screen and ActiveTrack 6.0 moves the gimbal to keep it centered. It feels like the camera is following you while you film a vlog alone.
-
-## A 1-inch sensor and 4K/120fps — with conditions
-
-A 1-inch sensor is rare in a camera this small. According to DJI's official product information, it can shoot 4K/30fps in low light, and the 10-bit D-Log M and HLG color profiles leave room for color grading later. But one number needs to be read carefully. 4K/120fps works only in Slow Motion mode, not in normal video. The official spec footnote says so explicitly. Normal video tops out at 4K/60fps. Battery life is rated at up to 166 minutes at 1080p/24fps and up to 116 minutes at 4K/60fps. Those figures, however, come from controlled conditions with Wi-Fi and the screen off, so real 4K shooting will run shorter. Fast charging to 80% in 16 minutes is a genuinely useful feature on a half-day outing.
-
-```blog
-type: image
-path: images/02-screen.jpg
-alt: A pocket gimbal camera showing its rotatable touchscreen (illustration)
-caption: Rotating the screen alone switches between horizontal and vertical. No need to hold the camera sideways for vertical video. (Illustration)
-url: https://us.store.dji.com/products/osmo-pocket-3
-```
-
-> Key line
->
-> ### **The moment you take it out of your pocket, the gimbal is already working**
-
-## Drawbacks and things to check
-
-First, there is no built-in storage. You must buy a microSD card (up to 1TB) separately, and without one you cannot record at all. It is not waterproof either. Rain or water play needs a separate housing, so it is no substitute for an action camera. There is no optical zoom. Digital zoom reaches 2x at 4K, but you pay for it in image quality. The fixed 20mm wide-angle lens can also make faces look wide up close. Heat is another thing to check. According to some user reports, recording at 4K/120fps for a long stretch stopped with an overheating warning after around 20 minutes. That does not happen on every unit, but if you often record long takes, staying at 4K/60fps or below is the safer choice. First use also requires activation through the DJI Mimo app and an account login, which independent reviews list as a drawback.
+Unlike a phone, the lens itself moves mechanically to cancel shake, so footage stays steady while you walk. It can also take 9.4MP photos, but **video is what it is really about**.
 
 | Item | Details |
 |---|---|
@@ -64,6 +50,42 @@ First, there is no built-in storage. You must buy a microSD card (up to 1TB) sep
 | Screen and tracking | 2-inch rotatable OLED touchscreen, ActiveTrack 6.0 |
 | Battery | Up to 166 min at 1080p/24fps, up to 116 min at 4K/60fps; 80% charge in 16 min |
 | Price | From 548,000 KRW at the official DJI Korea store (checked 2026-11-14) |
+
+## Does turning the screen switch to vertical video?
+
+Yes. Rotating the 2-inch rotatable OLED touchscreen alone **switches between horizontal and vertical shooting**. The screen reaches 700 nits of brightness at 556 × 314 resolution. You can even turn the camera on by rotating the screen.
+
+There is no need to hold the camera sideways for vertical Shorts or Reels. Tap a subject on the screen and ActiveTrack 6.0 moves the gimbal to keep it centered. It feels like **the camera is following you** while you film a vlog alone.
+
+```blog
+type: image
+path: images/02-screen.jpg
+alt: A pocket gimbal camera showing its rotatable touchscreen (illustration)
+caption: Rotating the screen alone switches between horizontal and vertical. No need to hold the camera sideways for vertical video. (Illustration)
+url: https://us.store.dji.com/products/osmo-pocket-3
+```
+
+## Is 4K/120fps always available?
+
+No. **4K/120fps works only in Slow Motion mode**, not in normal video. The official spec footnote says so explicitly. Normal video tops out at 4K/60fps.
+
+A 1-inch sensor is rare in a camera this small. It can shoot 4K/30fps in low light, and the 10-bit D-Log M and HLG color profiles leave room for color grading later.
+
+Battery life is rated at up to 166 minutes at 1080p/24fps. At 4K/60fps it is up to 116 minutes. Those figures, however, come from controlled conditions with Wi-Fi and the screen off, so real 4K shooting will run shorter. **Fast charging to 80% in 16 minutes** is a genuinely useful feature on a half-day outing.
+
+> Key line
+>
+> ### **The moment you take it out of your pocket, the gimbal is already working**
+
+## What are the drawbacks?
+
+First, there is no built-in storage. **Without a microSD card, you cannot record at all.** Cards up to 1TB are supported, and you have to buy one separately.
+
+It is not waterproof either. Rain or water play needs a separate housing, so it is no substitute for an action camera.
+
+There is no optical zoom. Digital zoom reaches 2x at 4K, but you pay for it in image quality. The fixed 20mm wide-angle lens can also make **faces look wide up close**.
+
+Heat is another thing to check. According to some user reports, recording at 4K/120fps for a long stretch stopped with an overheating warning after around 20 minutes. That does not happen on every unit, but if you often record long takes, **staying at 4K/60fps or below is the safer choice**. First use also requires activation through the DJI Mimo app and an account login, which independent reviews list as a drawback.
 
 ```blog
 type: image
@@ -75,27 +97,43 @@ url: https://us.store.dji.com/products/osmo-pocket-3
 
 ## Price and availability in Korea
 
-The standard model starts at 548,000 KRW at the official DJI Korea store (checked 2026-11-14). The Creator Combo runs around 703,000 KRW at Korean retailers, and a Hyundai Home Shopping broadcast on October 26, 2026 sold the Creator Combo for 588,000 KRW and the Vlog Combo for 465,000 KRW. The Creator Combo includes a DJI Mic 2 transmitter, a battery handle, a mini tripod, and a carrying bag. The US launch price was $519, and the Creator Combo was $669. Add a microSD card and, if needed, an ND filter set (55,600 KRW at the official store), and the real purchase price climbs above the camera alone. DJI Korea's service line is 080-822-1456. The Pocket 4 came out on April 16, 2026 with 4K/240fps, 107GB of built-in storage, and a battery rated around 240 minutes. Whether it is sold in Korea and at what price has not been confirmed. The official spec page also states that software updates for the Pocket 3 are guaranteed until December 31, 2026.
+The standard model starts at 548,000 KRW at the official DJI Korea store. The Creator Combo runs around 703,000 KRW at Korean retailers. A Hyundai Home Shopping broadcast sold the **Creator Combo for 588,000 KRW** and the Vlog Combo for 465,000 KRW. The Creator Combo includes a DJI Mic 2 transmitter, a battery handle, a mini tripod, and a carrying bag.
+
+The US launch price was $519, and the Creator Combo was $669. Add a microSD card and, if needed, an ND filter set (55,600 KRW at the official store), and **the real purchase price climbs above the camera alone**. DJI Korea's service line is 080-822-1456.
+
+| Option | Key figure | Pick it when |
+|---|---|---|
+| Standard model | From 548,000 KRW | You want to start with the camera alone |
+| Creator Combo | Around 703,000 KRW | You want the microphone and battery handle in one buy |
+| Pocket 4 | 4K/240fps, 107GB built in | You need the newer specs |
+
+The Pocket 4 came out on April 16, 2026. It offers 4K/240fps recording and 107GB of built-in storage. Its battery is rated around 240 minutes.
+
+Whether the Pocket 4 is sold in Korea, and at what price, **has not been confirmed**. The official spec page also states that software updates for the Pocket 3 are guaranteed until December 31, 2026.
 
 [Check the price at the official DJI store](https://us.store.dji.com/products/osmo-pocket-3)
 
 ## My take
 
-This camera suits people who often film while walking, people who shoot vlogs alone, and people who do not want to carry a separate phone gimbal. Its greatest strength is the ease of it: take it out of your pocket, turn the screen, and you are filming. But if you need long 4K takes, underwater shooting, or zoom, another camera is the better choice. And there is one condition for buying it now. As an older model with a successor out, the price has to make up for that. If it is close to list price, check the Pocket 4's price in Korea first; at a discounted price, the Pocket 3 is still a solid choice.
+```blog
+type: box
+markdown: |
+  **Buy it if:** you often film while walking, shoot vlogs alone, or do not want to carry a separate phone gimbal. Its greatest strength is the ease of it: take it out of your pocket, turn the screen, and you are filming.
+
+  **Skip it if:** you need long 4K takes, underwater shooting, or zoom. If any of the three applies, another camera is the better choice.
+```
+
+There is one condition for buying it now. As an older model with a successor out, **the price has to make up for that**. If it is close to list price, check the Pocket 4's price in Korea first; at a discounted price, the Pocket 3 is still a solid choice.
 
 ## Worth reading next
 
-[A touchscreen on a USB hub — Dockcase 7-in-1, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/08/a-touchscreen-on-a-usb-hub-dockcase-7in1-what-to-check-before-buying/)
+[Fujifilm X half: Half-Frame Digital Camera, $850 of Retro Fun](https://aitechnotesen.wordpress.com/2026/11/17/fujifilm-x-half-halfframe-digital-camera-850-of-retro-fun/)
 
-A look at what a USB hub with a touchscreen is for.
+A look at the price conditions for a camera that brings half-frame film feel to digital.
 
-[Fold it shut and the lens closes — OBSBOT Meet Flip, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/08/fold-it-shut-and-the-lens-closes-obsbot-meet-flip-what-to-check-before-buying/)
+[Soundcore Sleep A30: Sleep Earbuds That Cover Snoring, 3 Things to Check](https://aitechnotesen.wordpress.com/2026/11/17/soundcore-sleep-a30-sleep-earbuds-that-cover-snoring-3-things-to-check/)
 
-A webcam whose lens closes when you fold it shut.
-
-[A keyboard where lifting a typewriter lever presses Enter — Epomaker Glyph, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/03/a-keyboard-where-lifting-a-typewriter-lever-presses-enter-epomaker-glyph-what-to-check-before-buying/)
-
-A keyboard that brings a typewriter lever back to the desk.
+Three things to check before buying sleep earbuds that cover snoring.
 
 ## Sources
 
