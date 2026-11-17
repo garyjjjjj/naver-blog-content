@@ -2,7 +2,7 @@
 post_id: "2026-11-15-005"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "COX CK420 Review | A Budget Mechanical Keyboard Backed by 18,115 Reviews"
 category: "바로 살 수 있는 테크"
@@ -173,41 +173,17 @@ url: https://link.coupang.com/a/iCIThBA0Tk
 
 If you want a budget mechanical keyboard to keep on your desk for a long time, the CK420 is worth buying for the swappable switches alone. Just know it is wired, the blue switches are loud, and the full-size body takes up space — and there will be little to regret.
 
-Like [automating Instagram card news with Claude Code](https://blog.naver.com/3700708/224474066475), changing one desk tool at a time eventually changes how you work.
+Like [automating Instagram card news with Claude Code](https://aitechnotesen.blogspot.com/2026/11/automating-instagram-card-news-with.html), changing one desk tool at a time eventually changes how you work.
+
+A keyboard that is kind to your fingers — time to put it on your desk.
 
 ## Good reads next
 
-```blog
-type: image
-path: images/rec1-hero-en.jpg
-alt: Samsung Galaxy SmartTag2 review
-caption: Samsung Galaxy SmartTag2 — find lost keys and bags from your phone
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224476483844
-```
+[Samsung Galaxy SmartTag2 Review | Find Lost Keys and Bags from Your Phone](https://aitechnotesen.blogspot.com/2026/11/samsung-galaxy-smarttag2-review-find.html)
 
-```blog
-type: image
-path: images/rec2-hero-en.jpg
-alt: Automating Instagram card news with Claude Code
-caption: Automating Instagram card news with Claude Code — changing desk tools one by one
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224474066475
-```
+[Automating Instagram Card News with Claude Code — From Reference Collection to Finished Posts](https://aitechnotesen.blogspot.com/2026/11/automating-instagram-card-news-with.html)
 
-```blog
-type: image
-path: images/rec3-hero-en.jpg
-alt: Blade Runner 2049
-caption: Blade Runner 2049 — AI movies and videos, on the line between human and replicant
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224474068089
-```
-
-A keyboard that is kind to your fingers — time to put it on your desk.
+[Blade Runner 2049 — The Line Between Human and Replicant, in 2 Hours 44 Minutes](https://aitechnotesen.blogspot.com/2026/11/blade-runner-2049-line-between-human.html)
 
 <!-- 본문 끝 -->
 
@@ -219,7 +195,8 @@ A keyboard that is kind to your fingers — time to put it on your desk.
 - Not confirmed: star breakdown (5-star % · 4 stars or higher %). The coupon price applies to the white + blue-switch option (white + red-switch is ₩31,900 with no discount).
 - Images: 01-hero-en.jpg, 02-img1.jpg, 03-img2.jpg, 04-img3.jpg, 05-banner-en.jpg, 06-infographic-en.jpg, rec1-hero-en.jpg, rec2-hero-en.jpg, rec3-hero-en.jpg. All images link to the affiliate URL (image block url). No AI illustrations — all real product photos (parent to fill with real photos). File names follow the task instruction (05-banner-en.jpg / 06-infographic-en.jpg); the SmartTag2 English draft used 05-banner-cta-en.jpg, so check file names when producing images.
 - Price policy (2026-11-13): price appears once, in plain text, in the at-a-glance table only (no bold, color, or large type). No price in the infographic or banner. Confirmed price ₩28,900 (white + blue-switch coupon price, confirmed 2026-11-15).
-- Format: follows SmartTag2 (2026-11-14-005) blog-blocks format — scenes and downsides are 2 paragraphs each (bold lead inline + quote/summary), table cell widths stated (at-a-glance 20/80, recommend/not 20/38/42), affiliate disclosure at the very top, recommendation section as 3 image banners (width 800). platform_categories added per task (wordpress-en/blogger-en: "Buy It Now Tech"), using the same YAML mapping form as earlier English drafts.
+- Format: follows SmartTag2 (2026-11-14-005) blog-blocks format — scenes and downsides are 2 paragraphs each (bold lead inline + quote/summary), table cell widths stated (at-a-glance 20/80, recommend/not 20/38/42), affiliate disclosure at the very top, recommendation section as plain markdown links (OG card standard — naver_link_cards is Naver-only, so the EN frontmatter has none).
 - Recommendation banner rationale: rec1 SmartTag2 = latest post in the same category '바로 살 수 있는 테크'. rec2 Claude Code Instagram card news = AI News, desk-tool/automation theme that connects with the CK420 desk-setup context. rec3 Blade Runner 2049 = AI Movies and Videos, for category spread.
 - Self-review round 1 (context/understanding): English intro "18,083 reviews tell a slightly different story" was reworded to "the number 18,115 makes me think twice" to avoid reviews "telling" anything. The 'Mac-only or wireless-only' Skip row is scoped to "Official support is Windows plug-and-play" because the manual only lists Windows.
 - Self-review round 2 (AI-tell checklist): no "In this post" declaration, no numbered "Advantage 1/2/3", no "facts vs. reviews" declaration sentence. Price appears once in the table (the checklist mentions the coupon with no amount). No subscription CTA, no teaser.
+- rev2 changes (2026-11-17 rewrite from scratch): intro conclusion moved to the 3rd sentence; closing sentence moved before "Good reads next" (recommended links last); recommendation links switched to blogspot EN URLs (SmartTag2 / Claude Code Instagram / Blade Runner 2049, confirmed from distribution records and rev2 EN drafts); inline Instagram link in the closing paragraph switched to the blogspot EN URL (Lift mouse inline link stays on the Naver URL, following the Lorantech rev2 EN pattern); recommendation image banners removed; all facts, numbers, tables, images, links identical to rev1.
