@@ -3,7 +3,7 @@ post_id: "2026-11-17-202"
 muse_account: "muse-02"
 title: "Fujifilm X half: Half-Frame Digital Camera, $850 of Retro Fun"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
@@ -16,7 +16,13 @@ cover_image: "images/fujifilm-x-half-01-hero.jpg"
 <!-- 본문 시작 -->
 Fujifilm X half: Half-Frame Digital Camera, $850 of Retro Fun
 
-If you want film-style photos but the developing cost and the waiting put you off, the answer is a digital camera with a Film Camera mode. The Fujifilm X half is a half-frame camera that shoots vertical 3:4 photos, lets you pick a film, and asks you to wind a lever between shots. It cannot shoot RAW and its autofocus is slow, so decide how you will use it first. This post was put together from official material, a DPReview review, and user reports.
+> You want film-style photos, but developing costs and the waiting put you off.
+>
+> **For a $790 hot-deal price in Korea, you get vertical 3:4 film-style photos — but no RAW and slow autofocus**
+>
+> Decide first whether vertical photos and Film Camera mode pull you in, then check the hot-deal price.
+
+If you want film-style photos but the developing cost and the waiting put you off, the answer is a **digital camera with a Film Camera mode**. The Fujifilm X half is a half-frame camera that shoots vertical 3:4 photos, lets you pick a film, and asks you to wind a lever between shots. It cannot shoot RAW and its autofocus is slow, so decide how you will use it first. This post was put together from official material, a DPReview review, and user reports.
 
 ```blog
 type: "image"
@@ -32,11 +38,11 @@ url: "https://shopusa.fujifilm-x.com/x-half-x-half/"
 
 ## What Is This Camera?
 
-The X half is a half-frame digital camera that Fujifilm announced on May 22, 2025 and started selling on June 12, 2025. It moves the old half-frame film idea, splitting one 35mm frame into two, into a digital body. Its sensor is a 1-inch 17.74MP unit. The sensor sits on its side and makes vertical 3:4 photos. The lens is a fixed 10.8mm f/2.8. Its 35mm equivalent focal length is 32mm. It weighs 240 g including battery and memory card, so it fits in a pocket.
+**A 240 g compact that moves the half-frame film camera into a digital body.** Fujifilm announced it on May 22, 2025 and started selling it on June 12, 2025. It moves the old half-frame film idea, splitting one 35mm frame into two, into a digital body. Its sensor is a 1-inch 17.74MP unit. The sensor sits on its side and makes vertical 3:4 photos. The lens is a fixed 10.8mm f/2.8. Its 35mm equivalent focal length is 32mm. It weighs 240 g including battery and memory card, so it fits in a pocket.
 
-## Film Camera Mode: Photos You Only See After Shooting
+## Film Camera Mode: Why Can't You See Your Photos Right Away?
 
-Film Camera mode is the key to understanding this camera. Pick one film simulation, then choose a roll of 36, 54, or 72 exposures. After that, the rear screen goes dark and you shoot through the optical viewfinder only. After each shot, you have to wind the film advance lever before you can take the next one. You only see the photos after they are "developed" in the companion app. DPReview called the mode fun but said the entertainment wore off quickly. Filling 36 shots as one project is no small task.
+**Once you pick a roll, the rear screen goes dark and you only see your photos after developing them in the app.** Pick one film simulation, then choose a roll of 36, 54, or 72 exposures. After that, you shoot through the optical viewfinder only. After each shot, you have to wind the film advance lever before you can take the next one. You only see the photos after they are "developed" in the companion app. DPReview called the mode fun but said the entertainment wore off quickly. Filling 36 shots as one project is no small task.
 
 The film advance lever also works in 2-in-1 mode. After a shot, wind the lever and the next photo joins it side by side in a single diptych. Both photos are also saved separately. DPReview said this 2-in-1 feature has more staying power than Film Camera mode. Thinking in pairs while you shoot is part of the fun.
 
@@ -50,9 +56,11 @@ url: "https://shopusa.fujifilm-x.com/x-half-x-half/"
 
 ## Vertical Photos and Film Simulations
 
-Vertical photos are the default here. If you live on a phone screen, that means no rotating the camera. It has 13 film simulations and 26 creative filters. Film looks such as Provia, Velvia, and Classic Chrome can be applied in camera. Filters such as light leak and expired film add accidental marks to a photo. With an Instax Link printer nearby, you can send a photo over Bluetooth and print it right away. Video tops out at 1080p. There is no 4K and no image stabilization. This is a camera built around photos, not video.
+**Vertical photos are the default, so they fit a phone screen right away.** If you live on a phone screen, that means no rotating the camera. It has 13 film simulations and 26 creative filters. Film looks such as Provia, Velvia, and Classic Chrome can be applied in camera. Filters such as light leak and expired film add accidental marks to a photo. With an Instax Link printer nearby, you can send a photo over Bluetooth and print it right away. Video tops out at 1080p. There is no 4K and no image stabilization. This is a camera built around photos, not video.
 
-## Shortcomings and Things to Check
+## What's Missing?
+
+**Five things fall short**: no RAW, autofocus, responsiveness, shutter speed, and the LED flash.
 
 The first is the lack of RAW. Photos are saved as JPEG only. That leaves little room for editing later, so you need to set the look and exposure when you shoot. The second is autofocus. DPReview found it slow and unreliable for portraits and low light. It does not suit moving subjects. The third is responsiveness. The touchscreens can feel laggy, and the lever sometimes does not respond right after a shot. A DPReview forum user reported that the lever responds better after firmware 2.0. The fourth is shutter speed. The fastest shutter is 1/2000 sec, so a bright day at f/2.8 can blow out a photo. You need to stop the lens down. The fifth is the LED flash. DPReview said it has almost no effect. Do not count on it in the dark.
 
@@ -66,6 +74,12 @@ The first is the lack of RAW. Photos are saved as JPEG only. That leaves little 
 | Battery | NP-W126S, 880 shots with the optical viewfinder, USB-C charging |
 | Price and availability | $849.99 at the official US store; 790,000 KRW hot deal in Korea (November 1, 2026, Toss Shopping; exchange rate 1 USD = 1,336.10 KRW as of 2026-11-17) |
 
+| Option | Key value | Pick it when |
+|---|---|---|
+| Korea hot deal | 790,000 KRW, sold by an official dealer | You want the lowest price through a local dealer |
+| Korea list price | 1,049,000 KRW; last 3 months 790,000–838,450 KRW | You missed the hot deal and want it right away |
+| Official US store | $849.99, about 1,136,000 KRW, shipping and duty excluded | You buy through an overseas channel |
+
 ```blog
 type: "image"
 path: "images/fujifilm-x-half-03-two-in-one.jpg"
@@ -76,7 +90,7 @@ url: "https://shopusa.fujifilm-x.com/x-half-x-half/"
 
 ## Price and Availability in Korea
 
-The official US store price is $849.99. Converted, that is about 1,136,000 KRW, but that is a local price without shipping or import duty, so it should not be compared directly. In Korea, an official dealer sells it on Coupang. The hot deal price on Toss Shopping on November 1, 2026 was 790,000 KRW (about $591). The price range over the last 3 months was 790,000 to 838,450 KRW. Buying through an official dealer is simpler than importing, but check the warranty terms on the sales page before paying (not confirmed).
+**The Korea hot-deal price of 790,000 KRW beats the official US price.** The official US store price is $849.99. Converted, that is about 1,136,000 KRW, but that is a local price without shipping or import duty, so it should not be compared directly. In Korea, an official dealer sells it on Coupang. The hot deal price on Toss Shopping on November 1, 2026 was 790,000 KRW (about $591). The list price was 1,049,000 KRW. The price range over the last 3 months was 790,000 to 838,450 KRW. Buying through an official dealer is simpler than importing, but check the warranty terms on the sales page before paying (not confirmed).
 
 ```blog
 type: "link_box"
@@ -86,7 +100,7 @@ url: "https://shopusa.fujifilm-x.com/x-half-x-half/"
 
 ## My Take
 
-The X half is not a camera that wins on performance. It is a camera for enjoying the process of shooting. It suits anyone who loves film-style vertical photos and the fun of shooting without a preview. If you need RAW editing, fast autofocus, or 4K video, look at another camera first. There are three things to check before deciding.
+**This is a camera for enjoying the process of shooting**, not one that wins on performance. It suits anyone who loves film-style vertical photos and the fun of shooting without a preview. If you need RAW editing, fast autofocus, or 4K video, look at another camera first. There are three things to check before deciding.
 
 - ✅ Use case: it suits anyone whose main use is vertical photos with a film look; it does not suit anyone who puts image quality, RAW, or fast autofocus first
 - ✅ Price: the 790,000 KRW hot deal is easy to accept; at the 1,049,000 KRW list price, think twice
@@ -106,13 +120,13 @@ Yes. The NP-W126S battery is the same one used in small Fujifilm cameras such as
 
 ## More to Read
 
-[A Robot Vacuum That Picks Up Your Socks: Roborock Saros Z70, What to Check Before Buying](https://aitechnotesen.wordpress.com/2026/11/16/a-robot-vacuum-that-picks-up-your-socks-roborock-saros-z70-what-to-check-before-buying/)
+[Soundcore Sleep A30: Sleep Earbuds That Cover Snoring, 3 Things to Check](https://aitechnotesen.wordpress.com/2026/11/17/soundcore-sleep-a30-sleep-earbuds-that-cover-snoring-3-things-to-check/)
 
-A robot vacuum that picks up socks off the floor, and what to check before buying it.
+Sleep earbuds that cover snoring, and the three things to check before buying them.
 
-[A Mouse Whose Ball Moves Under Your Thumb: Keychron T1 HE, What to Check Before Buying](https://aitechnotesen.wordpress.com/2026/11/15/a-mouse-whose-ball-moves-under-your-thumb-keychron-t1-he-what-to-check-before-buying/)
+[A Power Station the Size of Your Palm That Charges a Laptop: Jackery Explorer 100D, What to Check Before Buying](https://aitechnotesen.wordpress.com/2026/11/16/a-power-station-the-size-of-your-palm-that-charges-a-laptop-jackery-explorer-100d-what-to-check-before-buying/)
 
-A trackball mouse with a ball position you can adjust under your thumb.
+A palm-size power station that charges a laptop, and what to check before buying it.
 
 ## Sources
 
