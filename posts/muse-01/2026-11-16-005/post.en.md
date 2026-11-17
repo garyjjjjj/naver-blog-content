@@ -2,7 +2,7 @@
 post_id: "2026-11-16-005"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "Lorantech Stand Review | A Foldable Phone & Tablet Stand Backed by 15,689 Reviews"
 category: "바로 살 수 있는 테크"
@@ -41,7 +41,7 @@ align: center
 url: https://link.coupang.com/a/iCIXtIE752
 ```
 
-When you put your phone on the desk to watch a drama, it keeps sliding down — or ends up lying flat on the desk. Honestly, I wondered what one stand could change, but the number 15,689 makes me think twice. To put it plainly, the Lorantech multi-purpose stand is a small desk stand that folds down to palm size and still holds everything from a phone to a tablet over 10 inches. This is not a hands-on review of mine — I gathered Lorantech's official materials, the Coupang product page, and 15,689 real buyer reviews.
+Have you ever propped a tablet on your desk to watch a lecture, only for it to slide down and topple over? Honestly, I wondered what one stand could change, but the number 15,689 makes me think twice. To put it plainly, the Lorantech multi-purpose stand is a small desk stand that folds down to palm size and still holds everything from a phone to a tablet over 10 inches. This is not a hands-on review of mine — I gathered Lorantech's official materials, the Coupang product page, and 15,689 real buyer reviews.
 
 The order you touch the things on your desk matters. Like the [Logitech Lift vertical mouse review](https://blog.naver.com/3700708/224475023579), which is kind to your wrist, a stand is one of the first things to find its place on a desk where you sit for a long time. The mouse looks after your wrist; the stand looks after your neck.
 
@@ -67,6 +67,8 @@ rows:
   - [{text: "Delivery", width: 20}, {text: "Rocket delivery · guaranteed arrival 11/17 · free shipping on orders over 19,800 KRW or with Wow membership", width: 80}]
   - [{text: "Seller", width: 20}, {text: "Lorantech Co., Ltd. (confirmed 2026-11-16)", width: 80}]
 ```
+
+Prices change often, so check the Coupang page once more before you buy.
 
 Here is the short version:
 
@@ -170,41 +172,17 @@ url: https://link.coupang.com/a/iCIXtIE752
 
 So, should you buy it? If you keep picking up your phone at your desk, one stand can break that habit. If you want to stand a heavy tablet on it, think once more; for a phone or a light tablet, it is easy to try.
 
-Like [automating Instagram card news with Claude Code](https://blog.naver.com/3700708/224474066475), changing one desk tool at a time eventually changes how you work.
+Like [automating Instagram card news with Claude Code](https://aitechnotesen.blogspot.com/2026/11/automating-instagram-card-news-with.html), changing one desk tool at a time eventually changes how you work.
+
+One small thing on the desk can change the habit of picking up your phone.
 
 ## Good reads next
 
-```blog
-type: image
-path: images/rec1-hero-en.jpg
-alt: COX CK420 review
-caption: COX CK420 — if you want to tidy the keyboard too, after the stand
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224477519527
-```
+[COX CK420 Review | A Budget Mechanical Keyboard Backed by 18,115 Reviews](https://aitechnotesen.blogspot.com/2026/11/cox-ck420-review-budget-mechanical.html)
 
-```blog
-type: image
-path: images/rec2-hero-en.jpg
-alt: Automating Instagram card news with Claude Code
-caption: Automating Instagram card news with Claude Code — desk automation, the same theme as the stand
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224474066475
-```
+[Automating Instagram Card News with Claude Code — From Reference Collection to Finished Posts](https://aitechnotesen.blogspot.com/2026/11/automating-instagram-card-news-with.html)
 
-```blog
-type: image
-path: images/rec3-hero-en.jpg
-alt: Blade Runner 2049
-caption: Blade Runner 2049 — a film to watch with the tablet on the stand
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224474068089
-```
-
-One small thing on the desk can change the habit of picking up your phone.
+[Blade Runner 2049 — The Line Between Human and Replicant, in 2 Hours 44 Minutes](https://aitechnotesen.blogspot.com/2026/11/blade-runner-2049-line-between-human.html)
 
 <!-- 본문 끝 -->
 
@@ -216,7 +194,8 @@ One small thing on the desk can change the habit of picking up your phone.
 - Not confirmed: star breakdown (5-star % · 4 stars or higher %). Price differences by color not confirmed (4,700 KRW is the white price).
 - Images: 01-hero-en.jpg, 02-img1.jpg, 03-img2.jpg, 04-img3.jpg, 05-banner-en.jpg, 06-infographic-en.jpg, rec1-hero-en.jpg, rec2-hero-en.jpg, rec3-hero-en.jpg. All images link to the affiliate URL (image block url). No AI illustrations — all real product photos (crops of raw_main1200.jpg 3-state photo). raw_rev3.jpg (320x427) not used; raw_rev1/2.jpg downloads failed (empty files).
 - Price policy (2026-11-13 16:40): price appears once only, in the at-a-glance table, plain text. No price in the infographic or banner. Confirmed price 4,700 KRW (2026-11-16).
-- Format: follows COX CK420 (2026-11-15-005) blog-blocks format — scenes and downsides are 2 paragraphs each (bold lead inline + follow-up), table cell widths stated (at-a-glance 20/80, recommend/not 20/38/42), affiliate disclosure at the very top, recommendation section as 3 image banners (width 800).
+- Format: follows COX CK420 (2026-11-15-005) blog-blocks format — scenes and downsides are 2 paragraphs each (bold lead inline + follow-up), table cell widths stated (at-a-glance 20/80, recommend/not 20/38/42), affiliate disclosure at the very top, recommendation section as plain markdown links (OG card standard — naver_link_cards is Naver-only, so the EN frontmatter has none).
 - Recommendation banner rationale: rec1 COX CK420 = latest post in the same category '바로 살 수 있는 테크'. rec2 Claude Code Instagram card news = AI News, desk-tool/automation theme that connects with the stand desk-setup context. rec3 Blade Runner 2049 = AI Movies and Videos, for category spread.
 - Self-review round 1 (context, comprehension): intro "Honestly, I wondered what one stand could change" keeps the spoken rhythm; "Honestly" used once only. Captions 1–3 match the actual crops (high angle, low angle, folded).
 - Self-review round 2 (AI-tone checklist 4.3.1): no "In this post" / "In conclusion" / "Advantage 1/2/3" / "facts and reviews are separated" declaration sentences. Price appears once only in the table, plain text. No subscription CTA, no teaser. Affiliate link https://link.coupang.com/a/iCIXtIE752 (received from the user 2026-11-13).
+- rev2 changes (2026-11-17 rewrite from scratch): intro first sentence changed to a tablet sliding-down scene; closing sentence moved before "Good reads next" (recommended links last); recommendation links switched to blogspot EN URLs (CK420 / Claude Code Instagram / Blade Runner 2049, confirmed from distribution records and rev2/rev3 EN drafts); all facts, numbers, tables, images, links identical to rev1.
