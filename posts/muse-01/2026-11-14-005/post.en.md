@@ -2,7 +2,7 @@
 post_id: "2026-11-14-005"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "Samsung Galaxy SmartTag2 Review | Find Lost Keys and Bags from Your Phone"
 category: "바로 살 수 있는 테크"
@@ -39,7 +39,7 @@ align: center
 url: https://link.coupang.com/a/iCGFgxYQb6
 ```
 
-You have spent ten minutes by the front door, turning your pockets inside out, looking for your keys. It happens to most of us. Today I will look at the Samsung Galaxy SmartTag2 and lay out only what you need to decide whether finding lost things from your phone is right for you. This is not a hands-on review of mine — I gathered Samsung's official specs, the Coupang product page, and 10,007 real buyer reviews.
+Ten minutes by the front door, turning your pockets inside out, looking for your keys — it happens to most of us. The Samsung Galaxy SmartTag2 is a small tag that cuts that time down. Clip it to your keys, wallet, or bag, and you can check where they are from your phone, and the battery lasts up to 500 days, so you can leave it on for over a year. This is not a hands-on review of mine — I gathered Samsung's official specs, the Coupang product page, and 10,007 real buyer reviews.
 
 If you keep the [Logitech Lift vertical mouse review](https://blog.naver.com/3700708/224475023579) on your desk, choose the thing on your keyring by the same standard. The small objects you touch every day end up deciding how much spare time you have.
 
@@ -84,7 +84,7 @@ align: center
 url: https://link.coupang.com/a/iCGFgxYQb6
 ```
 
-**Keys, wallet, bag — check where they are from your phone.** "Losing things was my everyday life. For me, this is a total lifesaver" (Lee*Young, 2026.11.02, 5 stars). It is small and light, so it slips into a wallet, onto keys, or into a bag, and once it is linked to the SmartThings app you can check the location right away. The minutes spent patting your pockets by the door get shorter.
+**Keys, wallet, bag — check where they are from your phone.** "Losing things was my everyday life. For me, this is a total lifesaver" (Lee*Young, 2026.11.02, 5 stars). It is small and light enough to slip into a wallet, onto keys, or into a bag, and once it is linked to the SmartThings app, the location is right there. The minutes spent patting your pockets by the door get shorter.
 
 **You can roughly tell where your child is.** "I bought it to check where my elementary-school kids are when they go to school or academy" (Lee*A, 2026.09.23, 5 stars). For places kids go every day, like school or academy, it worked fine as a rough location check. "It is light and easy to check the location, and I like it" (Seo*Hee, 2026.09.28) — tucked into a school bag, you barely feel the weight.
 
@@ -158,48 +158,25 @@ url: https://link.coupang.com/a/iCGFgxYQb6
 
 If ten minutes lost to searching for keys feels like a waste, this small tag can cut that time down. Just know it is not a real-time tracker before you buy, and there will be little to regret.
 
-Like [automating Instagram card news with Claude Code](https://blog.naver.com/3700708/224474066475), changing one desk tool at a time eventually changes how you work.
-
-## Good reads next
-
-```blog
-type: image
-path: images/rec1-hero-en.jpg
-alt: Canon SELPHY CP1500 review
-caption: Canon SELPHY CP1500 — a photo from your phone, in your hands in 41 seconds
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224475908088
-```
-
-```blog
-type: image
-path: images/rec2-hero-en.jpg
-alt: Automating Instagram card news with Claude Code
-caption: Automating Instagram card news with Claude Code — changing desk tools one by one
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224474066475
-```
-
-```blog
-type: image
-path: images/rec3-hero-en.jpg
-alt: Blade Runner 2049
-caption: Blade Runner 2049 — AI movies and videos, on the line between human and replicant
-width: 800
-align: center
-url: https://blog.naver.com/3700708/224474068089
-```
+Like [automating Instagram card news with Claude Code](https://aitechnotesen.blogspot.com/2026/11/automating-instagram-card-news-with.html), changing one desk tool at a time eventually changes how you work.
 
 Time spent hunting for keys — time to cut it down.
 
+## Good reads next
+
+[Canon SELPHY CP1500 Review | Print Your Kids' Photos at Home](https://aitechnotesen.blogspot.com/2026/11/canon-selphy-cp1500-review-roundup-what.html)
+
+[Automating Instagram Card News with Claude Code — From Reference Collection to Finished Posts](https://aitechnotesen.blogspot.com/2026/11/automating-instagram-card-news-with.html)
+
+[Blade Runner 2049 — The Line Between Human and Replicant, in 2 Hours 44 Minutes](https://aitechnotesen.blogspot.com/2026/11/blade-runner-2049-line-between-human.html)
+
 <!-- 본문 끝 -->
 
-## 작업용 출처·이미지 정보 (업로드 제외)
+## Working notes — sources and images (do not upload)
 
 - Sources: Samsung Galaxy SmartTag2 official specs (Samsung product page, checked directly in browser 2026-11-14: BLE v5.3 · UWB · up to 120 m · IP67 · CR2032 up to 500 days / 700 in power saving · 28.8 × 52.44 × 8.0 mm · 13.75 g · Galaxy only Android 9.0+ · SmartThings app + Samsung account · compass view Android 11+ UWB Galaxy · speaker buzzer · 1 button · white/black · released October 2023) + Coupang product page vp/7673288160 (checked directly in browser 2026-11-14: confirmed price ₩22,700, 10,007 reviews · 5 stars 88% (8,574) · 4 stars 7% (776) · 3 stars 3% (341) · 2 stars 1% (119) · 1 star 1% (197) · 'Over 9,000 satisfied' · sturdiness 'very sturdy' 79% · design 'very satisfied' 83%, Rocket delivery · free shipping · guaranteed arrival 11/15, seller Coupang Inc.) + real buyer review quotes (3 five-star · 3 one-star, verified with star filters and star display, with nickname and date; Korean quotes translated into English) + affiliate series format "구매 판단 재료" (adopted 2026-11-13) + design/highlight research (2026-11-13).
 - Review quote sources: Seo*Hee 5 stars 2026.09.28 / Lee*A 5 stars 2026.09.23 / Lee*Young 5 stars 2026.11.02 / Jo*Jun 1 star 2025.04.02 (helpful to 49) / Seo*Ri 1 star 2024.12.11 (helpful to 43) / Kim Soo-yeon 1 star 2026.04.14 (helpful to 10). All checked directly on the Coupang review page in the browser, 2026-11-14. No invented sentences.
 - Images: 01-hero-en.jpg, 02-img1.jpg, 03-img2.jpg, 04-img3.jpg, 05-banner-cta-en.jpg, 06-infographic-en.jpg, rec1-hero-en.jpg, rec2-hero-en.jpg, rec3-hero-en.jpg. All images link to the affiliate URL (image block url). No AI illustrations — all real product photos (Samsung official gallery).
 - Price policy (2026-11-13): price appears once, in plain text, in the at-a-glance table only (no bold, color, or large type). No price in the infographic or banner. Confirmed price ₩22,700 (confirmed 2026-11-14). Samsung's own store price ₩36,300 is not the Coupang confirmed price, so it is not in the post.
-- Format: follows CP1500 rev4 (2026-11-13-007) blog-blocks format — scenes and downsides are 2 elements per paragraph (bold lead inline + quote), table cell widths stated (at-a-glance 20/80, recommend/not 20/38/42), affiliate disclosure at the very top, recommendation section as 3 image banners (width 800).
+- Format: follows CP1500 rev4 (2026-11-13-007) blog-blocks format — scenes and downsides are 2 elements per paragraph (bold lead inline + quote), table cell widths stated (at-a-glance 20/80, recommend/not 20/38/42), affiliate disclosure at the very top, recommendation section as plain markdown links (OG card standard — naver_link_cards is Naver-only, so the EN frontmatter has none).
+- rev2 changes (2026-11-18 rewrite from scratch): intro rewritten conclusion-first; closing sentence moved before "Good reads next" (recommended links last); recommendation links switched to blogspot EN URLs (CP1500 / Claude Code Instagram / Blade Runner 2049, CP1500 EN URL from distribution record seq1536); in-sentence Claude Code link switched to the blogspot EN URL; all facts, numbers, tables, images, links identical to rev1.
