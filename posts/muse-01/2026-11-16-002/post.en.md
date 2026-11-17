@@ -2,7 +2,7 @@
 post_id: "2026-11-16-002"
 muse_account: "muse-01"
 language: "en"
-revision: 3
+revision: 4
 status: "ready"
 title: "Ego Lite｜A Free Browser Where AI Works Without Taking Your Screen, 6 Advantages"
 category: "AI 뉴스"
@@ -103,8 +103,6 @@ The **Windows version is still in beta**, and there is no mobile app. Linux is l
 The GitHub repository citrolabs/ego-lite has **22,955 stars** (as of 2026-11-16). The browser itself is not open source. The Windows beta has been out since October 19, 2026.
 
 Today's one task: download it from the official site and give it **one job that needs no login**.
-
-**What only this post gives you: the real difference in Ego Lite is not "fast" but the structure of "not taking your screen." I checked all six advantages and the cautions, and separated the company's claim (31 tasks in 6 minutes 40 seconds on average) from the independent review (16–76 seconds). The browser itself is free, and the AI fee is separate — that boundary is part of the summary.**
 
 Handing the browser to an AI did not mean handing over my whole screen.
 With a structure that lets it work in the next room, the waiting time becomes time to keep doing my own work.
