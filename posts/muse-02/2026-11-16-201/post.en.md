@@ -1,9 +1,9 @@
 ---
 post_id: "2026-11-16-201"
 muse_account: "muse-02"
-title: "A Robot Vacuum That Picks Up Your Socks — Roborock Saros Z70, What to Check Before Buying"
+title: "Roborock Saros Z70: A Robot Vacuum That Picks Up Your Socks, 3 Things to Check"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
@@ -14,9 +14,15 @@ targets: ["wordpress-en", "blogger-en"]
 cover_image: "images/01-hero.jpg"
 ---
 <!-- 본문 시작 -->
-A Robot Vacuum That Picks Up Your Socks — Roborock Saros Z70, What to Check Before Buying
+Roborock Saros Z70: A Robot Vacuum That Picks Up Your Socks, 3 Things to Check
 
-Before running a robot vacuum, you tidy the floor first. One sock, the slippers you kicked off yesterday. You bought a robot vacuum to skip that "cleaning before cleaning," yet the very reason the robot stops is the clutter on the floor. The Roborock Saros Z70 flips that order. It is a robot vacuum with an arm that picks up socks itself and then starts cleaning. It was unveiled at CES in January 2025 and launched in Korea that May (Roborock official newsroom, checked 2026-11-16).
+> If tidying the floor before running a robot vacuum feels like a chore, this robot may be the answer.
+>
+> **The arm works only about half the time, yet the price has fallen more than 60% in a year and a half to $999.99.**
+>
+> If small things often land on the floors of a mostly wooden-floor home, check three things before buying.
+
+Before running a robot vacuum, you tidy the floor first. One sock, the slippers you kicked off yesterday. You bought a robot to skip that cleaning, yet the very reason it stops is the clutter on the floor. The Saros Z70 flips that order. The robot **picks up the sock itself** and then starts cleaning. This post pulls together Roborock's official material and independent measurements from Vacuum Wars, The Verge, and other reviewers.
 
 ```blog
 type: image
@@ -32,7 +38,9 @@ url: https://us.roborock.com/pages/roborock-saros-z70
 
 ## What is this robot vacuum?
 
-The Roborock Saros Z70 is a robot vacuum with a folding five-axis robotic arm called OmniGrip. Roborock says it is the first mass-produced robot vacuum with a robotic arm (official product page, checked 2026-11-16). The arm stays folded inside the body, and when it spots an object on the floor, it unfolds, picks it up, puts it down in a place you set in the app, and then keeps cleaning. The arm has its own camera, an LED, and precision sensors, and a weight sensor stops it from lifting anything over 300 g. The arm is off by default and must be switched on in the app (official product page, checked 2026-11-16).
+The Saros Z70 is a robot vacuum with a folding five-axis robotic arm called **OmniGrip**. Roborock says it is the first mass-produced robot vacuum with a robotic arm (official product page, checked 2026-11-16). The arm stays folded inside the body, and when it spots an object on the floor, it unfolds, picks it up, puts it down in a place you set in the app, and then keeps cleaning.
+
+The arm has its own camera, an LED, and precision sensors, and it **will not lift anything over 300 g**. The arm is off by default and must be switched on in the app (official product page, checked 2026-11-16).
 
 | Item | Details |
 |---|---|
@@ -44,11 +52,9 @@ The Roborock Saros Z70 is a robot vacuum with a folding five-axis robotic arm ca
 | Dustbin | 180 ml (measured by Vacuum Wars, the smallest it had tested) |
 | Price · Availability | US $999.99 (checked 2026-11-04, list price $2,599.99) · Launched in Korea at around ₩2,000,000; ₩1,090,000 in a Gmarket one-day deal (2026-11-03) |
 
-## What the arm does, and what it cannot do
+## What changes when a robot vacuum has an arm?
 
-The arm automatically recognizes three kinds of objects: clumps (tissues, crumpled paper), fabrics (socks, small towels), and shoes (slides, sandals), all under the 300 g limit. More objects will be added through software updates, but when and what has not been decided (per the official product page, checked 2026-11-16).
-
-Independent testing lowers expectations. In Vacuum Wars' testing the arm succeeded about half the time, and in The Verge's hands-on use it picked up socks about eight times out of ten but almost always ignored shoes (The Verge review, 2025-05-20). It cannot pick things up on carpet, and the arm will not unfold at all if something sits within 45 cm above it. In dim light it has misidentified objects. Driving the arm manually from the app, on the other hand, lets you grab what you want, and testers say that manual control works well (hands-on roundup, checked 2026-11-04).
+One thing changes: **tidying becomes the robot's job too**. The arm automatically recognizes three kinds of objects: clumps (tissues, crumpled paper), fabrics (socks, small towels), and shoes (slides, sandals), all under the 300 g limit. More objects will be added through software updates, but when and what has not been decided (per the official product page, checked 2026-11-16). Driving the arm manually from the app lets you grab what you want, and testers say that manual control works well (hands-on roundup, checked 2026-11-04).
 
 ```blog
 type: image
@@ -60,7 +66,9 @@ url: https://us.roborock.com/pages/roborock-saros-z70
 
 ## How good is it as a vacuum?
 
-Even without the arm, the Z70 is Roborock's flagship. The 22,000 Pa suction figure comes with the manufacturer's test conditions, but The Verge said it "demolished" its oatmeal and cereal tests. Vacuum Wars recorded the second-best dried-stain removal score it had ever measured. It avoided 22 of 24 obstacles. Deep carpet cleaning and pet-hair pickup on carpet, however, drew below-average marks. The dustbin shrank to make room for the arm. Vacuum Wars measured the onboard bin at 180 ml, the smallest it had tested.
+Even without the arm, the Z70 is Roborock's flagship. The **22,000 Pa** suction figure comes with the manufacturer's test conditions, but The Verge said it "demolished" its oatmeal and cereal tests. Vacuum Wars recorded the second-best dried-stain removal score it had ever measured, and it avoided 22 of 24 obstacles.
+
+Deep carpet cleaning and pet-hair pickup on carpet, however, drew below-average marks. The dustbin shrank to make room for the arm. Vacuum Wars measured the onboard bin at **180 ml**, the smallest it had tested.
 
 ```blog
 type: image
@@ -70,25 +78,23 @@ caption: (Illustration) The 7.98 cm slim body slides under a sofa. The dock hand
 url: https://us.roborock.com/pages/roborock-saros-z70
 ```
 
-## Drawbacks and things to check
+## Is it worth buying if the arm works only half the time?
 
-First, how finished the arm is. In a roundup of 12 expert reviews, 11 called the arm unreliable or limited, and at least six recommended the armless Saros 10R (roundup of 12 expert reviews, checked 2026-10-26).
+The arm is worth something, but **buying for the arm alone** is a mistake. Independent testing lowers expectations. In Vacuum Wars' testing the arm succeeded **about half the time**, and in The Verge's hands-on use it picked up socks about eight times out of ten but almost always ignored shoes (The Verge review, 2025-05-20). It cannot pick things up on carpet, and the arm will not unfold at all if something sits within 45 cm above it. In dim light it has misidentified objects. In a roundup of 12 expert reviews, 11 called the arm unreliable or limited, and at least six recommended the armless Saros 10R (roundup of 12 expert reviews, checked 2026-10-26).
 
-Second, the price moves. The US launch price was $2,599, and the US store price in November 2026 is $999.99 — down more than 60% in a year and a half. Before buying, check how long the current price will last.
-
-Third, the armless alternatives. If you want the same cleaning performance, the Saros 10R is the comparison; if you need a robot that climbs thresholds, the Dreame X50 Ultra is.
-
-Fourth, the cameras and smart-home conditions. It has two cameras (front and arm). Remote viewing and obstacle photos are off by default, and according to Roborock, remote viewing is live only and not recorded.
-
-| Model | Saros Z70 | Saros 10R | Dreame X50 Ultra |
-|---|---|---|---|
-| Robotic arm | OmniGrip five-axis arm | None | None |
-| Main strength | Tidies objects, then cleans | Same flagship line without the arm | ProLeap threshold climbing |
-| Price (checked 2026-11) | $999.99 (US store) | List $1,599.99; street about $885–$1,100 (2026) | $949.99 (2026) |
+The cameras are another thing to check. It has two cameras (front and arm). Remote viewing and obstacle photos are off by default, and according to Roborock, remote viewing is **live only** and not recorded.
 
 ## Price and availability in Korea
 
-The US price fell from $2,599 at launch to $999.99 as of November 4, 2026 (Roborock US store and Amazon, checked 2026-11-04). At 1 USD = 1,336.78 KRW (as of 2026-11-15), that is about ₩1,340,000 — but that is a US price without shipping or customs, so do not compare it directly. In Korea it launched on May 26, 2025 at around ₩2,000,000 (per Hankyung reporting), and a Gmarket one-day deal on November 3, 2026 sold it for ₩1,090,000. List price and street price differ widely, so check official Korean sellers and marketplaces together before buying. Local after-sales terms must be confirmed at the official Korean store before checkout (unconfirmed).
+The US price fell from $2,599 at launch to **$999.99** as of November 4, 2026 (Roborock US store and Amazon, checked 2026-11-04). At 1 USD = 1,336.78 KRW (as of 2026-11-15), that is about ₩1,340,000, but that is a US price without shipping or customs, so do not compare it directly.
+
+In Korea it launched on May 26, 2025 at around ₩2,000,000 (per Hankyung reporting), and a Gmarket one-day deal on November 3, 2026 sold it for **₩1,090,000**. List price and street price differ widely, so check official Korean sellers and marketplaces together before buying. Local after-sales terms must be confirmed at the official Korean store before checkout (unconfirmed).
+
+| Model | Key figure | Pick it when |
+|---|---|---|
+| Saros Z70 | OmniGrip arm, $999.99 | You want the robot to tidy small things too |
+| Saros 10R | No arm, street about $885–$1,100 | You want the same cleaning for less, without the arm |
+| Dreame X50 Ultra | ProLeap threshold climbing, $949.99 | Thresholds matter most in your home |
 
 ```blog
 type: link_box
@@ -98,21 +104,23 @@ url: https://us.roborock.com/pages/roborock-saros-z70
 
 ## My verdict
 
-The Z70 is less a robot vacuum than a tidying robot. Even if the arm works only half the time, watching it pick up a couple of socks and keep cleaning is an experience nothing else offers. It suits only people for whom the extra cost of the arm is worth it, though. It genuinely helps in homes where small things often land on the floor, in homes with wide wooden floors, and for people who find it hard to pick things up. If you have lots of carpet, or cleaning alone is the goal, compare the Saros 10R or the Dreame X50 Ultra first, and judge the Z70 by its current street price.
+Put in one line, the Z70 is a **"tidying robot"**. That fits better than the name robot vacuum. Watching it pick up a couple of socks and keep cleaning is an experience nothing else offers. It suits only people for whom the extra cost of the arm is worth it, though. Check three things before buying.
+
+1. **Can you live with the arm working about half the time?** — Socks about eight times out of ten, shoes almost never.
+2. **Is your home mostly wooden floors?** — It cannot pick things up on carpet, and deep carpet cleaning is below average.
+3. **Are you judging it by today's street price?** — US $999.99, ₩1,090,000 in a Korean deal, far below list price.
+
+If small things often land on the floors of a **mostly wooden-floor home**, the time the arm saves is worth the price. If you have lots of carpet, or cleaning alone is the goal, compare the Saros 10R first.
 
 ## You may also like
 
-[A mouse whose ball moves under your thumb — Keychron T1 HE, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/15/a-mouse-whose-ball-moves-under-your-thumb-keychron-t1-he-what-to-check-before-buying/)
+[Fujifilm X half: Half-Frame Digital Camera, $850 of Retro Fun](https://aitechnotesen.wordpress.com/2026/11/17/fujifilm-x-half-halfframe-digital-camera-850-of-retro-fun/)
 
-A trackball mouse whose ball position adjusts to your thumb, and what to check before buying.
+A half-frame digital camera full of retro fun, and what its price and buying conditions look like.
 
-[Straight out of your pocket, straight into a movie — DJI Osmo Pocket 3, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/14/straight-out-of-your-pocket-straight-into-a-movie-dji-osmo-pocket-3-what-to-check-before-buying/)
+[Soundcore Sleep A30: Sleep Earbuds That Cover Snoring, 3 Things to Check](https://aitechnotesen.wordpress.com/2026/11/17/soundcore-sleep-a30-sleep-earbuds-that-cover-snoring-3-things-to-check/)
 
-How a pocket-sized camera shoots like a movie camera, and what to check before buying.
-
-[A laptop you repair by swapping parts — Framework Laptop 13, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/14/a-laptop-you-repair-by-swapping-parts-framework-laptop-13-what-to-check-before-buying/)
-
-A laptop you keep using by swapping parts instead of replacing it, and the conditions for buying one in Korea.
+Sleep earbuds that cover snoring, and three things to check before buying.
 
 ## Sources
 
