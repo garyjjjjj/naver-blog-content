@@ -2,7 +2,7 @@
 post_id: "2026-11-16-002"
 muse_account: "muse-01"
 language: "ko"
-revision: 4
+revision: 5
 status: "ready"
 title: "에고 라이트｜AI가 내 화면 안 뺏고 일하는 무료 브라우저, 6가지 장점 정리"
 category: "AI 뉴스"
