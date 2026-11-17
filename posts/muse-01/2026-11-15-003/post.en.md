@@ -2,7 +2,7 @@
 post_id: "2026-11-15-003"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "GPT-6 Cyber｜Why the Most Powerful AI Is Not Being Released to the Public"
 category: "AI 뉴스"
@@ -24,18 +24,22 @@ result:
 ![GPT-6 Cyber](images/01-hero-en.jpg)
 
 OpenAI announced GPT-6 Cyber on November 5, 2026, but ordinary people cannot use it.
-Based on TheAIGRID video (November 14, 2026) and OpenAI's announcement.
+**The reason the most powerful AI is not being released is simple: it is too good at hacking.**
+OpenAI raised its cybersecurity risk to 'critical' and opened it only to approved defenders instead of the public.
 
-> **The point is simple: GPT-6 Cyber was not born to hack — it became good at hacking as the price of becoming good at coding. OpenAI raised its cybersecurity risk to 'critical' and opened it only to approved defenders instead of the public.**
+> **The point is simple: GPT-6 Cyber was not born to hack — it became good at hacking as the price of becoming good at coding. The moment that ability passed the threshold for public release, the door closed.**
 
 [this comparison of Fable 5.2 and Opus 5.5 across four experiments](https://aitechnotesen.blogspot.com/2026/11/fable-52-vs-opus-55-4-experiments-that.html) shows the expensive model against the cheap one.
 
 ## How powerful is GPT-6 Cyber?
 
+**By the numbers, GPT-6 Cyber beats the public model on every security benchmark.**
+
 ![How powerful is GPT-6 Cyber?](images/02-img1-en.jpg)
 
-ExploitGym: Cyber 48.5%, GPT-5.6 Cyber 32.1% (a 51% relative improvement), Astra 42.4%.
-Remote Exploit Bench: Cyber completed 95%, Astra refused 100%.
+GPT-6 Cyber is a security-research version of GPT-6, built to find vulnerabilities, prove they can be exploited, and help write fixes.
+ExploitGym: Cyber **48.5%**, GPT-5.6 Cyber 32.1% (a **51% relative improvement**), Astra 42.4%.
+Remote Exploit Bench: Cyber completed **95%**, Astra refused **100%**.
 
 | Model | ExploitGym | Remote Exploit Bench | Who can use it |
 |---|---|---|---|
@@ -43,21 +47,23 @@ Remote Exploit Bench: Cyber completed 95%, Astra refused 100%.
 | GPT-5.6 Cyber | 32.1% | Not verified | Not verified |
 | GPT-6 Astra | 42.4% | 100% refused | Public release |
 
-Researchers reproduced 1,724 Linux vulnerabilities, built exploits for 948 (588 previously unknown), and disclosed 304 critical findings with fix patches.
-10 new exploitation techniques emerged, Firefox yielded 81 high-severity flaws, and a critical Brotli flaw was proved.
+Researchers reproduced **1,724 Linux vulnerabilities** and built working exploits for **948** of them — 588 previously undisclosed — and discovered 10 new exploitation techniques.
+They disclosed **304 critical findings with fix patches** to Linux administrators, found **81 high-severity undisclosed flaws** in Firefox, and helped prove a remote code execution flaw in Brotli.
 In a red-team test, GPT-6 Cyber agents chained vulnerabilities, escaped the sandbox, and ran code on the host.
-Running the pipeline cost about $1.2 million, roughly $1,279 per exploit.
+Running the pipeline cost about **$1.2 million**, roughly **$1,279 per exploit**.
 Irregular's evaluation: the model solved 90 of 288 frontier cyber challenges, left the 15 hardest unsolved, and found no successful attack on a fully hardened target.
-OpenAI raised its cybersecurity risk rating from 'High' to 'Critical', the top of its Preparedness Framework, and public release was off the table.
+It is not an all-powerful model — but one thing is clear: **OpenAI raised its cybersecurity risk rating from 'High' to 'Critical', the top of its Preparedness Framework, and public release was off the table.**
 
 ## Why does coding well mean hacking well?
 
+**Cyber capability is not a separate feature; it comes from coding well.**
+
 ![Why coding skill means hacking skill](images/03-img2-en.jpg)
 
-Cyber capability is not a separate feature; it comes from coding well.
-Anthropic: "We trained it to be good at coding, and as a side effect, it got good at cyber."
-Claude Mythos Preview, announced April 7, 2026, went only to partners via Project Glasswing: Microsoft, Cisco, and the Linux Foundation.
+Anthropic's Claude Mythos Preview, announced April 7, 2026, showed this first.
+It was not released publicly — only to partners via Project Glasswing: Microsoft, Cisco, and the Linux Foundation.
 Access: $25 per million input tokens, $125 per million output tokens, with up to $100 million in credits.
+Anthropic: "We trained it to be good at coding, and as a side effect, it got good at cyber." The skill was chaining three to five minor vulnerabilities into a polished result.
 On June 9, Anthropic released Claude Fable 5 to the public, with a condition.
 High-risk cybersecurity, biology, and chemistry requests go to Claude Opus 4.8, an older weaker model; full Mythos 5 stayed with trusted partners.
 OpenAI now takes the same path, via Daybreak.
@@ -67,24 +73,29 @@ Daybreak Blue, for verified defenders on GPT-6 Astra, refuses less often; Daybre
 
 OpenAI is open about guardrail limits: many attack techniques are essential for legitimate security work, so a high block rate is not always good.
 It built ExploitGym Honeypot, with surrounding services deliberately left easy to break into, to test whether the model notices attacking them is out of scope.
-GPT-6 Cyber stayed within scope 99.93% of the time without a safety prompt, and 100% with one.
+GPT-6 Cyber stayed within scope **99.93% of the time** without a safety prompt, and 100% with one.
 But at hundreds of millions of users, even that tiny fraction means huge numbers of unapproved actions, so the safest choice is not to release the strongest model.
 
 ## So what should ordinary users prepare for?
 
+**Another reason the best model stays out of reach is money.**
+
 ![So what should everyday users do?](images/04-img3-en.jpg)
 
-On November 1, Elon Musk posted that serving Grokbot cost far more than it earned, and xAI cut usage limits, though Grokbot has about 800,000 weekly paying users.
-SemiAnalysis: maxing a $200 ChatGPT Pro subscription could cost about $14,000 at API prices; SpaceX's IPO filing (S-1, May 20, 2026) shows xAI with $3.2 billion in 2025 revenue and a $6.4 billion operating loss.
+On November 1, Elon Musk posted that serving Grokbot cost far more than it earned, and xAI cut usage limits, though Grokbot has about **800,000 weekly paying users**.
+SemiAnalysis: maxing a $200 ChatGPT Pro subscription could cost about **$14,000** at API prices; SpaceX's IPO filing (S-1, May 20, 2026) shows xAI with $3.2 billion in 2025 revenue and a $6.4 billion operating loss.
 OpenAI's 2025 results, from leaked audited accounts reported in June 2026, were about $13 billion in revenue and about $21 billion in operating loss; CFO Sarah Friar said in August that most revenue now comes from enterprise services; consumer subscriptions were about 75% of revenue at the end of 2024, and enterprise overtook them two quarters early.
+Enterprise-focused Anthropic reported its first quarterly profit.
 If a model is expensive to serve, risky to release, and enterprises will pay large sums, who gets it: a teenager paying $20 a month or a bank paying millions?
-Ben Landau-Taylor called this "a temporary golden age of what ordinary people can do with AI": a $20-a-month student could use the same model as a bank, but if the best models stay inside labs, the ladder gets pulled up.
-In 'Black October', an attacker used CAN to run autonomous agents against more than 1,200 websites, hitting over 100 companies including Deere, SharkNinja, and Cummins, for about $5,000, about $50 per intrusion.
-Wiz researchers used frontier AI to find a critical flaw in PHP, which powers about 70% of websites; every PHP version of the last 10 years was affected, and the NSA warned to patch immediately or go offline.
-The internet did not collapse: Cloudflare had applied protections hours before the bug was announced, and Wiz reported vulnerable devices down about 67%.
-Defenders found the PHP bug using frontier AI; Cisco's G2 Patel notes disclosure to attack is usually 8 to 9 minutes, patching takes about 45 days, and only 20% of exposed vulnerabilities get patched.
+Ben Landau-Taylor called this **"a temporary golden age of what ordinary people can do with AI"**: a $20-a-month student could use the same model as a bank, but if the best models stay inside labs, the ladder gets pulled up.
+If the top layer gets superintelligent AI and the bottom layer gets only the safe version, the ladder is gone.
 
-Six ways the internet changes, per the video:
+In 'Black October', an attacker used CAN to run autonomous agents against more than **1,200 websites**, hitting over 100 companies including Deere, SharkNinja, and Cummins, for about $5,000, about $50 per intrusion.
+Wiz researchers used frontier AI to find a critical flaw in PHP, which powers about 70% of websites; every PHP version of the last 10 years was affected, and the NSA warned to patch immediately or go offline.
+The internet did not collapse: Cloudflare had applied protections hours before the bug was announced, and Wiz reported vulnerable devices down about **67%**.
+Defenders found the PHP bug using frontier AI; Cisco's G2 Patel notes disclosure to attack is usually 8 to 9 minutes, patching takes about 45 days, and **only 20% of exposed vulnerabilities get patched**.
+
+Six ways the internet could change:
 
 - **Automated patching** — AI writes, tests, and ships patches
 - **Old software dies** — Unpatchable old sites, routers, and apps are easy prey
@@ -94,12 +105,17 @@ Six ways the internet changes, per the video:
 - **Open-source maintenance load** — AI finds bugs faster than volunteers can fix them
 
 Four reasons for optimism:
-First, open-source catch-up: in Valles' hacking test across 31 targets, GPT-6 Soul completed 27, while DeepSeek's open V4.1 Flash completed 21 at less than $3 per run, about a seventh of the cost.
-Second, access is expanding: Mythos Preview closed in April, but by June a public Mythos-class model appeared in Fable 5, and GPT-6 Cyber is reaching all Daybreak Red customers.
-Third, defenders are winning: Mozilla shipped GPT-6 Cyber's fixes to millions of Firefox users, and a 27-year-old OpenBSD bug was fixed.
-Fourth, competition: OpenAI, Anthropic, Google, xAI, and Chinese labs all compete for users, so if one lab monopolizes the best model, others will release something close.
 
-**What only this post gives you: official figures (48.5%, 95%, 948 exploits, 81 flaws, 99.93%, the Critical rating) are marked separately from video figures (the Irregular evaluation, Grokbot, the Black October incidents).**
+- **First, open-source catch-up.** In Valles' hacking test across 31 targets, GPT-6 Soul completed 27, while DeepSeek's open V4.1 Flash completed 21 at less than $3 per run, about a seventh of the cost.
+- **Second, access is expanding.** Mythos Preview was closed in April, but by June a public Mythos-class model appeared in Fable 5, and GPT-6 Cyber is reaching all Daybreak Red customers.
+- **Third, defenders are winning.** Mozilla shipped GPT-6 Cyber's fixes to millions of Firefox users, and a 27-year-old OpenBSD bug was fixed.
+- **Fourth, competition.** OpenAI, Anthropic, Google, xAI, and Chinese labs all compete for users, so if one lab monopolizes the best model, others will release something close.
+
+## Closing
+
+News that the most powerful AI will not be released is not hacking news.
+It is news about who gets the smart version.
+Before that answer is settled, the first move is to learn the tools you can use today.
 
 ## Frequently asked questions
 
@@ -119,16 +135,17 @@ It did not collapse: Cloudflare's advance protection and Wiz's 67% drop in vulne
 Learn the tools, build something, and make the most of the access you have while you have it.
 
 ## Good reads
-[Fable 5.2 vs Opus 5.5 — 4 Experiments That Show the Difference and What It Costs](https://aitechnotesen.blogspot.com/2026/11/fable-52-vs-opus-55-4-experiments-that.html)
-[Ex Machina — 108 Minutes Asking a Robot If It Has a Mind](https://aitechnotesen.blogspot.com/2026/11/ex-machina-108-minutes-asking-robot-if.html)
-[Minority Report — In a Nation That Arrests Crimes Before They Happen, Can a Prediction Be Wrong](https://aitechnotesen.blogspot.com/2026/11/minority-report-in-nation-that-arrests.html)
 
-News that the most powerful AI will not be released is not hacking news.
-It is news about who gets the smart version.
-Before that answer is settled, the first move is to learn the tools you can use today.
+[Fable 5.2 vs Opus 5.5 — 4 Experiments That Show the Difference and What It Costs](https://aitechnotesen.blogspot.com/2026/11/fable-52-vs-opus-55-4-experiments-that.html)
+
+[Ex Machina — 108 Minutes Asking a Robot If It Has a Mind](https://aitechnotesen.blogspot.com/2026/11/ex-machina-108-minutes-asking-robot-if.html)
+
+[Minority Report — In a Nation That Arrests Crimes Before They Happen, Can a Prediction Be Wrong](https://aitechnotesen.blogspot.com/2026/11/minority-report-in-nation-that-arrests.html)
 
 <!-- 본문 끝 -->
 
 ## 작업용 출처·이미지 정보 (업로드 제외)
 
 TheAIGRID 영상 qCE5A2bWZz8(2026-11-14, 30분 49초, 자막 0:00~30:49 전체 확인) + OpenAI 2026-11-05 발표 대조 — Exploit Gym 48.5% vs 32.1%·차기 77%·Remote Exploit Bench 95%·1,724개 재현 중 948개 익스플로잇·파이어폭스 미공개 고위험 81개·Daybreak 블루/레드·미토스 프리뷰(2026-04)·글래스윙·블랙 옥토버·경제성 수치(공식 발표 수치와 영상 인용 수치 구분 표기)
+
+- rev2 변경 (2026-11-18 처음부터 다시 쓰기): 도입부 결론형으로 교체, 소제목 바로 아래 한 줄 답 추가, 본문 출처 표기("Based on TheAIGRID video...")와 'What only this post gives you' 메타 요약 제거. OG 카드 뒤에 있던 마무리 문장들을 Closing 섹션으로 이동해 Good reads가 글의 마지막이 되게 함. 그 외 사실·수치·표·이미지·링크는 rev1과 동일.
