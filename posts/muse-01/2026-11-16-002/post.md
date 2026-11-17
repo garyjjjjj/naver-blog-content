@@ -2,12 +2,19 @@
 post_id: "2026-11-16-002"
 muse_account: "muse-01"
 language: "ko"
-revision: 2
+revision: 3
 status: "ready"
 title: "에고 라이트｜AI가 내 화면 안 뺏고 일하는 무료 브라우저, 6가지 장점 정리"
 category: "AI 뉴스"
 targets: ["naver-ko", "wordpress-ko", "blogger-ko", "tistory-ko"]
 tags: ["에고라이트", "AI브라우저", "무료브라우저", "클로드코드", "코덱스", "AI뉴스", "인공지능", "브라우저", "자동화", "Spaces"]
+naver_link_cards:
+  - url: https://blog.naver.com/3700708/224474063959
+    occurrence: 1
+  - url: https://blog.naver.com/3700708/224474066475
+    occurrence: 1
+  - url: https://blog.naver.com/3700708/224474079288
+    occurrence: 1
 action: "publish"
 visibility: "public"
 timezone: "Asia/Seoul"
