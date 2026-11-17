@@ -1,9 +1,9 @@
 ---
 post_id: "2026-11-16-202"
 muse_account: "muse-02"
-title: "A Power Station the Size of Your Palm That Charges a Laptop — Jackery Explorer 100D, What to Check Before Buying"
+title: "Jackery Explorer 100D: A Palm-Sized Cube That Charges a Laptop, 140W"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
@@ -14,9 +14,15 @@ targets: ["wordpress-en", "blogger-en"]
 cover_image: "images/01-hero.jpg"
 ---
 <!-- 본문 시작 -->
-A Power Station the Size of Your Palm That Charges a Laptop — Jackery Explorer 100D, What to Check Before Buying
+Jackery Explorer 100D: A Palm-Sized Cube That Charges a Laptop, 140W
 
-The seat by the cafe outlet is always a battleground. At the airport gate, laptop bags line up for a single socket. A power bank can save a phone but runs dry quickly in front of a laptop. The Jackery Explorer 100D targets that gap. It is a palm-sized cube that shrinks the body of a power station while keeping enough output to charge a laptop. It is the smallest power station Jackery has ever built, and sales began in Canada at the end of October 2026 (Jackery official Canada product page, checked 2026-11-16).
+> If fighting over the cafe outlet has worn you out, a palm-sized cube may be the answer.
+>
+> **96Wh with 140W output, $119 at Jackery's US store and from $99 at Walmart.**
+>
+> If you want it to charge a laptop too, check three things before buying.
+
+The seat by the cafe outlet is always a battleground. At the airport gate, laptop bags line up for a single socket. A power bank can save a phone but runs dry quickly in front of a laptop. The Jackery Explorer 100D targets that gap. It is a palm-sized cube that shrinks the body of a power station while keeping enough output to charge a laptop. This post pulls together Jackery's official material and write-ups from independent outlets such as Yanko Design and The Gadgeteer.
 
 ```blog
 type: image
@@ -32,7 +38,7 @@ url: https://ca.jackery.com/products/jackery-explorer-100d-portable-power-statio
 
 ## What is this product?
 
-The Explorer 100D is an ultra-compact portable power station from Jackery. It holds 96Wh (30,000mAh) in a lithium iron phosphate (LiFePO4) battery. It looks like a vintage transistor radio: a cream body, orange vents, and a small color display with three USB ports grouped on the front. It measures 11.9 × 8.3 × 8.6 cm and weighs 850 g (official product page, checked 2026-11-16). It is small enough to sit in your palm and slip into one corner of a bag.
+The Explorer 100D is a palm-sized power station that charges a laptop. It is the smallest power station Jackery has ever built, and sales began in Canada at the end of October 2026. It holds **96Wh (30,000mAh)** in a lithium iron phosphate (LiFePO4) battery. It looks like a vintage transistor radio: a cream body, orange vents, and a small color display with three USB ports grouped on the front. It measures 11.9 × 8.3 × 8.6 cm and weighs **850 g** (official product page, checked 2026-11-16). It is small enough to sit in your palm and slip into one corner of a bag.
 
 | Item | Details |
 |---|---|
@@ -44,11 +50,11 @@ The Explorer 100D is an ultra-compact portable power station from Jackery. It ho
 | Size · Weight | 11.9 × 8.3 × 8.6 cm · 850 g, handle and shoulder strap (separate) |
 | Price · Availability | US official price $119 (checked 2026-11-16) · Walmart $99 (from November 15) · Korea availability unconfirmed |
 
-## 140W in a palm-sized cube
+## Can it really charge a laptop?
 
-Output is the point of this cube. Each of the two USB-C ports can deliver up to 140W, and the USB-A port adds 18W. All three ports together reach up to 158W. The two USB-C ports cannot both deliver 140W at the same time, though. With a combined ceiling of 158W, charging a laptop at 140W while a phone is plugged in leaves the rest to share the remaining 18W. Even so, a laptop, a phone, and a pair of earbuds can charge at once (official product page, checked 2026-11-16).
+Yes, it can. Output is the point of this cube. Each of the two USB-C ports can deliver up to **140W**, and the USB-A port adds 18W. All three ports together reach up to 158W. The two USB-C ports cannot both deliver 140W at the same time, though. With a combined ceiling of 158W, charging a laptop at 140W while a phone is plugged in leaves the rest to share the remaining 18W. Even so, a laptop, a phone, and a pair of earbuds can charge at once (official product page, checked 2026-11-16).
 
-The charging standards are generous too. It supports USB PD 3.1, PPS, and AVS. Jackery's estimates say it can charge an iPhone 18 Pro to 50% in 18 minutes, an iPhone 17 or Galaxy S26 more than four times, and a 14-inch MacBook Pro about once (official product page, checked 2026-11-16). These are estimates measured under the manufacturer's test conditions, so real-world times may differ.
+The charging standards are generous too. It supports USB PD 3.1, PPS, and AVS. Jackery's estimates say it can charge an iPhone 18 Pro to 50% in 18 minutes. An iPhone 17 or Galaxy S26 can be charged **more than four times**, and a 14-inch MacBook Pro about once (official product page, checked 2026-11-16). These are estimates measured under the manufacturer's test conditions, so real-world times may differ.
 
 ```blog
 type: image
@@ -60,11 +66,11 @@ url: https://ca.jackery.com/products/jackery-explorer-100d-portable-power-statio
 
 ## 96Wh that can board a plane
 
-The number 96Wh is no accident. Batteries up to 100Wh are usually allowed in carry-on luggage without airline approval, and the 100D sits just below that line. Jackery's official page also describes it as under the typical 100Wh carry-on limit. Airline rules vary by carrier, so check before flying (official product page, checked 2026-11-16).
+The number 96Wh is no accident. Batteries up to 100Wh are usually allowed in carry-on luggage without airline approval, and the 100D sits just below that line. Jackery's official page also describes it as **under the typical 100Wh carry-on limit**. Airline rules vary by carrier, so check before flying (official product page, checked 2026-11-16).
 
-The TFT display on the front shows input and output power, battery level, remaining runtime, battery health, and temperature. There is one button. One press switches screens, and holding it for three seconds turns on Low-Power Charging Mode. Watches and earbuds draw so little current that some power banks stop charging them; this mode keeps a small current flowing (official product page FAQ, checked 2026-11-16).
+The TFT display on the front shows input and output power, battery level, remaining runtime, battery health, and temperature. There is one button. One press switches screens, and holding it for three seconds turns on **Low-Power Charging Mode**. Watches and earbuds draw so little current that some power banks stop charging them; this mode keeps a small current flowing (official product page FAQ, checked 2026-11-16).
 
-There are three ways to recharge the cube itself. A USB-C charger at up to 140W, a solar panel at up to 100W (0–80% in about 1.7 hours, manufacturer's estimate), or a car cigarette lighter socket at 12V or 24V. Solar and car charging need a USB-C to DC8020 adapter, sold separately. While charging the battery and powering other devices at the same time, input and output are both capped at 100W (official product page FAQ, checked 2026-11-16).
+There are three ways to recharge the cube itself. A USB-C charger at up to 140W, a solar panel at up to 100W (0–80% in about 1.7 hours, manufacturer's estimate), or a car cigarette lighter socket at 12V or 24V. Solar and car charging need a USB-C to DC8020 adapter, sold separately. While charging the battery and powering other devices at the same time, input and output are both **capped at 100W** (official product page FAQ, checked 2026-11-16).
 
 ```blog
 type: image
@@ -74,21 +80,29 @@ caption: (Illustration) At 96Wh, just under the 100Wh carry-on limit, it can fly
 url: https://ca.jackery.com/products/jackery-explorer-100d-portable-power-station?variant=53582994309301
 ```
 
-## Drawbacks and things to check
+## No wall outlet — is that OK?
 
-First, there is no wall outlet. Jackery removed the AC outlet and the inverter entirely. That is how it got so small, but plug-in appliances and devices cannot be used with it. It is for USB devices such as laptops, phones, and cameras only.
+It depends on who you are. First, there is no wall outlet. Jackery removed the AC outlet and the inverter entirely. That is how it got so small, but plug-in appliances and devices cannot be used with it. It is for **USB devices such as laptops, phones, and cameras** only.
 
-Second, only one port accepts input. Only the C1 port charges the cube itself. C2 is output-only. Plugging the cable into any port will not charge it, so check for C1 when recharging. The previous model, the Explorer 100 Plus, accepted input through either port, so this is a change (Yanko Design, 2026-11-02).
+Second, only one port accepts input. Only the **C1 port** charges the cube itself. C2 is output-only. Plugging the cable into any port will not charge it, so check for C1 when recharging. The previous model, the Explorer 100 Plus, accepted input through either port, so this is a change (Yanko Design, 2026-11-02).
 
-Third, the weight. At 850 g it is heavier than a power bank. If you only charge a phone, a regular power bank is lighter and cheaper. This product makes sense when a laptop comes along too.
+Third, the weight. At 850 g it is heavier than a power bank. If you only charge a phone, a regular power bank is lighter and cheaper. This product makes sense **when a laptop comes along too**.
 
-Fourth, there are no long-term hands-on reviews yet. The claim of 80% capacity after 3,000 cycles and up to 8 years of use is the manufacturer's. It launched at the end of October 2026, so independent long-term verification does not exist yet.
+Fourth, there are no long-term hands-on reviews yet. The claim of 80% capacity after 3,000 cycles and up to 8 years of use is the manufacturer's. It launched at the end of October 2026, so **independent long-term verification does not exist yet**.
 
 ## Price and availability in Korea
 
-The US Jackery official store price is $119. At 1 USD = 1,336.83 KRW (as of 2026-11-14), that is about ₩160,000, but shipping and customs are extra. Walmart began selling it for $99 (about ₩130,000) on November 15, and Costco offers a two-pack for $179.99 (checked 2026-11-16). In Canada it is C$179 (C$159 at launch), in Europe €129 (€99 on sale), and in Japan it launched on November 5 for ¥17,900 (per official and press sources, checked 2026-11-16).
+The US Jackery official store price is **$119**. At 1 USD = 1,336.83 KRW (as of 2026-11-14), that is about ₩160,000, but shipping and customs are extra. Walmart began selling it for $99 on November 15. That is about ₩130,000. Costco offers a two-pack for $179.99 (checked 2026-11-16).
 
-Whether it is officially sold in Korea, and at what price, was unconfirmed as of 2026-11-16. Jackery products are sold in Korea, but check directly whether this model has reached Korean stores before paying. For overseas orders, factor in shipping, customs, and local after-sales service.
+In Canada it sells for C$179, and in Europe for €129. Launch pricing was C$159 in Canada and €99 in Europe. In Japan it launched on November 5 for ¥17,900 (per official and press sources, checked 2026-11-16).
+
+Whether it is officially sold in Korea, and at what price, was unconfirmed as of 2026-11-16. Jackery products are sold in Korea, but check directly whether this model has reached Korean stores before paying. For overseas orders, factor in **shipping, customs, and local after-sales service**.
+
+| Situation | Key value | When to pick it |
+|---|---|---|
+| Charging a laptop too | 140W · 96Wh · 850 g | When you want one more laptop charge at a cafe, an airport, or on a plane |
+| Phone and earbuds only | 18W low-power mode | When a lighter power bank is cheaper and easier |
+| Plug-in devices | No AC outlet | Not with this one — pick a model that has an outlet |
 
 ```blog
 type: link_box
@@ -98,21 +112,27 @@ url: https://ca.jackery.com/products/jackery-explorer-100d-portable-power-statio
 
 ## My verdict
 
-The Explorer 100D suits people who carry a laptop through cafes, airports, and campsites. Being able to run a laptop once more where there is no outlet is the reason to buy it. Fitting 96Wh just under the carry-on limit is a practical touch for travelers. It is not for people who only charge a phone, who need to run plug-in devices, or who want the lightest possible power bank. If you buy one, first check that charging uses the C1 port, accept that there is no AC outlet, and confirm whether it is sold in Korea.
+The Explorer 100D suits people who carry a laptop through cafes, airports, and campsites. Being able to run a laptop once more where there is no outlet is the reason to buy it. Fitting **96Wh just under the carry-on limit** is a practical touch for travelers. It is not for people who only charge a phone, who need to run plug-in devices, or who want the lightest possible power bank. If you buy one, check three things first.
+
+1. **Charging uses the C1 port.** Input goes through C1 only.
+2. **You can live without an AC outlet.** Plug-in devices will not work.
+3. **You checked whether it is sold in Korea.** As of 2026-11-16, official Korean sales were unconfirmed.
+
+For a traveler who packs a laptop too, a palm-sized 96Wh fills the gap where there is no outlet.
 
 ## You may also like
 
-[A mouse whose ball moves under your thumb — Keychron T1 HE, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/15/a-mouse-whose-ball-moves-under-your-thumb-keychron-t1-he-what-to-check-before-buying/)
+[Fujifilm X half: Half-Frame Digital Camera, $850 of Retro Fun](https://aitechnotesen.wordpress.com/2026/11/17/fujifilm-x-half-halfframe-digital-camera-850-of-retro-fun/)
 
-A trackball mouse for narrow desks that barely moves the wrist, and what to check before buying.
+A half-frame-style digital camera, with its price and buying conditions laid out.
 
-[Straight out of your pocket, straight into a movie — DJI Osmo Pocket 3, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/14/straight-out-of-your-pocket-straight-into-a-movie-dji-osmo-pocket-3-what-to-check-before-buying/)
+[Soundcore Sleep A30: Sleep Earbuds That Cover Snoring, 3 Things to Check](https://aitechnotesen.wordpress.com/2026/11/17/soundcore-sleep-a30-sleep-earbuds-that-cover-snoring-3-things-to-check/)
 
-How a pocket-sized camera shoots like a movie camera, and what to check before buying.
+Sleep earbuds that cover snoring, and what to check before buying them.
 
-[A laptop you repair by swapping parts — Framework Laptop 13, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/14/a-laptop-you-repair-by-swapping-parts-framework-laptop-13-what-to-check-before-buying/)
+[A robot vacuum that picks up your socks — Roborock Saros Z70, what to check before buying](https://aitechnotesen.wordpress.com/2026/11/16/a-robot-vacuum-that-picks-up-your-socks-roborock-saros-z70-what-to-check-before-buying/)
 
-A laptop you keep using by swapping parts instead of replacing it, and the conditions for buying one in Korea.
+A robot vacuum that picks up socks before it cleans, and the conditions worth checking before buying.
 
 ## Sources
 
