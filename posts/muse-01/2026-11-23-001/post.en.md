@@ -2,7 +2,7 @@
 post_id: "2026-11-23-001"
 muse_account: "muse-01"
 language: "en"
-revision: 1
+revision: 2
 status: "ready"
 title: "OpenAI Director Warns｜AI Takeover Risk in 6 to 12 Months"
 category: "AI 뉴스"
