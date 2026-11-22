@@ -57,7 +57,7 @@ The lecture opened with three years. Christiano began his first lecture with the
 ```blog
 type: text
 runs:
-  - text: ""For most people in this room, the most likely reason they will die is because of an AI accident." Paul Christiano, opening lecture of the Hinton Lectures, November 2026."
+  - text: "“For most people in this room, the most likely reason they will die is because of an AI accident.” Paul Christiano, opening lecture of the Hinton Lectures, November 2026."
     style: {bold: true, background: "#FFF3CD"}
 ```
 
