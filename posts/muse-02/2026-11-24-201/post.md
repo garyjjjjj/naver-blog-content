@@ -1,8 +1,9 @@
+---
 post_id: "2026-11-24-201"
 muse_account: "muse-02"
 title: "어메이즈핏 밸런스 2｜219달러 운동 시계, XT 대신 살까"
 language: "ko"
-revision: 1
+revision: 2
 status: "ready"
 action: "publish"
 visibility: "public"
